@@ -1,0 +1,2725 @@
+---- Opened the serial port COM7 ----
+Tiempo configuracion: 8860
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+> C: ESP Mail Client v3.4.19
+> C: Reading time from NTP server..
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+< S: 250 2.1.5 OK jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199532 jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection jb13-20020a170903258d00b001ec4ed47ddesm12371131plb.86 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 23912
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 53
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+< S: 250 2.1.5 OK d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199561 d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection d9-20020a170902cec900b001e20be11688sm12261369plg.229 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 13186
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+< S: 250 2.1.5 OK kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199574 kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection kn14-20020a170903078e00b001e27557050dsm12280966plb.178 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 3004
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+< S: 250 2.1.5 OK i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199595 i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection i18-20020a170902c95200b001ecbc8137bbsm12247220pla.131 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 13095
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+< S: 250 2.1.5 OK o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199608 o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection o7-20020a170902d4c700b001ec41272fc3sm12248290plg.306 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 3205
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+Connection error, Status Code: 0, Error Code: 0, Reason: 
+Tiempo controlador: 10576
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+< S: 250 2.1.5 OK kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199648 kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection kt25-20020a056a004bb900b006ea7d877191sm11528303pfb.2 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 3928
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+< S: 250 2.1.5 OK d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199671 d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection d10-20020a170902ceca00b001ec652d50c9sm12237741plg.233 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 13338
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+< S: 220 smtp.gmail.com ESMTP q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+
+> C: send SMTP command, EHLO
+< S: 250-smtp.gmail.com at your service, [190.192.196.150]
+< S: 250-SIZE 35882577
+< S: 250-8BITMIME
+< S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+< S: 250-ENHANCEDSTATUSCODES
+< S: 250-PIPELINING
+< S: 250-CHUNKING
+< S: 250 SMTPUTF8
+> C: send SMTP command, AUTH PLAIN
+> C: noreply.faders@gmail.com
+> C: ****************
+< S: 235 2.7.0 Accepted
+
+> C: send Email
+
+> C: send message header
+< S: 250 2.1.0 OK q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+< S: 250 2.1.5 OK q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+
+> C: send message body
+< S: 354  Go ahead q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+
+> C: finishing the message sending
+< S: 250 2.0.0 OK  1715199684 q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+
+> C: terminate the SMTP session
+< S: 221 2.0.0 closing connection q9-20020a17090311c900b001e944fc9248sm12209910plh.194 - gsmtp
+
+> C: message sent successfully
+Tiempo controlador: 2903
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+
+> C: SMTP server connected, wait for greeting...
+Connection error, Status Code: 0, Error Code: 0, Reason: 
+Tiempo controlador: 11290
+> C: ESP Mail Client v3.4.19
+> C: connecting to SMTP server
+> C: Host > smtp.gmail.com
+> C: Port > 465
+! E: unable to connect to server
+Connection error, Status Code: 0, Error Code: -100, Reason: unable to connect to server
+Tiempo controlador: 68
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 51
+Tiempo controlador: 52
+---- Closed the serial port COM7 ----

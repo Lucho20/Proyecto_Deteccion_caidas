@@ -1,0 +1,3212 @@
+Comienza Calibracion....
+Calibracion Finalizada
+Tiempo total: 4001
+Offset AcX = 2038.57 | Offset AcY = 3517.88 | Offset AcZ = 485.91
+Offset GiX = -145.11 | Offset GiY = -92.10 | Offset GiZ = 11.07
+Tiempo configuracion: 0
+Comienza a tomar datos.....
+AcX = 0.01 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.26 | GiY = 0.05 | GiZ = 0.24 | Tiempo: 1
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.17 | GiY = -0.49 | GiZ = -0.58 | Tiempo: 2
+ 
+AcX = 0.02 | AcY = -0.00 | AcZ = 0.01 | GiX = 0.12 | GiY = -0.15 | GiZ = 0.82 | Tiempo: 3
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.28 | GiY = -0.41 | GiZ = -0.21 | Tiempo: 4
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.35 | GiY = -0.56 | GiZ = 0.49 | Tiempo: 5
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.40 | GiY = -0.49 | GiZ = -0.14 | Tiempo: 6
+ 
+AcX = 0.01 | AcY = -0.01 | AcZ = 0.00 | GiX = 0.54 | GiY = -0.47 | GiZ = 0.37 | Tiempo: 7
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.00 | GiX = 0.63 | GiY = -0.03 | GiZ = 0.55 | Tiempo: 8
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.84 | GiY = 0.14 | GiZ = 0.95 | Tiempo: 9
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.00 | GiX = 0.52 | GiY = -0.53 | GiZ = -0.05 | Tiempo: 10
+ 
+AcX = 0.01 | AcY = -0.02 | AcZ = 0.00 | GiX = 0.60 | GiY = -0.30 | GiZ = 0.29 | Tiempo: 11
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.01 | GiX = 0.49 | GiY = -1.04 | GiZ = 0.35 | Tiempo: 12
+ 
+AcX = 0.03 | AcY = -0.02 | AcZ = -0.01 | GiX = 0.80 | GiY = -0.26 | GiZ = -1.44 | Tiempo: 13
+ 
+AcX = 0.02 | AcY = -0.02 | AcZ = -0.00 | GiX = 1.41 | GiY = 0.44 | GiZ = 1.25 | Tiempo: 14
+ 
+AcX = 0.01 | AcY = -0.01 | AcZ = -0.01 | GiX = 1.27 | GiY = -0.58 | GiZ = -0.89 | Tiempo: 15
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.00 | GiX = 1.33 | GiY = 0.25 | GiZ = -1.53 | Tiempo: 16
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.00 | GiX = 1.24 | GiY = -0.17 | GiZ = 1.21 | Tiempo: 17
+ 
+AcX = 0.02 | AcY = -0.02 | AcZ = -0.00 | GiX = 1.07 | GiY = 0.32 | GiZ = -0.76 | Tiempo: 18
+ 
+AcX = 0.01 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.80 | GiY = 0.05 | GiZ = 1.27 | Tiempo: 19
+ 
+AcX = 0.03 | AcY = -0.02 | AcZ = -0.01 | GiX = 0.51 | GiY = -0.03 | GiZ = -0.29 | Tiempo: 20
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.22 | GiY = -0.12 | GiZ = 0.09 | Tiempo: 21
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.60 | GiY = 0.55 | GiZ = 0.23 | Tiempo: 22
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.47 | GiY = 0.73 | GiZ = -0.08 | Tiempo: 23
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.22 | GiY = 0.26 | GiZ = -0.63 | Tiempo: 24
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.32 | GiY = -0.01 | GiZ = -0.05 | Tiempo: 25
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = 0.23 | GiY = 0.43 | GiZ = -0.75 | Tiempo: 26
+ 
+AcX = 0.01 | AcY = -0.00 | AcZ = -0.01 | GiX = 0.23 | GiY = 0.06 | GiZ = 1.04 | Tiempo: 27
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.01 | GiX = -0.09 | GiY = -1.22 | GiZ = -0.63 | Tiempo: 28
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = -0.02 | GiX = -0.06 | GiY = 0.87 | GiZ = -2.26 | Tiempo: 29
+ 
+AcX = 0.01 | AcY = -0.01 | AcZ = -0.02 | GiX = -0.70 | GiY = -1.82 | GiZ = -1.62 | Tiempo: 30
+ 
+AcX = 0.01 | AcY = -0.01 | AcZ = -0.02 | GiX = -0.70 | GiY = -2.11 | GiZ = -2.40 | Tiempo: 31
+ 
+AcX = 0.01 | AcY = -0.00 | AcZ = -0.03 | GiX = -0.99 | GiY = -2.26 | GiZ = -4.95 | Tiempo: 32
+ 
+AcX = 0.01 | AcY = -0.00 | AcZ = -0.03 | GiX = -1.25 | GiY = -2.04 | GiZ = -4.83 | Tiempo: 33
+ 
+AcX = -0.00 | AcY = -0.01 | AcZ = -0.03 | GiX = -1.14 | GiY = -2.11 | GiZ = -6.73 | Tiempo: 34
+ 
+AcX = -0.01 | AcY = 0.00 | AcZ = -0.04 | GiX = -1.65 | GiY = -2.65 | GiZ = -7.31 | Tiempo: 35
+ 
+AcX = -0.02 | AcY = 0.00 | AcZ = -0.04 | GiX = -1.59 | GiY = -1.94 | GiZ = -9.68 | Tiempo: 36
+ 
+AcX = -0.02 | AcY = 0.01 | AcZ = -0.02 | GiX = -2.18 | GiY = -3.01 | GiZ = -10.61 | Tiempo: 37
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = -0.02 | GiX = -3.30 | GiY = -3.75 | GiZ = -10.96 | Tiempo: 38
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = -0.01 | GiX = -5.82 | GiY = -6.33 | GiZ = -11.77 | Tiempo: 39
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.01 | GiX = -9.71 | GiY = -8.90 | GiZ = -14.12 | Tiempo: 40
+ 
+AcX = -0.07 | AcY = 0.01 | AcZ = 0.03 | GiX = -13.77 | GiY = -11.43 | GiZ = -18.41 | Tiempo: 41
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.06 | GiX = -16.20 | GiY = -8.14 | GiZ = -22.87 | Tiempo: 42
+ 
+AcX = -0.08 | AcY = 0.09 | AcZ = 0.07 | GiX = -13.28 | GiY = -4.30 | GiZ = -17.34 | Tiempo: 43
+ 
+AcX = -0.11 | AcY = 0.12 | AcZ = 0.07 | GiX = -9.56 | GiY = -2.01 | GiZ = -4.58 | Tiempo: 44
+ 
+AcX = -0.12 | AcY = 0.07 | AcZ = 0.07 | GiX = -4.59 | GiY = 0.14 | GiZ = 2.96 | Tiempo: 45
+ 
+AcX = -0.08 | AcY = 0.03 | AcZ = 0.22 | GiX = 0.38 | GiY = -8.65 | GiZ = 7.80 | Tiempo: 46
+ 
+AcX = -0.11 | AcY = 0.06 | AcZ = 0.01 | GiX = 5.45 | GiY = 11.27 | GiZ = 9.30 | Tiempo: 47
+ 
+AcX = -0.12 | AcY = 0.05 | AcZ = 0.10 | GiX = 7.04 | GiY = 3.57 | GiZ = 12.81 | Tiempo: 48
+ 
+AcX = -0.12 | AcY = 0.04 | AcZ = 0.08 | GiX = 10.26 | GiY = 10.11 | GiZ = 14.00 | Tiempo: 49
+ 
+AcX = -0.12 | AcY = 0.00 | AcZ = 0.08 | GiX = 13.45 | GiY = 14.70 | GiZ = 9.24 | Tiempo: 50
+ 
+AcX = -0.13 | AcY = -0.03 | AcZ = 0.10 | GiX = 14.92 | GiY = 13.38 | GiZ = 3.02 | Tiempo: 51
+ 
+AcX = -0.16 | AcY = 0.02 | AcZ = 0.05 | GiX = 18.11 | GiY = 17.67 | GiZ = -9.65 | Tiempo: 52
+ 
+AcX = -0.06 | AcY = 0.16 | AcZ = -0.05 | GiX = 22.20 | GiY = 28.03 | GiZ = -14.89 | Tiempo: 53
+ 
+AcX = 0.02 | AcY = 0.04 | AcZ = -0.05 | GiX = 25.74 | GiY = 25.04 | GiZ = -17.86 | Tiempo: 54
+ 
+AcX = 0.03 | AcY = 0.00 | AcZ = -0.05 | GiX = 24.28 | GiY = -0.75 | GiZ = -13.74 | Tiempo: 55
+ 
+AcX = -0.01 | AcY = 0.05 | AcZ = -0.05 | GiX = 14.49 | GiY = 10.31 | GiZ = 0.72 | Tiempo: 56
+ 
+AcX = -0.03 | AcY = 0.08 | AcZ = -0.03 | GiX = 7.22 | GiY = 8.69 | GiZ = 2.30 | Tiempo: 57
+ 
+AcX = -0.02 | AcY = -0.01 | AcZ = -0.05 | GiX = 4.18 | GiY = 4.05 | GiZ = 9.22 | Tiempo: 58
+ 
+AcX = -0.03 | AcY = 0.01 | AcZ = -0.08 | GiX = 3.22 | GiY = 1.27 | GiZ = 6.03 | Tiempo: 59
+ 
+AcX = -0.04 | AcY = 0.03 | AcZ = -0.06 | GiX = 3.88 | GiY = 2.18 | GiZ = 5.74 | Tiempo: 60
+ 
+AcX = -0.04 | AcY = -0.01 | AcZ = -0.07 | GiX = 2.61 | GiY = 2.23 | GiZ = 4.21 | Tiempo: 61
+ 
+AcX = -0.05 | AcY = 0.00 | AcZ = -0.08 | GiX = 0.80 | GiY = 1.27 | GiZ = 1.40 | Tiempo: 62
+ 
+AcX = -0.06 | AcY = 0.04 | AcZ = -0.08 | GiX = -2.18 | GiY = -2.33 | GiZ = 3.28 | Tiempo: 63
+ 
+AcX = -0.04 | AcY = 0.05 | AcZ = -0.07 | GiX = -3.46 | GiY = -4.85 | GiZ = 1.62 | Tiempo: 64
+ 
+AcX = -0.07 | AcY = 0.01 | AcZ = -0.07 | GiX = -2.64 | GiY = -1.62 | GiZ = 0.85 | Tiempo: 65
+ 
+AcX = -0.05 | AcY = -0.00 | AcZ = -0.07 | GiX = -3.56 | GiY = -0.23 | GiZ = -4.11 | Tiempo: 66
+ 
+AcX = -0.06 | AcY = 0.04 | AcZ = -0.08 | GiX = -3.27 | GiY = 0.49 | GiZ = -3.62 | Tiempo: 67
+ 
+AcX = -0.05 | AcY = 0.04 | AcZ = -0.08 | GiX = -2.65 | GiY = 0.14 | GiZ = -0.95 | Tiempo: 68
+ 
+AcX = -0.07 | AcY = 0.02 | AcZ = -0.05 | GiX = -3.05 | GiY = -0.44 | GiZ = -2.32 | Tiempo: 69
+ 
+AcX = -0.07 | AcY = 0.01 | AcZ = -0.04 | GiX = -4.01 | GiY = -0.14 | GiZ = -6.14 | Tiempo: 70
+ 
+AcX = -0.07 | AcY = 0.02 | AcZ = -0.02 | GiX = -4.78 | GiY = 0.46 | GiZ = -11.88 | Tiempo: 71
+ 
+AcX = -0.09 | AcY = 0.01 | AcZ = 0.00 | GiX = -5.34 | GiY = -0.84 | GiZ = -8.79 | Tiempo: 72
+ 
+AcX = -0.09 | AcY = 0.03 | AcZ = 0.02 | GiX = -7.54 | GiY = -4.15 | GiZ = -16.29 | Tiempo: 73
+ 
+AcX = -0.10 | AcY = 0.02 | AcZ = 0.04 | GiX = -9.80 | GiY = -6.00 | GiZ = -21.45 | Tiempo: 74
+ 
+AcX = -0.13 | AcY = 0.03 | AcZ = 0.02 | GiX = -10.88 | GiY = -12.32 | GiZ = -22.34 | Tiempo: 75
+ 
+AcX = -0.15 | AcY = 0.05 | AcZ = 0.02 | GiX = -9.97 | GiY = -12.58 | GiZ = -25.10 | Tiempo: 76
+ 
+AcX = -0.16 | AcY = 0.05 | AcZ = 0.02 | GiX = -9.60 | GiY = -13.82 | GiZ = -23.63 | Tiempo: 77
+ 
+AcX = -0.17 | AcY = 0.01 | AcZ = 0.04 | GiX = -8.75 | GiY = -17.08 | GiZ = -28.09 | Tiempo: 78
+ 
+AcX = -0.18 | AcY = 0.02 | AcZ = 0.08 | GiX = -9.54 | GiY = -23.54 | GiZ = -34.47 | Tiempo: 79
+ 
+AcX = -0.22 | AcY = 0.08 | AcZ = 0.04 | GiX = -7.91 | GiY = -17.82 | GiZ = -40.00 | Tiempo: 80
+ 
+AcX = -0.22 | AcY = 0.07 | AcZ = -0.01 | GiX = -2.98 | GiY = -0.96 | GiZ = -37.41 | Tiempo: 81
+ 
+AcX = -0.23 | AcY = 0.00 | AcZ = 0.00 | GiX = 1.30 | GiY = -1.75 | GiZ = -34.23 | Tiempo: 82
+ 
+AcX = -0.29 | AcY = -0.07 | AcZ = 0.06 | GiX = -0.14 | GiY = -10.52 | GiZ = -40.70 | Tiempo: 83
+ 
+AcX = -0.34 | AcY = -0.08 | AcZ = 0.09 | GiX = -3.27 | GiY = -2.30 | GiZ = -51.88 | Tiempo: 84
+ 
+AcX = -0.35 | AcY = -0.10 | AcZ = 0.08 | GiX = -8.12 | GiY = -10.17 | GiZ = -56.26 | Tiempo: 85
+ 
+AcX = -0.42 | AcY = -0.13 | AcZ = 0.09 | GiX = -13.10 | GiY = -25.94 | GiZ = -42.55 | Tiempo: 86
+ 
+AcX = -0.50 | AcY = -0.09 | AcZ = 0.04 | GiX = -14.12 | GiY = -29.24 | GiZ = -38.99 | Tiempo: 87
+ 
+AcX = -0.60 | AcY = 0.05 | AcZ = 0.02 | GiX = -11.07 | GiY = -20.88 | GiZ = -40.92 | Tiempo: 88
+ 
+AcX = -0.63 | AcY = 0.13 | AcZ = 0.06 | GiX = -10.58 | GiY = -24.20 | GiZ = -41.10 | Tiempo: 89
+ 
+AcX = -0.60 | AcY = 0.17 | AcZ = 0.14 | GiX = -13.31 | GiY = -27.48 | GiZ = -30.69 | Tiempo: 90
+ 
+AcX = -0.50 | AcY = 0.14 | AcZ = -0.01 | GiX = -16.07 | GiY = -12.62 | GiZ = -11.18 | Tiempo: 91
+ 
+AcX = -0.62 | AcY = 0.27 | AcZ = 0.26 | GiX = -14.88 | GiY = -58.44 | GiZ = -18.72 | Tiempo: 92
+ 
+AcX = -0.64 | AcY = 0.19 | AcZ = 0.25 | GiX = -6.88 | GiY = -74.50 | GiZ = -27.15 | Tiempo: 93
+ 
+AcX = -0.63 | AcY = 0.20 | AcZ = 0.13 | GiX = -9.68 | GiY = -78.91 | GiZ = -31.44 | Tiempo: 94
+ 
+AcX = -0.59 | AcY = 0.12 | AcZ = 0.18 | GiX = -13.01 | GiY = -95.74 | GiZ = -27.04 | Tiempo: 95
+ 
+AcX = -0.59 | AcY = 0.10 | AcZ = 0.13 | GiX = -16.99 | GiY = -101.75 | GiZ = -30.98 | Tiempo: 96
+ 
+AcX = -0.55 | AcY = 0.00 | AcZ = 0.09 | GiX = -19.78 | GiY = -99.42 | GiZ = -34.93 | Tiempo: 97
+ 
+AcX = -0.59 | AcY = -0.09 | AcZ = 0.06 | GiX = -38.41 | GiY = -87.17 | GiZ = -68.47 | Tiempo: 98
+ 
+AcX = -0.64 | AcY = -0.22 | AcZ = -0.16 | GiX = -54.00 | GiY = -78.64 | GiZ = -104.61 | Tiempo: 99
+ 
+AcX = -0.60 | AcY = -0.31 | AcZ = -0.24 | GiX = -55.22 | GiY = -63.05 | GiZ = -127.86 | Tiempo: 100
+ 
+AcX = -0.78 | AcY = -0.09 | AcZ = 0.37 | GiX = -89.54 | GiY = -93.57 | GiZ = -161.10 | Tiempo: 101
+Posible caída
+AcX = -2.32 | AcY = 1.15 | AcZ = -0.24 | GiX = -17.60 | GiY = -86.41 | GiZ = -132.26 | Tiempo: 102
+ 
+AcX = -0.78 | AcY = -0.31 | AcZ = 0.37 | GiX = 17.70 | GiY = 39.99 | GiZ = -50.75 | Tiempo: 103
+ 
+AcX = -1.16 | AcY = -0.71 | AcZ = 0.64 | GiX = -47.89 | GiY = 30.09 | GiZ = -36.92 | Tiempo: 104
+ 
+AcX = -0.95 | AcY = -0.17 | AcZ = 1.38 | GiX = -37.49 | GiY = -11.40 | GiZ = -9.99 | Tiempo: 105
+ 
+AcX = -1.28 | AcY = -0.29 | AcZ = 0.79 | GiX = -112.79 | GiY = -172.06 | GiZ = 1.43 | Tiempo: 106
+ 
+AcX = -1.16 | AcY = -0.24 | AcZ = 0.77 | GiX = -187.31 | GiY = -138.47 | GiZ = -49.09 | Tiempo: 107
+ 
+AcX = -0.69 | AcY = -0.10 | AcZ = 1.08 | GiX = -93.20 | GiY = 80.02 | GiZ = 18.58 | Tiempo: 108
+ 
+AcX = -0.50 | AcY = -1.04 | AcZ = 1.06 | GiX = -86.90 | GiY = -2.76 | GiZ = 48.59 | Tiempo: 109
+ 
+AcX = -0.84 | AcY = -1.07 | AcZ = 1.34 | GiX = -70.29 | GiY = 25.83 | GiZ = -8.40 | Tiempo: 110
+ 
+AcX = -0.86 | AcY = -0.62 | AcZ = 0.93 | GiX = -72.44 | GiY = 74.47 | GiZ = 16.33 | Tiempo: 111
+ 
+AcX = -0.91 | AcY = -0.69 | AcZ = 0.65 | GiX = -72.11 | GiY = 83.79 | GiZ = 31.45 | Tiempo: 112
+ 
+AcX = -1.00 | AcY = -1.04 | AcZ = 0.68 | GiX = -49.54 | GiY = 154.54 | GiZ = 47.05 | Tiempo: 113
+ 
+AcX = -1.08 | AcY = -1.00 | AcZ = 0.70 | GiX = -51.14 | GiY = 176.12 | GiZ = 2.15 | Tiempo: 114
+ 
+AcX = -1.57 | AcY = -1.00 | AcZ = 0.80 | GiX = -14.67 | GiY = 62.75 | GiZ = 15.39 | Tiempo: 115
+ 
+AcX = -0.91 | AcY = -1.31 | AcZ = 0.89 | GiX = 57.35 | GiY = 14.99 | GiZ = 50.41 | Tiempo: 116
+ 
+AcX = -1.27 | AcY = -0.73 | AcZ = 0.60 | GiX = 23.83 | GiY = 80.51 | GiZ = 15.68 | Tiempo: 117
+ 
+AcX = -1.31 | AcY = -0.71 | AcZ = 0.48 | GiX = 1.74 | GiY = 97.62 | GiZ = 2.38 | Tiempo: 118
+ 
+AcX = -1.28 | AcY = -0.75 | AcZ = 0.46 | GiX = -13.97 | GiY = 52.86 | GiZ = -10.06 | Tiempo: 119
+ 
+AcX = -1.46 | AcY = -0.69 | AcZ = 0.42 | GiX = -13.37 | GiY = 43.59 | GiZ = 7.31 | Tiempo: 120
+ 
+AcX = -1.36 | AcY = -0.74 | AcZ = 0.41 | GiX = -16.90 | GiY = 41.16 | GiZ = 10.44 | Tiempo: 121
+ 
+AcX = -1.39 | AcY = -0.76 | AcZ = 0.44 | GiX = -9.40 | GiY = 9.65 | GiZ = 12.84 | Tiempo: 122
+ 
+AcX = -1.44 | AcY = -0.70 | AcZ = 0.43 | GiX = -7.78 | GiY = -17.17 | GiZ = 16.24 | Tiempo: 123
+ 
+AcX = -1.37 | AcY = -0.83 | AcZ = 0.51 | GiX = -9.04 | GiY = -22.29 | GiZ = 5.24 | Tiempo: 124
+ 
+AcX = -1.52 | AcY = -0.69 | AcZ = 0.57 | GiX = -13.45 | GiY = -54.00 | GiZ = 3.79 | Tiempo: 125
+ 
+AcX = -1.32 | AcY = -0.79 | AcZ = 0.48 | GiX = -8.94 | GiY = -29.01 | GiZ = -4.21 | Tiempo: 126
+ 
+AcX = -1.28 | AcY = -0.75 | AcZ = 0.53 | GiX = -7.51 | GiY = -20.32 | GiZ = -8.93 | Tiempo: 127
+ 
+AcX = -1.27 | AcY = -0.75 | AcZ = 0.61 | GiX = -7.25 | GiY = -24.61 | GiZ = -8.17 | Tiempo: 128
+ 
+AcX = -1.34 | AcY = -0.74 | AcZ = 0.69 | GiX = -8.47 | GiY = -27.14 | GiZ = -4.43 | Tiempo: 129
+ 
+AcX = -1.25 | AcY = -0.78 | AcZ = 0.61 | GiX = -9.25 | GiY = -31.40 | GiZ = 1.22 | Tiempo: 130
+ 
+AcX = -1.23 | AcY = -0.76 | AcZ = 0.59 | GiX = -9.71 | GiY = -23.31 | GiZ = 0.41 | Tiempo: 131
+ 
+AcX = -1.73 | AcY = -1.02 | AcZ = 0.31 | GiX = -8.44 | GiY = -23.20 | GiZ = -4.57 | Tiempo: 132
+ 
+AcX = -1.38 | AcY = -0.67 | AcZ = 0.40 | GiX = -7.10 | GiY = -15.33 | GiZ = -6.25 | Tiempo: 133
+ 
+AcX = -1.19 | AcY = -0.80 | AcZ = 0.67 | GiX = -4.78 | GiY = -9.66 | GiZ = -5.76 | Tiempo: 134
+ 
+AcX = -1.16 | AcY = -0.81 | AcZ = 0.64 | GiX = -3.49 | GiY = -8.27 | GiZ = -9.73 | Tiempo: 135
+ 
+AcX = -1.19 | AcY = -0.83 | AcZ = 0.66 | GiX = -3.69 | GiY = -4.56 | GiZ = -6.64 | Tiempo: 136
+ 
+AcX = -1.14 | AcY = -0.82 | AcZ = 0.66 | GiX = -2.11 | GiY = -2.87 | GiZ = -1.71 | Tiempo: 137
+ 
+AcX = -1.17 | AcY = -0.84 | AcZ = 0.65 | GiX = 1.94 | GiY = 1.64 | GiZ = 2.23 | Tiempo: 138
+ 
+AcX = -1.18 | AcY = -0.80 | AcZ = 0.65 | GiX = 2.78 | GiY = 6.47 | GiZ = -0.00 | Tiempo: 139
+ 
+AcX = -1.18 | AcY = -0.81 | AcZ = 0.64 | GiX = 3.01 | GiY = 10.40 | GiZ = -0.43 | Tiempo: 140
+ 
+AcX = -1.21 | AcY = -0.81 | AcZ = 0.64 | GiX = 4.09 | GiY = 12.80 | GiZ = -0.29 | Tiempo: 141
+ 
+AcX = -1.23 | AcY = -0.80 | AcZ = 0.66 | GiX = 2.98 | GiY = 12.06 | GiZ = -0.92 | Tiempo: 142
+ 
+AcX = -1.22 | AcY = -0.80 | AcZ = 0.60 | GiX = 2.20 | GiY = 8.08 | GiZ = -1.60 | Tiempo: 143
+ 
+AcX = -1.23 | AcY = -0.80 | AcZ = 0.59 | GiX = 1.93 | GiY = 8.57 | GiZ = 0.35 | Tiempo: 144
+ 
+AcX = -1.25 | AcY = -0.83 | AcZ = 0.64 | GiX = 2.96 | GiY = 20.02 | GiZ = -0.26 | Tiempo: 145
+ 
+AcX = -1.25 | AcY = -0.82 | AcZ = 0.58 | GiX = 4.57 | GiY = 10.51 | GiZ = 2.61 | Tiempo: 146
+ 
+AcX = -1.24 | AcY = -0.81 | AcZ = 0.62 | GiX = 6.61 | GiY = 4.72 | GiZ = 0.88 | Tiempo: 147
+ 
+AcX = -1.24 | AcY = -0.78 | AcZ = 0.63 | GiX = 7.93 | GiY = 1.50 | GiZ = 1.98 | Tiempo: 148
+ 
+AcX = -1.25 | AcY = -0.77 | AcZ = 0.59 | GiX = 4.43 | GiY = -1.05 | GiZ = 3.59 | Tiempo: 149
+ 
+AcX = -1.25 | AcY = -0.78 | AcZ = 0.62 | GiX = 2.54 | GiY = -7.75 | GiZ = 4.58 | Tiempo: 150
+ 
+AcX = -1.21 | AcY = -0.77 | AcZ = 0.60 | GiX = 2.06 | GiY = -5.45 | GiZ = -0.73 | Tiempo: 151
+ 
+AcX = -1.23 | AcY = -0.78 | AcZ = 0.59 | GiX = -0.56 | GiY = -4.70 | GiZ = 2.70 | Tiempo: 152
+ 
+AcX = -1.24 | AcY = -0.78 | AcZ = 0.62 | GiX = -0.76 | GiY = -4.79 | GiZ = 3.33 | Tiempo: 153
+ 
+AcX = -1.22 | AcY = -0.78 | AcZ = 0.61 | GiX = -0.58 | GiY = -8.38 | GiZ = 3.02 | Tiempo: 154
+ 
+AcX = -1.20 | AcY = -0.76 | AcZ = 0.62 | GiX = -0.78 | GiY = -2.32 | GiZ = 4.52 | Tiempo: 155
+ 
+AcX = -1.20 | AcY = -0.77 | AcZ = 0.61 | GiX = -1.04 | GiY = 2.11 | GiZ = 2.85 | Tiempo: 156
+ 
+AcX = -1.21 | AcY = -0.78 | AcZ = 0.62 | GiX = 0.61 | GiY = 2.99 | GiZ = -0.90 | Tiempo: 157
+ 
+AcX = -1.22 | AcY = -0.76 | AcZ = 0.61 | GiX = 0.80 | GiY = 4.08 | GiZ = -1.19 | Tiempo: 158
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = -0.29 | GiY = 3.02 | GiZ = 0.18 | Tiempo: 159
+ 
+AcX = -1.22 | AcY = -0.78 | AcZ = 0.61 | GiX = 0.52 | GiY = 3.50 | GiZ = 0.09 | Tiempo: 160
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.87 | GiY = 1.51 | GiZ = -0.21 | Tiempo: 161
+ 
+AcX = -1.23 | AcY = -0.76 | AcZ = 0.61 | GiX = 0.17 | GiY = -0.93 | GiZ = -0.75 | Tiempo: 162
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = -0.26 | GiY = -1.24 | GiZ = 0.35 | Tiempo: 163
+ 
+AcX = -1.23 | AcY = -0.76 | AcZ = 0.61 | GiX = -0.36 | GiY = -0.85 | GiZ = -0.35 | Tiempo: 164
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = -0.81 | GiY = -1.11 | GiZ = 1.28 | Tiempo: 165
+ 
+AcX = -1.22 | AcY = -0.78 | AcZ = 0.61 | GiX = -0.43 | GiY = -1.53 | GiZ = 1.04 | Tiempo: 166
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.62 | GiX = 0.64 | GiY = 0.28 | GiZ = -1.57 | Tiempo: 167
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.14 | GiY = 0.80 | GiZ = -0.02 | Tiempo: 168
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.08 | GiY = 1.10 | GiZ = -0.66 | Tiempo: 169
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.28 | GiY = 1.53 | GiZ = -1.10 | Tiempo: 170
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.52 | GiY = 1.42 | GiZ = -1.45 | Tiempo: 171
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.46 | GiY = 1.86 | GiZ = -0.70 | Tiempo: 172
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.63 | GiY = 1.13 | GiZ = -0.69 | Tiempo: 173
+ 
+AcX = -1.23 | AcY = -0.78 | AcZ = 0.61 | GiX = 0.20 | GiY = 0.57 | GiZ = 0.06 | Tiempo: 174
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.72 | GiY = 1.01 | GiZ = 0.75 | Tiempo: 175
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.43 | GiY = -0.27 | GiZ = 1.45 | Tiempo: 176
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.51 | GiY = 0.49 | GiZ = -1.54 | Tiempo: 177
+ 
+AcX = -1.22 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.22 | GiY = 1.76 | GiZ = -1.51 | Tiempo: 178
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.38 | GiY = 1.38 | GiZ = -0.79 | Tiempo: 179
+ 
+AcX = -1.23 | AcY = -0.78 | AcZ = 0.61 | GiX = 0.29 | GiY = 0.60 | GiZ = -1.30 | Tiempo: 180
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.38 | GiY = 1.19 | GiZ = -1.01 | Tiempo: 181
+ 
+AcX = -1.23 | AcY = -0.78 | AcZ = 0.60 | GiX = 0.69 | GiY = 1.77 | GiZ = -0.93 | Tiempo: 182
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.61 | GiX = 0.66 | GiY = 1.35 | GiZ = -0.28 | Tiempo: 183
+ 
+AcX = -1.24 | AcY = -0.77 | AcZ = 0.60 | GiX = 0.29 | GiY = 0.84 | GiZ = -0.35 | Tiempo: 184
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.59 | GiX = 0.05 | GiY = 1.35 | GiZ = 0.56 | Tiempo: 185
+ 
+AcX = -1.24 | AcY = -0.77 | AcZ = 0.60 | GiX = -0.01 | GiY = 0.80 | GiZ = 0.99 | Tiempo: 186
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.59 | GiX = 0.38 | GiY = 0.99 | GiZ = 1.11 | Tiempo: 187
+ 
+AcX = -1.23 | AcY = -0.76 | AcZ = 0.60 | GiX = 0.64 | GiY = 1.04 | GiZ = 0.87 | Tiempo: 188
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.59 | GiX = 0.18 | GiY = 0.87 | GiZ = 1.77 | Tiempo: 189
+ 
+AcX = -1.22 | AcY = -0.76 | AcZ = 0.58 | GiX = -0.01 | GiY = 0.64 | GiZ = 1.71 | Tiempo: 190
+ 
+AcX = -1.24 | AcY = -0.78 | AcZ = 0.59 | GiX = -0.40 | GiY = 2.35 | GiZ = 3.62 | Tiempo: 191
+ 
+AcX = -1.23 | AcY = -0.77 | AcZ = 0.59 | GiX = -0.06 | GiY = 0.08 | GiZ = 1.75 | Tiempo: 192
+ 
+AcX = -1.23 | AcY = -0.76 | AcZ = 0.60 | GiX = 0.31 | GiY = 1.96 | GiZ = 1.27 | Tiempo: 193
+ 
+AcX = -1.24 | AcY = -0.76 | AcZ = 0.59 | GiX = -0.44 | GiY = 2.72 | GiZ = 3.21 | Tiempo: 194
+ 
+AcX = -1.24 | AcY = -0.76 | AcZ = 0.59 | GiX = -0.43 | GiY = 1.67 | GiZ = 2.55 | Tiempo: 195
+ 
+AcX = -1.24 | AcY = -0.76 | AcZ = 0.59 | GiX = 0.29 | GiY = 1.07 | GiZ = 1.01 | Tiempo: 196
+ 
+AcX = -1.24 | AcY = -0.76 | AcZ = 0.58 | GiX = 0.08 | GiY = 1.04 | GiZ = 1.28 | Tiempo: 197
+ 
+AcX = -1.24 | AcY = -0.76 | AcZ = 0.58 | GiX = 0.15 | GiY = 1.38 | GiZ = 1.21 | Tiempo: 198
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.35 | GiY = 0.63 | GiZ = 1.28 | Tiempo: 199
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.38 | GiY = 0.52 | GiZ = 1.63 | Tiempo: 200
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.11 | GiY = 0.69 | GiZ = 1.40 | Tiempo: 201
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.24 | GiY = 0.38 | GiZ = 2.78 | Tiempo: 202
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.23 | GiY = 0.23 | GiZ = 2.70 | Tiempo: 203
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = 0.29 | GiY = 0.89 | GiZ = 0.21 | Tiempo: 204
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.29 | GiY = -0.33 | GiZ = 0.91 | Tiempo: 205
+ 
+AcX = -1.23 | AcY = -0.75 | AcZ = 0.59 | GiX = 0.44 | GiY = 0.15 | GiZ = 1.14 | Tiempo: 206
+ 
+AcX = -1.25 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.17 | GiY = 0.96 | GiZ = 0.69 | Tiempo: 207
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.57 | GiX = -0.82 | GiY = -0.43 | GiZ = 0.33 | Tiempo: 208
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.21 | GiY = -0.55 | GiZ = 0.23 | Tiempo: 209
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = 0.06 | GiY = -0.33 | GiZ = -0.38 | Tiempo: 210
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = 0.32 | GiY = -0.44 | GiZ = -1.07 | Tiempo: 211
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = 0.29 | GiY = 0.11 | GiZ = -0.89 | Tiempo: 212
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.01 | GiY = -0.26 | GiZ = -0.86 | Tiempo: 213
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.59 | GiX = -0.11 | GiY = 0.23 | GiZ = -0.25 | Tiempo: 214
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.17 | GiY = 0.43 | GiZ = -0.35 | Tiempo: 215
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = 0.15 | GiY = 0.28 | GiZ = 0.26 | Tiempo: 216
+ 
+AcX = -1.24 | AcY = -0.74 | AcZ = 0.58 | GiX = 0.38 | GiY = 0.67 | GiZ = -0.28 | Tiempo: 217
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.21 | GiY = -0.21 | GiZ = -0.69 | Tiempo: 218
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.60 | GiX = 0.43 | GiY = -0.17 | GiZ = 0.41 | Tiempo: 219
+ 
+AcX = -1.25 | AcY = -0.74 | AcZ = 0.58 | GiX = 0.05 | GiY = 0.73 | GiZ = 0.47 | Tiempo: 220
+ 
+AcX = -1.25 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.41 | GiY = -0.20 | GiZ = 0.56 | Tiempo: 221
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = 0.17 | GiY = -0.55 | GiZ = 0.06 | Tiempo: 222
+ 
+AcX = -1.24 | AcY = -0.74 | AcZ = 0.58 | GiX = -0.03 | GiY = -0.18 | GiZ = -0.28 | Tiempo: 223
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = 0.32 | GiY = -1.17 | GiZ = -1.12 | Tiempo: 224
+ 
+AcX = -1.25 | AcY = -0.74 | AcZ = 0.59 | GiX = 0.28 | GiY = -4.35 | GiZ = -1.31 | Tiempo: 225
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.58 | GiX = -0.76 | GiY = -6.84 | GiZ = -0.75 | Tiempo: 226
+ 
+AcX = -1.24 | AcY = -0.75 | AcZ = 0.60 | GiX = -1.39 | GiY = -8.03 | GiZ = -0.14 | Tiempo: 227
+ 
+AcX = -1.22 | AcY = -0.76 | AcZ = 0.60 | GiX = -0.93 | GiY = -8.79 | GiZ = -0.93 | Tiempo: 228
+ 
+AcX = -1.23 | AcY = -0.75 | AcZ = 0.61 | GiX = -0.44 | GiY = -10.76 | GiZ = 0.73 | Tiempo: 229
+ 
+AcX = -1.23 | AcY = -0.74 | AcZ = 0.61 | GiX = -0.24 | GiY = -11.97 | GiZ = 1.77 | Tiempo: 230
+ 
+AcX = -1.21 | AcY = -0.75 | AcZ = 0.62 | GiX = 1.01 | GiY = -12.32 | GiZ = -1.31 | Tiempo: 231
+ 
+AcX = -1.20 | AcY = -0.75 | AcZ = 0.64 | GiX = -0.01 | GiY = -11.78 | GiZ = 0.33 | Tiempo: 232
+ 
+AcX = -1.20 | AcY = -0.75 | AcZ = 0.65 | GiX = -0.32 | GiY = -13.56 | GiZ = -1.02 | Tiempo: 233
+ 
+AcX = -1.19 | AcY = -0.75 | AcZ = 0.65 | GiX = -0.14 | GiY = -15.56 | GiZ = -3.94 | Tiempo: 234
+ 
+AcX = -1.18 | AcY = -0.75 | AcZ = 0.66 | GiX = -0.29 | GiY = -15.89 | GiZ = -1.30 | Tiempo: 235
+ 
+AcX = -1.16 | AcY = -0.75 | AcZ = 0.66 | GiX = -0.52 | GiY = -16.32 | GiZ = -3.13 | Tiempo: 236
+ 
+AcX = -1.15 | AcY = -0.76 | AcZ = 0.67 | GiX = -0.01 | GiY = -15.71 | GiZ = -1.15 | Tiempo: 237
+ 
+AcX = -1.15 | AcY = -0.76 | AcZ = 0.69 | GiX = 0.14 | GiY = -16.26 | GiZ = -3.02 | Tiempo: 238
+ 
+AcX = -1.14 | AcY = -0.76 | AcZ = 0.70 | GiX = 0.26 | GiY = -15.05 | GiZ = -0.32 | Tiempo: 239
+ 
+AcX = -1.11 | AcY = -0.76 | AcZ = 0.70 | GiX = 0.75 | GiY = -12.95 | GiZ = -1.38 | Tiempo: 240
+ 
+AcX = -1.11 | AcY = -0.76 | AcZ = 0.70 | GiX = 1.09 | GiY = -10.36 | GiZ = 1.21 | Tiempo: 241
+ 
+AcX = -1.10 | AcY = -0.77 | AcZ = 0.71 | GiX = 1.30 | GiY = -8.44 | GiZ = 0.93 | Tiempo: 242
+ 
+AcX = -1.09 | AcY = -0.74 | AcZ = 0.71 | GiX = 1.21 | GiY = -5.65 | GiZ = -0.25 | Tiempo: 243
+ 
+AcX = -1.10 | AcY = -0.75 | AcZ = 0.72 | GiX = 0.70 | GiY = -2.30 | GiZ = 3.77 | Tiempo: 244
+ 
+AcX = -1.09 | AcY = -0.74 | AcZ = 0.72 | GiX = -0.21 | GiY = -2.41 | GiZ = 2.21 | Tiempo: 245
+ 
+AcX = -1.09 | AcY = -0.75 | AcZ = 0.72 | GiX = 0.15 | GiY = 1.36 | GiZ = 0.35 | Tiempo: 246
+ 
+AcX = -1.09 | AcY = -0.75 | AcZ = 0.71 | GiX = -0.62 | GiY = 3.86 | GiZ = 4.32 | Tiempo: 247
+ 
+AcX = -1.10 | AcY = -0.75 | AcZ = 0.72 | GiX = -1.01 | GiY = 2.93 | GiZ = 6.59 | Tiempo: 248
+ 
+AcX = -1.10 | AcY = -0.76 | AcZ = 0.72 | GiX = -0.01 | GiY = 5.35 | GiZ = 2.47 | Tiempo: 249
+ 
+AcX = -1.10 | AcY = -0.75 | AcZ = 0.71 | GiX = 0.90 | GiY = 6.43 | GiZ = 2.81 | Tiempo: 250
+ 
+AcX = -1.11 | AcY = -0.74 | AcZ = 0.71 | GiX = 0.47 | GiY = 6.83 | GiZ = 1.39 | Tiempo: 251
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.70 | GiX = 0.26 | GiY = 5.96 | GiZ = 1.24 | Tiempo: 252
+ 
+AcX = -1.12 | AcY = -0.74 | AcZ = 0.70 | GiX = -0.01 | GiY = 4.31 | GiZ = 3.54 | Tiempo: 253
+ 
+AcX = -1.12 | AcY = -0.73 | AcZ = 0.70 | GiX = -0.75 | GiY = 4.52 | GiZ = 2.84 | Tiempo: 254
+ 
+AcX = -1.13 | AcY = -0.75 | AcZ = 0.70 | GiX = -1.28 | GiY = 3.18 | GiZ = 3.42 | Tiempo: 255
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = -0.52 | GiY = 1.65 | GiZ = 2.26 | Tiempo: 256
+ 
+AcX = -1.12 | AcY = -0.73 | AcZ = 0.70 | GiX = -0.21 | GiY = 1.15 | GiZ = 1.34 | Tiempo: 257
+ 
+AcX = -1.13 | AcY = -0.75 | AcZ = 0.69 | GiX = -0.06 | GiY = 0.51 | GiZ = 1.77 | Tiempo: 258
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.70 | GiX = 0.08 | GiY = -0.64 | GiZ = 0.44 | Tiempo: 259
+ 
+AcX = -1.13 | AcY = -0.73 | AcZ = 0.69 | GiX = 0.26 | GiY = -0.41 | GiZ = -0.02 | Tiempo: 260
+ 
+AcX = -1.12 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.49 | GiY = -0.96 | GiZ = -2.60 | Tiempo: 261
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.51 | GiY = 0.31 | GiZ = -0.69 | Tiempo: 262
+ 
+AcX = -1.12 | AcY = -0.74 | AcZ = 0.70 | GiX = 0.06 | GiY = 0.92 | GiZ = -0.34 | Tiempo: 263
+ 
+AcX = -1.12 | AcY = -0.73 | AcZ = 0.70 | GiX = -0.21 | GiY = 0.75 | GiZ = -0.75 | Tiempo: 264
+ 
+AcX = -1.12 | AcY = -0.75 | AcZ = 0.69 | GiX = 0.47 | GiY = 2.52 | GiZ = -0.66 | Tiempo: 265
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = -0.12 | GiY = 2.90 | GiZ = 0.04 | Tiempo: 266
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.18 | GiY = 2.09 | GiZ = -0.38 | Tiempo: 267
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.60 | GiY = 1.83 | GiZ = -0.61 | Tiempo: 268
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.70 | GiY = 1.36 | GiZ = -0.29 | Tiempo: 269
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.38 | GiY = 0.64 | GiZ = -1.74 | Tiempo: 270
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.17 | GiY = 0.57 | GiZ = -1.12 | Tiempo: 271
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.44 | GiY = 1.41 | GiZ = -0.95 | Tiempo: 272
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.69 | GiX = -0.01 | GiY = 0.99 | GiZ = -0.11 | Tiempo: 273
+ 
+AcX = -1.13 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.31 | GiY = 1.38 | GiZ = -0.21 | Tiempo: 274
+ 
+AcX = -1.15 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.23 | GiY = 1.57 | GiZ = -0.12 | Tiempo: 275
+ 
+AcX = -1.14 | AcY = -0.73 | AcZ = 0.69 | GiX = -0.01 | GiY = 0.99 | GiZ = 0.01 | Tiempo: 276
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.66 | GiY = 1.82 | GiZ = -1.19 | Tiempo: 277
+ 
+AcX = -1.15 | AcY = -0.74 | AcZ = 0.69 | GiX = -0.18 | GiY = 2.17 | GiZ = -0.67 | Tiempo: 278
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = -0.17 | GiY = 0.51 | GiZ = -1.02 | Tiempo: 279
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.00 | GiY = -0.15 | GiZ = -2.11 | Tiempo: 280
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.22 | GiY = -0.18 | GiZ = -0.93 | Tiempo: 281
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.38 | GiY = -0.56 | GiZ = -1.60 | Tiempo: 282
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.18 | GiY = 0.12 | GiZ = -1.07 | Tiempo: 283
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.20 | GiY = 0.35 | GiZ = -1.57 | Tiempo: 284
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.55 | GiY = 0.37 | GiZ = -1.50 | Tiempo: 285
+ 
+AcX = -1.15 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.32 | GiY = -0.27 | GiZ = -1.51 | Tiempo: 286
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.69 | GiX = 0.14 | GiY = -0.11 | GiZ = -0.66 | Tiempo: 287
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = -0.07 | GiY = 0.41 | GiZ = -0.84 | Tiempo: 288
+ 
+AcX = -1.14 | AcY = -0.74 | AcZ = 0.68 | GiX = -0.20 | GiY = -0.12 | GiZ = -0.29 | Tiempo: 289
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.49 | GiY = -0.23 | GiZ = -0.61 | Tiempo: 290
+ 
+AcX = -1.15 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.32 | GiY = 1.01 | GiZ = -0.99 | Tiempo: 291
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.69 | GiX = 0.23 | GiY = 0.47 | GiZ = -1.33 | Tiempo: 292
+ 
+AcX = -1.15 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.06 | GiY = 0.18 | GiZ = -1.45 | Tiempo: 293
+ 
+AcX = -1.15 | AcY = -0.74 | AcZ = 0.68 | GiX = 0.52 | GiY = 0.35 | GiZ = -0.93 | Tiempo: 294
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.57 | GiY = 0.31 | GiZ = -0.95 | Tiempo: 295
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.49 | GiY = 0.51 | GiZ = -0.98 | Tiempo: 296
+ 
+AcX = -1.14 | AcY = -0.75 | AcZ = 0.68 | GiX = 0.44 | GiY = -0.17 | GiZ = -1.57 | Tiempo: 297
+ 
+AcX = -1.15 | AcY = -0.75 | AcZ = 0.67 | GiX = 0.69 | GiY = -0.73 | GiZ = -3.34 | Tiempo: 298
+Envia Email Urgente
+AcX = -0.06 | AcY = 0.04 | AcZ = 0.05 | GiX = 0.17 | GiY = -0.12 | GiZ = -0.02 | Tiempo: 299
+Aviso Recuperacion
+AcX = -0.07 | AcY = 0.03 | AcZ = 0.05 | GiX = 0.49 | GiY = -0.07 | GiZ = -1.47 | Tiempo: 300
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.05 | GiX = 0.54 | GiY = -0.27 | GiZ = 0.09 | Tiempo: 301
+ 
+AcX = -0.05 | AcY = 0.03 | AcZ = 0.05 | GiX = 0.03 | GiY = -0.32 | GiZ = 0.35 | Tiempo: 302
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.04 | GiX = 0.25 | GiY = -0.95 | GiZ = 4.17 | Tiempo: 303
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.04 | GiX = 0.09 | GiY = -1.13 | GiZ = 2.50 | Tiempo: 304
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.05 | GiX = -0.33 | GiY = -1.08 | GiZ = 0.30 | Tiempo: 305
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.04 | GiX = -0.38 | GiY = -0.33 | GiZ = 1.34 | Tiempo: 306
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.05 | GiX = -0.27 | GiY = 0.02 | GiZ = -0.50 | Tiempo: 307
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.05 | GiX = -0.52 | GiY = -0.07 | GiZ = -0.90 | Tiempo: 308
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.04 | GiX = -0.79 | GiY = -0.26 | GiZ = 0.33 | Tiempo: 309
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.05 | GiX = -0.49 | GiY = 0.29 | GiZ = 1.74 | Tiempo: 310
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.05 | GiX = -0.18 | GiY = 0.46 | GiZ = 1.57 | Tiempo: 311
+ 
+AcX = -0.06 | AcY = 0.01 | AcZ = 0.05 | GiX = -0.44 | GiY = -0.11 | GiZ = 3.46 | Tiempo: 312
+ 
+AcX = -0.04 | AcY = 0.00 | AcZ = 0.05 | GiX = 0.55 | GiY = 0.76 | GiZ = 0.35 | Tiempo: 313
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.05 | GiX = 0.99 | GiY = 0.12 | GiZ = -2.58 | Tiempo: 314
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.04 | GiX = 0.83 | GiY = 0.31 | GiZ = -0.11 | Tiempo: 315
+ 
+AcX = -0.05 | AcY = 0.03 | AcZ = 0.04 | GiX = 1.33 | GiY = 1.19 | GiZ = -0.72 | Tiempo: 316
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.04 | GiX = 0.51 | GiY = 1.42 | GiZ = 0.12 | Tiempo: 317
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.04 | GiX = 0.18 | GiY = 1.13 | GiZ = 0.84 | Tiempo: 318
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.03 | GiX = 0.11 | GiY = 1.56 | GiZ = 0.50 | Tiempo: 319
+ 
+AcX = -0.03 | AcY = 0.01 | AcZ = 0.04 | GiX = 0.40 | GiY = 2.81 | GiZ = -0.08 | Tiempo: 320
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.03 | GiX = 0.89 | GiY = 2.87 | GiZ = 1.56 | Tiempo: 321
+ 
+AcX = -0.08 | AcY = 0.04 | AcZ = 0.04 | GiX = 2.02 | GiY = 3.71 | GiZ = -1.28 | Tiempo: 322
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.07 | GiX = 2.06 | GiY = 4.35 | GiZ = -1.24 | Tiempo: 323
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.06 | GiX = 1.06 | GiY = 3.74 | GiZ = 1.80 | Tiempo: 324
+ 
+AcX = -0.03 | AcY = 0.02 | AcZ = 0.05 | GiX = 1.21 | GiY = 2.14 | GiZ = 2.81 | Tiempo: 325
+ 
+AcX = -0.05 | AcY = -0.00 | AcZ = 0.03 | GiX = 1.99 | GiY = 1.31 | GiZ = 1.92 | Tiempo: 326
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.03 | GiX = 3.44 | GiY = 2.09 | GiZ = -4.50 | Tiempo: 327
+ 
+AcX = -0.08 | AcY = 0.05 | AcZ = 0.04 | GiX = 3.28 | GiY = 2.64 | GiZ = -3.13 | Tiempo: 328
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.07 | GiX = 1.30 | GiY = 2.03 | GiZ = -0.96 | Tiempo: 329
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.05 | GiX = -0.38 | GiY = 1.97 | GiZ = 1.01 | Tiempo: 330
+ 
+AcX = -0.03 | AcY = 0.02 | AcZ = 0.06 | GiX = -0.58 | GiY = -0.17 | GiZ = 1.17 | Tiempo: 331
+ 
+AcX = -0.03 | AcY = 0.02 | AcZ = 0.05 | GiX = 0.05 | GiY = -1.39 | GiZ = 1.37 | Tiempo: 332
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = 0.04 | GiX = 0.08 | GiY = -2.79 | GiZ = 1.65 | Tiempo: 333
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.02 | GiX = 1.33 | GiY = -1.63 | GiZ = -1.22 | Tiempo: 334
+ 
+AcX = -0.07 | AcY = 0.04 | AcZ = 0.02 | GiX = 1.59 | GiY = -0.27 | GiZ = -4.95 | Tiempo: 335
+ 
+AcX = -0.09 | AcY = 0.03 | AcZ = 0.05 | GiX = -0.43 | GiY = -0.24 | GiZ = -2.12 | Tiempo: 336
+ 
+AcX = -0.05 | AcY = 0.00 | AcZ = 0.07 | GiX = -2.52 | GiY = -1.89 | GiZ = -2.44 | Tiempo: 337
+ 
+AcX = -0.03 | AcY = 0.04 | AcZ = 0.06 | GiX = -3.49 | GiY = -1.95 | GiZ = -0.57 | Tiempo: 338
+ 
+AcX = -0.02 | AcY = 0.00 | AcZ = 0.05 | GiX = -4.14 | GiY = -3.63 | GiZ = 4.41 | Tiempo: 339
+ 
+AcX = -0.06 | AcY = -0.00 | AcZ = 0.03 | GiX = -2.55 | GiY = -3.28 | GiZ = 3.46 | Tiempo: 340
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.03 | GiX = -0.55 | GiY = -1.89 | GiZ = -2.52 | Tiempo: 341
+ 
+AcX = -0.07 | AcY = 0.07 | AcZ = 0.04 | GiX = 0.67 | GiY = -3.65 | GiZ = -3.41 | Tiempo: 342
+ 
+AcX = -0.07 | AcY = 0.04 | AcZ = 0.05 | GiX = -0.29 | GiY = -1.82 | GiZ = -0.60 | Tiempo: 343
+ 
+AcX = -0.03 | AcY = -0.00 | AcZ = 0.05 | GiX = -1.10 | GiY = -0.14 | GiZ = 0.95 | Tiempo: 344
+ 
+AcX = -0.03 | AcY = 0.02 | AcZ = 0.04 | GiX = -1.40 | GiY = -1.65 | GiZ = 1.75 | Tiempo: 345
+ 
+AcX = -0.05 | AcY = 0.03 | AcZ = 0.03 | GiX = -1.13 | GiY = -4.62 | GiZ = 4.69 | Tiempo: 346
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.03 | GiX = 0.98 | GiY = -2.35 | GiZ = 2.64 | Tiempo: 347
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.03 | GiX = 1.74 | GiY = -0.76 | GiZ = 2.18 | Tiempo: 348
+ 
+AcX = -0.06 | AcY = 0.01 | AcZ = 0.03 | GiX = 2.05 | GiY = 3.04 | GiZ = -1.86 | Tiempo: 349
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.05 | GiX = 0.51 | GiY = 0.60 | GiZ = -0.70 | Tiempo: 350
+ 
+AcX = -0.02 | AcY = 0.00 | AcZ = 0.05 | GiX = 0.23 | GiY = 1.18 | GiZ = -0.76 | Tiempo: 351
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = 0.04 | GiX = 0.26 | GiY = -0.40 | GiZ = -1.25 | Tiempo: 352
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = 0.03 | GiX = 1.22 | GiY = -0.98 | GiZ = -3.99 | Tiempo: 353
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.03 | GiX = 1.97 | GiY = 1.21 | GiZ = -2.11 | Tiempo: 354
+ 
+AcX = -0.06 | AcY = 0.00 | AcZ = 0.03 | GiX = 2.08 | GiY = 1.96 | GiZ = -2.66 | Tiempo: 355
+ 
+AcX = -0.07 | AcY = 0.03 | AcZ = 0.03 | GiX = 1.67 | GiY = 3.99 | GiZ = -0.87 | Tiempo: 356
+ 
+AcX = -0.05 | AcY = 0.01 | AcZ = 0.03 | GiX = 0.51 | GiY = 2.63 | GiZ = 0.85 | Tiempo: 357
+ 
+AcX = -0.03 | AcY = 0.02 | AcZ = 0.03 | GiX = 0.37 | GiY = 5.13 | GiZ = -2.23 | Tiempo: 358
+ 
+AcX = -0.04 | AcY = 0.02 | AcZ = 0.04 | GiX = -0.44 | GiY = 4.00 | GiZ = -1.09 | Tiempo: 359
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.03 | GiX = -0.88 | GiY = 2.86 | GiZ = 2.87 | Tiempo: 360
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.04 | GiX = -1.40 | GiY = 2.63 | GiZ = 2.41 | Tiempo: 361
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = 0.05 | GiX = -1.65 | GiY = 1.01 | GiZ = -1.15 | Tiempo: 362
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.04 | GiX = -2.27 | GiY = -0.44 | GiZ = -1.60 | Tiempo: 363
+ 
+AcX = -0.06 | AcY = 0.02 | AcZ = 0.04 | GiX = -4.07 | GiY = -2.18 | GiZ = 0.18 | Tiempo: 364
+ 
+AcX = -0.05 | AcY = 0.02 | AcZ = 0.03 | GiX = -5.33 | GiY = -3.33 | GiZ = -2.37 | Tiempo: 365
+ 
+AcX = -0.04 | AcY = 0.00 | AcZ = 0.04 | GiX = -6.99 | GiY = -7.82 | GiZ = -4.69 | Tiempo: 366
+ 
+AcX = -0.05 | AcY = 0.00 | AcZ = 0.04 | GiX = -7.07 | GiY = -8.69 | GiZ = -10.17 | Tiempo: 367
+ 
+AcX = -0.06 | AcY = 0.01 | AcZ = 0.05 | GiX = -9.02 | GiY = -12.53 | GiZ = -12.05 | Tiempo: 368
+ 
+AcX = -0.07 | AcY = 0.00 | AcZ = 0.06 | GiX = -10.07 | GiY = -14.18 | GiZ = -16.50 | Tiempo: 369
+ 
+AcX = -0.08 | AcY = -0.01 | AcZ = 0.09 | GiX = -12.01 | GiY = -19.19 | GiZ = -18.54 | Tiempo: 370
+ 
+AcX = -0.09 | AcY = -0.01 | AcZ = 0.14 | GiX = -13.46 | GiY = -22.75 | GiZ = -25.76 | Tiempo: 371
+ 
+AcX = -0.08 | AcY = 0.05 | AcZ = 0.15 | GiX = -14.15 | GiY = -25.53 | GiZ = -26.40 | Tiempo: 372
+ 
+AcX = -0.07 | AcY = 0.10 | AcZ = 0.14 | GiX = -12.76 | GiY = -21.20 | GiZ = -17.39 | Tiempo: 373
+ 
+AcX = -0.06 | AcY = 0.08 | AcZ = 0.11 | GiX = -9.02 | GiY = -15.39 | GiZ = -3.59 | Tiempo: 374
+ 
+AcX = -0.07 | AcY = 0.02 | AcZ = 0.10 | GiX = -5.20 | GiY = -17.85 | GiZ = -0.26 | Tiempo: 375
+ 
+AcX = -0.09 | AcY = -0.01 | AcZ = 0.11 | GiX = 0.35 | GiY = -19.40 | GiZ = 1.10 | Tiempo: 376
+ 
+AcX = -0.08 | AcY = 0.05 | AcZ = 0.11 | GiX = 5.88 | GiY = -14.17 | GiZ = 5.17 | Tiempo: 377
+ 
+AcX = -0.03 | AcY = 0.19 | AcZ = 0.00 | GiX = 18.03 | GiY = 3.44 | GiZ = 17.19 | Tiempo: 378
+ 
+AcX = -0.14 | AcY = 0.11 | AcZ = 0.02 | GiX = 19.12 | GiY = 15.82 | GiZ = 6.98 | Tiempo: 379
+ 
+AcX = -0.18 | AcY = -0.01 | AcZ = 0.08 | GiX = 7.65 | GiY = -16.65 | GiZ = 7.57 | Tiempo: 380
+ 
+AcX = -0.19 | AcY = 0.03 | AcZ = 0.06 | GiX = 10.58 | GiY = 3.39 | GiZ = -2.96 | Tiempo: 381
+ 
+AcX = -0.18 | AcY = 0.01 | AcZ = -0.00 | GiX = 9.57 | GiY = 18.87 | GiZ = 0.85 | Tiempo: 382
+ 
+AcX = -0.14 | AcY = 0.02 | AcZ = -0.02 | GiX = 8.06 | GiY = 6.95 | GiZ = 0.47 | Tiempo: 383
+ 
+AcX = -0.10 | AcY = 0.12 | AcZ = -0.04 | GiX = 5.21 | GiY = -2.85 | GiZ = -6.75 | Tiempo: 384
+ 
+AcX = -0.10 | AcY = 0.13 | AcZ = -0.02 | GiX = 1.27 | GiY = -8.90 | GiZ = 1.43 | Tiempo: 385
+ 
+AcX = -0.15 | AcY = 0.04 | AcZ = -0.03 | GiX = -1.25 | GiY = -9.72 | GiZ = -1.28 | Tiempo: 386
+ 
+AcX = -0.13 | AcY = 0.00 | AcZ = -0.03 | GiX = -4.01 | GiY = -8.61 | GiZ = -6.54 | Tiempo: 387
+ 
+AcX = -0.13 | AcY = 0.03 | AcZ = -0.05 | GiX = -8.90 | GiY = -12.58 | GiZ = -5.18 | Tiempo: 388
+ 
+AcX = -0.12 | AcY = 0.07 | AcZ = -0.02 | GiX = -14.00 | GiY = -14.85 | GiZ = -5.05 | Tiempo: 389
+ 
+AcX = -0.09 | AcY = 0.09 | AcZ = 0.01 | GiX = -20.12 | GiY = -20.46 | GiZ = -0.99 | Tiempo: 390
+ 
+AcX = -0.13 | AcY = 0.13 | AcZ = -0.00 | GiX = -21.30 | GiY = -26.93 | GiZ = -2.17 | Tiempo: 391
+ 
+AcX = -0.11 | AcY = 0.04 | AcZ = 0.01 | GiX = -16.76 | GiY = -22.78 | GiZ = 5.31 | Tiempo: 392
+ 
+AcX = -0.16 | AcY = -0.01 | AcZ = 0.04 | GiX = -14.93 | GiY = -20.67 | GiZ = 1.34 | Tiempo: 393
+ 
+AcX = -0.15 | AcY = 0.01 | AcZ = 0.04 | GiX = -14.43 | GiY = -18.46 | GiZ = -6.02 | Tiempo: 394
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = 0.06 | GiX = -13.25 | GiY = -14.14 | GiZ = -5.74 | Tiempo: 395
+ 
+AcX = -0.11 | AcY = 0.07 | AcZ = 0.08 | GiX = -11.86 | GiY = -13.80 | GiZ = -1.36 | Tiempo: 396
+ 
+AcX = -0.11 | AcY = 0.02 | AcZ = 0.08 | GiX = -10.61 | GiY = -9.89 | GiZ = -1.21 | Tiempo: 397
+ 
+AcX = -0.11 | AcY = 0.03 | AcZ = 0.09 | GiX = -9.04 | GiY = -11.30 | GiZ = -5.38 | Tiempo: 398
+ 
+AcX = -0.13 | AcY = 0.07 | AcZ = 0.08 | GiX = -6.47 | GiY = -8.29 | GiZ = -4.69 | Tiempo: 399
+ 
+AcX = -0.12 | AcY = 0.04 | AcZ = 0.09 | GiX = -4.94 | GiY = -4.67 | GiZ = -2.75 | Tiempo: 400
+ 
+AcX = -0.10 | AcY = 0.03 | AcZ = 0.10 | GiX = -7.22 | GiY = -8.27 | GiZ = -1.28 | Tiempo: 401
+ 
+AcX = -0.10 | AcY = 0.03 | AcZ = 0.10 | GiX = -8.98 | GiY = -13.71 | GiZ = -5.13 | Tiempo: 402
+ 
+AcX = -0.10 | AcY = 0.02 | AcZ = 0.10 | GiX = -9.83 | GiY = -14.73 | GiZ = -7.85 | Tiempo: 403
+ 
+AcX = -0.12 | AcY = 0.02 | AcZ = 0.12 | GiX = -12.00 | GiY = -22.07 | GiZ = -9.71 | Tiempo: 404
+ 
+AcX = -0.13 | AcY = -0.01 | AcZ = 0.16 | GiX = -14.76 | GiY = -31.54 | GiZ = -17.91 | Tiempo: 405
+ 
+AcX = -0.11 | AcY = -0.01 | AcZ = 0.21 | GiX = -16.88 | GiY = -40.59 | GiZ = -24.15 | Tiempo: 406
+ 
+AcX = -0.10 | AcY = 0.07 | AcZ = 0.19 | GiX = -17.74 | GiY = -46.21 | GiZ = -24.47 | Tiempo: 407
+ 
+AcX = -0.11 | AcY = 0.10 | AcZ = 0.12 | GiX = -15.51 | GiY = -40.58 | GiZ = -9.22 | Tiempo: 408
+ 
+AcX = -0.12 | AcY = 0.04 | AcZ = 0.15 | GiX = -15.53 | GiY = -48.36 | GiZ = -4.21 | Tiempo: 409
+ 
+AcX = -0.15 | AcY = 0.05 | AcZ = 0.14 | GiX = -15.07 | GiY = -52.15 | GiZ = -2.26 | Tiempo: 410
+ 
+AcX = -0.11 | AcY = 0.09 | AcZ = 0.07 | GiX = -8.12 | GiY = -48.50 | GiZ = 8.64 | Tiempo: 411
+ 
+AcX = -0.10 | AcY = 0.15 | AcZ = -0.04 | GiX = 7.83 | GiY = -25.28 | GiZ = 14.76 | Tiempo: 412
+ 
+AcX = -0.21 | AcY = 0.08 | AcZ = 0.03 | GiX = 2.09 | GiY = -28.73 | GiZ = -1.39 | Tiempo: 413
+ 
+AcX = -0.20 | AcY = 0.02 | AcZ = 0.04 | GiX = -1.85 | GiY = -32.53 | GiZ = 3.80 | Tiempo: 414
+ 
+AcX = -0.18 | AcY = -0.00 | AcZ = 0.01 | GiX = -2.44 | GiY = -10.47 | GiZ = -5.86 | Tiempo: 415
+ 
+AcX = -0.15 | AcY = 0.04 | AcZ = -0.00 | GiX = -7.68 | GiY = -11.77 | GiZ = -8.99 | Tiempo: 416
+ 
+AcX = -0.17 | AcY = 0.09 | AcZ = 0.03 | GiX = -14.17 | GiY = -32.53 | GiZ = -13.12 | Tiempo: 417
+ 
+AcX = -0.19 | AcY = 0.08 | AcZ = 0.02 | GiX = -17.42 | GiY = -38.00 | GiZ = -7.41 | Tiempo: 418
+ 
+AcX = -0.23 | AcY = 0.04 | AcZ = 0.02 | GiX = -13.71 | GiY = -22.96 | GiZ = -20.60 | Tiempo: 419
+ 
+AcX = -0.15 | AcY = 0.01 | AcZ = 0.04 | GiX = -10.15 | GiY = -15.42 | GiZ = -14.06 | Tiempo: 420
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.10 | GiX = -14.73 | GiY = -26.73 | GiZ = -22.55 | Tiempo: 421
+ 
+AcX = -0.16 | AcY = 0.14 | AcZ = 0.09 | GiX = -19.19 | GiY = -29.88 | GiZ = -16.29 | Tiempo: 422
+ 
+AcX = -0.15 | AcY = 0.14 | AcZ = 0.11 | GiX = -18.50 | GiY = -26.43 | GiZ = -10.29 | Tiempo: 423
+ 
+AcX = -0.18 | AcY = 0.13 | AcZ = 0.11 | GiX = -14.47 | GiY = -26.91 | GiZ = -1.02 | Tiempo: 424
+ 
+AcX = -0.18 | AcY = 0.11 | AcZ = 0.12 | GiX = -11.17 | GiY = -29.62 | GiZ = 1.85 | Tiempo: 425
+ 
+AcX = -0.20 | AcY = 0.12 | AcZ = 0.09 | GiX = -8.15 | GiY = -29.37 | GiZ = 1.02 | Tiempo: 426
+ 
+AcX = -0.23 | AcY = 0.13 | AcZ = 0.07 | GiX = -4.55 | GiY = -20.40 | GiZ = 4.84 | Tiempo: 427
+ 
+AcX = -0.23 | AcY = 0.07 | AcZ = 0.05 | GiX = -3.45 | GiY = -19.74 | GiZ = 4.79 | Tiempo: 428
+ 
+AcX = -0.27 | AcY = 0.00 | AcZ = 0.04 | GiX = -2.94 | GiY = -18.52 | GiZ = 5.54 | Tiempo: 429
+ 
+AcX = -0.27 | AcY = -0.01 | AcZ = 0.07 | GiX = -4.84 | GiY = -12.87 | GiZ = -5.83 | Tiempo: 430
+ 
+AcX = -0.22 | AcY = 0.03 | AcZ = 0.12 | GiX = -10.35 | GiY = -14.38 | GiZ = -11.36 | Tiempo: 431
+ 
+AcX = -0.23 | AcY = 0.09 | AcZ = 0.13 | GiX = -17.80 | GiY = -18.78 | GiZ = -16.03 | Tiempo: 432
+ 
+AcX = -0.22 | AcY = 0.04 | AcZ = 0.12 | GiX = -20.79 | GiY = -19.04 | GiZ = -20.14 | Tiempo: 433
+ 
+AcX = -0.18 | AcY = 0.04 | AcZ = 0.15 | GiX = -17.11 | GiY = -18.44 | GiZ = -18.23 | Tiempo: 434
+ 
+AcX = -0.17 | AcY = 0.09 | AcZ = 0.18 | GiX = -13.51 | GiY = -19.85 | GiZ = -14.60 | Tiempo: 435
+ 
+AcX = -0.17 | AcY = 0.17 | AcZ = 0.19 | GiX = -5.69 | GiY = -11.27 | GiZ = -0.63 | Tiempo: 436
+ 
+AcX = -0.16 | AcY = 0.09 | AcZ = 0.14 | GiX = 1.68 | GiY = -1.05 | GiZ = 9.83 | Tiempo: 437
+ 
+AcX = -0.18 | AcY = 0.00 | AcZ = 0.14 | GiX = 6.69 | GiY = -5.02 | GiZ = 9.40 | Tiempo: 438
+ 
+AcX = -0.21 | AcY = 0.04 | AcZ = 0.18 | GiX = 12.99 | GiY = 0.06 | GiZ = 4.53 | Tiempo: 439
+ 
+AcX = -0.21 | AcY = 0.05 | AcZ = 0.19 | GiX = 16.12 | GiY = 8.93 | GiZ = 10.93 | Tiempo: 440
+ 
+AcX = -0.15 | AcY = 0.03 | AcZ = 0.22 | GiX = 16.35 | GiY = 12.84 | GiZ = 10.90 | Tiempo: 441
+ 
+AcX = -0.19 | AcY = -0.00 | AcZ = 0.22 | GiX = 11.86 | GiY = 11.96 | GiZ = 11.30 | Tiempo: 442
+ 
+AcX = -0.23 | AcY = 0.03 | AcZ = 0.20 | GiX = 8.58 | GiY = 21.01 | GiZ = 6.38 | Tiempo: 443
+ 
+AcX = -0.18 | AcY = 0.09 | AcZ = 0.07 | GiX = 5.27 | GiY = 37.41 | GiZ = 4.21 | Tiempo: 444
+ 
+AcX = -0.09 | AcY = 0.14 | AcZ = 0.01 | GiX = 9.57 | GiY = 37.16 | GiZ = 10.81 | Tiempo: 445
+ 
+AcX = -0.08 | AcY = 0.07 | AcZ = -0.07 | GiX = 20.66 | GiY = 23.28 | GiZ = 8.26 | Tiempo: 446
+ 
+AcX = -0.12 | AcY = 0.05 | AcZ = -0.07 | GiX = 23.39 | GiY = 9.53 | GiZ = -4.84 | Tiempo: 447
+ 
+AcX = -0.11 | AcY = 0.10 | AcZ = -0.12 | GiX = 23.99 | GiY = 18.25 | GiZ = -8.63 | Tiempo: 448
+ 
+AcX = -0.07 | AcY = 0.12 | AcZ = -0.12 | GiX = 25.68 | GiY = 14.70 | GiZ = 5.75 | Tiempo: 449
+ 
+AcX = -0.09 | AcY = 0.02 | AcZ = -0.09 | GiX = 24.14 | GiY = 17.04 | GiZ = 11.19 | Tiempo: 450
+ 
+AcX = -0.12 | AcY = -0.01 | AcZ = -0.06 | GiX = 12.05 | GiY = 12.05 | GiZ = 5.80 | Tiempo: 451
+ 
+AcX = -0.12 | AcY = 0.02 | AcZ = -0.04 | GiX = 3.83 | GiY = 5.12 | GiZ = -0.02 | Tiempo: 452
+ 
+AcX = -0.09 | AcY = 0.07 | AcZ = -0.04 | GiX = -3.19 | GiY = 3.39 | GiZ = -2.34 | Tiempo: 453
+ 
+AcX = -0.11 | AcY = 0.05 | AcZ = -0.04 | GiX = -8.84 | GiY = -3.91 | GiZ = -0.18 | Tiempo: 454
+ 
+AcX = -0.12 | AcY = 0.04 | AcZ = -0.08 | GiX = -12.40 | GiY = -7.78 | GiZ = -4.00 | Tiempo: 455
+ 
+AcX = -0.13 | AcY = 0.03 | AcZ = -0.10 | GiX = -15.13 | GiY = -12.61 | GiZ = -4.73 | Tiempo: 456
+ 
+AcX = -0.12 | AcY = 0.03 | AcZ = -0.10 | GiX = -19.02 | GiY = -16.99 | GiZ = -8.54 | Tiempo: 457
+ 
+AcX = -0.13 | AcY = 0.04 | AcZ = -0.09 | GiX = -21.66 | GiY = -22.17 | GiZ = -7.86 | Tiempo: 458
+ 
+AcX = -0.14 | AcY = 0.01 | AcZ = -0.08 | GiX = -23.37 | GiY = -25.88 | GiZ = -10.28 | Tiempo: 459
+ 
+AcX = -0.22 | AcY = 0.02 | AcZ = -0.02 | GiX = -27.33 | GiY = -42.65 | GiZ = -17.56 | Tiempo: 460
+ 
+AcX = -0.31 | AcY = -0.05 | AcZ = 0.06 | GiX = -30.70 | GiY = -51.97 | GiZ = -38.20 | Tiempo: 461
+ 
+AcX = -0.28 | AcY = -0.11 | AcZ = 0.09 | GiX = -27.07 | GiY = -34.93 | GiZ = -50.25 | Tiempo: 462
+ 
+AcX = -0.22 | AcY = -0.08 | AcZ = 0.15 | GiX = -22.00 | GiY = -7.71 | GiZ = -53.48 | Tiempo: 463
+ 
+AcX = -0.28 | AcY = -0.03 | AcZ = 0.13 | GiX = -18.61 | GiY = 6.86 | GiZ = -34.08 | Tiempo: 464
+ 
+AcX = -0.33 | AcY = -0.13 | AcZ = 0.17 | GiX = -16.40 | GiY = 11.89 | GiZ = -44.37 | Tiempo: 465
+ 
+AcX = -0.36 | AcY = -0.15 | AcZ = 0.17 | GiX = -16.98 | GiY = -0.99 | GiZ = -59.38 | Tiempo: 466
+ 
+AcX = -0.45 | AcY = -0.10 | AcZ = 0.18 | GiX = -14.35 | GiY = 0.23 | GiZ = -55.74 | Tiempo: 467
+ 
+AcX = -0.49 | AcY = -0.09 | AcZ = 0.21 | GiX = -15.48 | GiY = 3.59 | GiZ = -60.64 | Tiempo: 468
+ 
+AcX = -0.50 | AcY = 0.03 | AcZ = 0.22 | GiX = -19.97 | GiY = -13.33 | GiZ = -40.58 | Tiempo: 469
+ 
+AcX = -0.55 | AcY = 0.13 | AcZ = 0.18 | GiX = -11.39 | GiY = -20.53 | GiZ = -12.14 | Tiempo: 470
+ 
+AcX = -0.59 | AcY = 0.09 | AcZ = 0.19 | GiX = -19.04 | GiY = -53.14 | GiZ = -11.16 | Tiempo: 471
+ 
+AcX = -0.60 | AcY = 0.14 | AcZ = 0.25 | GiX = -28.18 | GiY = -64.61 | GiZ = -27.82 | Tiempo: 472
+ 
+AcX = -0.61 | AcY = 0.11 | AcZ = 0.22 | GiX = -31.94 | GiY = -65.08 | GiZ = -9.76 | Tiempo: 473
+ 
+AcX = -0.54 | AcY = 0.02 | AcZ = 0.21 | GiX = -33.92 | GiY = -81.40 | GiZ = -12.75 | Tiempo: 474
+ 
+AcX = -0.69 | AcY = 0.00 | AcZ = 0.17 | GiX = -40.59 | GiY = -77.89 | GiZ = -16.03 | Tiempo: 475
+ 
+AcX = -0.87 | AcY = 0.12 | AcZ = -0.33 | GiX = -50.85 | GiY = -53.46 | GiZ = -18.11 | Tiempo: 476
+ 
+AcX = -0.52 | AcY = -0.07 | AcZ = -0.02 | GiX = -63.83 | GiY = -61.83 | GiZ = -42.52 | Tiempo: 477
+ 
+AcX = -0.42 | AcY = -0.04 | AcZ = -0.14 | GiX = -86.84 | GiY = -66.52 | GiZ = -32.02 | Tiempo: 478
+ 
+AcX = -1.17 | AcY = 0.82 | AcZ = 0.44 | GiX = 17.74 | GiY = -27.10 | GiZ = 22.78 | Tiempo: 479
+ 
+AcX = -0.36 | AcY = -0.20 | AcZ = 0.80 | GiX = 36.64 | GiY = -59.13 | GiZ = 29.43 | Tiempo: 480
+ 
+AcX = -0.92 | AcY = 0.98 | AcZ = 0.66 | GiX = -135.56 | GiY = -1.77 | GiZ = 131.11 | Tiempo: 481
+Posible caída
+AcX = 0.50 | AcY = 0.11 | AcZ = -0.09 | GiX = -206.18 | GiY = 102.18 | GiZ = 64.69 | Tiempo: 482
+Falsa detección
+AcX = -0.35 | AcY = -0.82 | AcZ = 0.26 | GiX = -133.82 | GiY = 52.15 | GiZ = 110.72 | Tiempo: 483
+Posible caída
+AcX = 0.33 | AcY = -0.27 | AcZ = 2.08 | GiX = -160.98 | GiY = -23.94 | GiZ = 94.73 | Tiempo: 484
+ 
+AcX = -0.21 | AcY = -0.60 | AcZ = 0.90 | GiX = -172.65 | GiY = -50.76 | GiZ = 101.02 | Tiempo: 485
+ 
+AcX = -0.07 | AcY = -0.47 | AcZ = 1.21 | GiX = -99.60 | GiY = -65.31 | GiZ = 85.80 | Tiempo: 486
+ 
+AcX = -0.16 | AcY = -0.87 | AcZ = 1.44 | GiX = -76.78 | GiY = -40.33 | GiZ = 44.85 | Tiempo: 487
+ 
+AcX = -0.08 | AcY = -1.23 | AcZ = 1.12 | GiX = -55.78 | GiY = 41.27 | GiZ = 60.67 | Tiempo: 488
+ 
+AcX = -0.13 | AcY = -1.16 | AcZ = 0.80 | GiX = -12.32 | GiY = 35.59 | GiZ = 26.85 | Tiempo: 489
+ 
+AcX = 0.00 | AcY = -1.38 | AcZ = 0.69 | GiX = -18.99 | GiY = 3.80 | GiZ = 8.41 | Tiempo: 490
+ 
+AcX = -0.21 | AcY = -1.34 | AcZ = 0.79 | GiX = -22.30 | GiY = -29.37 | GiZ = 8.26 | Tiempo: 491
+ 
+AcX = -0.26 | AcY = -1.11 | AcZ = 0.83 | GiX = -7.27 | GiY = -14.04 | GiZ = 0.14 | Tiempo: 492
+ 
+AcX = -0.24 | AcY = -1.12 | AcZ = 0.89 | GiX = 0.05 | GiY = 6.11 | GiZ = 9.75 | Tiempo: 493
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.91 | GiX = 6.05 | GiY = 3.47 | GiZ = 13.10 | Tiempo: 494
+ 
+AcX = -0.13 | AcY = -1.01 | AcZ = 0.76 | GiX = 5.96 | GiY = 7.77 | GiZ = 0.46 | Tiempo: 495
+ 
+AcX = -0.14 | AcY = -1.01 | AcZ = 0.82 | GiX = 14.15 | GiY = -4.27 | GiZ = -2.08 | Tiempo: 496
+ 
+AcX = -0.24 | AcY = -0.95 | AcZ = 0.92 | GiX = 18.23 | GiY = -8.36 | GiZ = -1.86 | Tiempo: 497
+ 
+AcX = -0.26 | AcY = -0.95 | AcZ = 0.96 | GiX = 10.81 | GiY = -6.44 | GiZ = -3.85 | Tiempo: 498
+ 
+AcX = -0.19 | AcY = -0.96 | AcZ = 0.97 | GiX = 1.54 | GiY = -8.62 | GiZ = -3.48 | Tiempo: 499
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.90 | GiX = -2.23 | GiY = -10.04 | GiZ = -0.09 | Tiempo: 500
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.88 | GiX = -3.13 | GiY = -16.40 | GiZ = 3.88 | Tiempo: 501
+ 
+AcX = -0.09 | AcY = -1.00 | AcZ = 0.91 | GiX = -3.74 | GiY = -23.66 | GiZ = 0.27 | Tiempo: 502
+ 
+AcX = -0.10 | AcY = -0.99 | AcZ = 0.76 | GiX = -4.41 | GiY = -16.96 | GiZ = 0.70 | Tiempo: 503
+ 
+AcX = -0.10 | AcY = -1.00 | AcZ = 0.64 | GiX = -5.97 | GiY = 0.09 | GiZ = 2.99 | Tiempo: 504
+ 
+AcX = -0.08 | AcY = -1.03 | AcZ = 0.74 | GiX = -0.91 | GiY = -2.56 | GiZ = -0.03 | Tiempo: 505
+ 
+AcX = -0.01 | AcY = -0.93 | AcZ = 1.25 | GiX = -3.85 | GiY = -32.98 | GiZ = 0.06 | Tiempo: 506
+ 
+AcX = -0.02 | AcY = -1.06 | AcZ = 0.81 | GiX = 0.78 | GiY = -17.22 | GiZ = 1.75 | Tiempo: 507
+ 
+AcX = -0.03 | AcY = -1.02 | AcZ = 0.96 | GiX = 1.38 | GiY = -18.52 | GiZ = 5.16 | Tiempo: 508
+ 
+AcX = -0.06 | AcY = -0.99 | AcZ = 0.68 | GiX = 4.89 | GiY = -6.29 | GiZ = 5.17 | Tiempo: 509
+ 
+AcX = -0.02 | AcY = -0.99 | AcZ = 0.83 | GiX = -3.13 | GiY = -11.74 | GiZ = 3.14 | Tiempo: 510
+ 
+AcX = 0.02 | AcY = -0.98 | AcZ = 0.74 | GiX = -7.02 | GiY = 3.82 | GiZ = -0.55 | Tiempo: 511
+ 
+AcX = -0.01 | AcY = -1.01 | AcZ = 0.75 | GiX = -1.53 | GiY = 15.64 | GiZ = 2.17 | Tiempo: 512
+ 
+AcX = -0.02 | AcY = -1.02 | AcZ = 0.78 | GiX = 1.56 | GiY = 13.19 | GiZ = 1.65 | Tiempo: 513
+ 
+AcX = -0.03 | AcY = -1.02 | AcZ = 0.81 | GiX = 3.73 | GiY = 12.49 | GiZ = -0.18 | Tiempo: 514
+ 
+AcX = -0.07 | AcY = -1.00 | AcZ = 0.82 | GiX = 6.03 | GiY = 18.47 | GiZ = 2.37 | Tiempo: 515
+ 
+AcX = -0.11 | AcY = -0.96 | AcZ = 0.84 | GiX = 5.10 | GiY = 22.49 | GiZ = 7.60 | Tiempo: 516
+ 
+AcX = -0.11 | AcY = -1.00 | AcZ = 0.87 | GiX = 6.57 | GiY = 17.57 | GiZ = 4.38 | Tiempo: 517
+ 
+AcX = -0.14 | AcY = -1.00 | AcZ = 0.88 | GiX = 7.27 | GiY = 12.72 | GiZ = 3.31 | Tiempo: 518
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = 5.80 | GiY = 9.44 | GiZ = 3.04 | Tiempo: 519
+ 
+AcX = -0.15 | AcY = -1.00 | AcZ = 0.87 | GiX = 4.60 | GiY = 6.38 | GiZ = 1.40 | Tiempo: 520
+ 
+AcX = -0.15 | AcY = -1.00 | AcZ = 0.88 | GiX = 2.98 | GiY = 2.02 | GiZ = -2.09 | Tiempo: 521
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.87 | GiX = 1.68 | GiY = 0.58 | GiZ = -2.66 | Tiempo: 522
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.89 | GiY = -2.14 | GiZ = -1.92 | Tiempo: 523
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.01 | GiY = -2.03 | GiZ = -2.86 | Tiempo: 524
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.56 | GiY = -2.00 | GiZ = -3.33 | Tiempo: 525
+ 
+AcX = -0.13 | AcY = -1.00 | AcZ = 0.85 | GiX = -0.94 | GiY = -1.53 | GiZ = -1.42 | Tiempo: 526
+ 
+AcX = -0.13 | AcY = -0.99 | AcZ = 0.86 | GiX = -0.55 | GiY = -2.79 | GiZ = -0.46 | Tiempo: 527
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.86 | GiX = -0.62 | GiY = -0.87 | GiZ = -0.34 | Tiempo: 528
+ 
+AcX = -0.13 | AcY = -0.99 | AcZ = 0.85 | GiX = -0.09 | GiY = -0.85 | GiZ = 0.69 | Tiempo: 529
+ 
+AcX = -0.12 | AcY = -0.99 | AcZ = 0.85 | GiX = 0.44 | GiY = -1.02 | GiZ = -1.04 | Tiempo: 530
+ 
+AcX = -0.13 | AcY = -0.99 | AcZ = 0.86 | GiX = 1.02 | GiY = 0.43 | GiZ = -2.25 | Tiempo: 531
+ 
+AcX = -0.12 | AcY = -0.97 | AcZ = 0.85 | GiX = 0.80 | GiY = -0.17 | GiZ = -1.91 | Tiempo: 532
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.75 | GiY = 2.23 | GiZ = -0.98 | Tiempo: 533
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.25 | GiY = 2.44 | GiZ = -0.57 | Tiempo: 534
+ 
+AcX = -0.13 | AcY = -0.99 | AcZ = 0.86 | GiX = 0.03 | GiY = 2.31 | GiZ = 0.04 | Tiempo: 535
+ 
+AcX = -0.12 | AcY = -1.01 | AcZ = 0.86 | GiX = 0.73 | GiY = 1.64 | GiZ = 0.49 | Tiempo: 536
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.77 | GiY = 0.03 | GiZ = 0.58 | Tiempo: 537
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.72 | GiY = 2.02 | GiZ = 0.61 | Tiempo: 538
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.58 | GiY = 1.65 | GiZ = 2.18 | Tiempo: 539
+ 
+AcX = -0.14 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.31 | GiY = 0.26 | GiZ = 0.62 | Tiempo: 540
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.70 | GiY = 0.38 | GiZ = 0.06 | Tiempo: 541
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.85 | GiX = 0.95 | GiY = -0.15 | GiZ = 0.30 | Tiempo: 542
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.93 | GiY = 1.18 | GiZ = 1.07 | Tiempo: 543
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.63 | GiY = 1.59 | GiZ = 0.21 | Tiempo: 544
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.49 | GiY = 1.01 | GiZ = 0.44 | Tiempo: 545
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.93 | GiY = 1.27 | GiZ = 0.58 | Tiempo: 546
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.63 | GiY = 1.45 | GiZ = 5.48 | Tiempo: 547
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.86 | GiX = 1.38 | GiY = -1.02 | GiZ = 3.83 | Tiempo: 548
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.61 | GiY = 1.35 | GiZ = 1.86 | Tiempo: 549
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.60 | GiY = 1.68 | GiZ = 3.98 | Tiempo: 550
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.55 | GiY = -0.56 | GiZ = 1.85 | Tiempo: 551
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.87 | GiX = 1.12 | GiY = -0.15 | GiZ = -0.55 | Tiempo: 552
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.85 | GiX = 0.75 | GiY = -0.70 | GiZ = -0.84 | Tiempo: 553
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.99 | GiY = -0.58 | GiZ = -1.18 | Tiempo: 554
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.55 | GiY = 0.55 | GiZ = -1.21 | Tiempo: 555
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.29 | GiY = 0.29 | GiZ = -1.15 | Tiempo: 556
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.55 | GiY = 0.03 | GiZ = -0.50 | Tiempo: 557
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.46 | GiY = 0.02 | GiZ = -0.31 | Tiempo: 558
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.49 | GiY = -0.38 | GiZ = -0.54 | Tiempo: 559
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.61 | GiY = -0.35 | GiZ = -0.63 | Tiempo: 560
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.35 | GiY = -0.40 | GiZ = -0.47 | Tiempo: 561
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.31 | GiY = -0.36 | GiZ = -1.28 | Tiempo: 562
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.22 | GiY = 0.55 | GiZ = -0.47 | Tiempo: 563
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.88 | GiX = 0.47 | GiY = -0.53 | GiZ = 0.12 | Tiempo: 564
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.22 | GiY = 1.18 | GiZ = 0.44 | Tiempo: 565
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.87 | GiX = -0.11 | GiY = -0.03 | GiZ = 0.46 | Tiempo: 566
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.57 | GiY = -0.64 | GiZ = -1.45 | Tiempo: 567
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.64 | GiY = -0.46 | GiZ = -1.42 | Tiempo: 568
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.26 | GiY = -0.76 | GiZ = -1.22 | Tiempo: 569
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.66 | GiY = 0.32 | GiZ = -0.83 | Tiempo: 570
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = -0.21 | GiY = -0.04 | GiZ = -0.99 | Tiempo: 571
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.17 | GiY = 0.08 | GiZ = -0.50 | Tiempo: 572
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.23 | GiY = -0.67 | GiZ = -0.37 | Tiempo: 573
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.02 | GiY = -0.55 | GiZ = -0.09 | Tiempo: 574
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.00 | GiY = -0.55 | GiZ = 0.95 | Tiempo: 575
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.86 | GiX = -0.07 | GiY = -0.69 | GiZ = -0.35 | Tiempo: 576
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.85 | GiX = 0.51 | GiY = -0.44 | GiZ = -0.02 | Tiempo: 577
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.64 | GiY = -0.33 | GiZ = 0.14 | Tiempo: 578
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = -0.14 | GiY = 0.61 | GiZ = 0.53 | Tiempo: 579
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.85 | GiX = -0.29 | GiY = 0.20 | GiZ = 0.70 | Tiempo: 580
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.49 | GiY = -0.41 | GiZ = -1.13 | Tiempo: 581
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.96 | GiY = -0.07 | GiZ = -1.82 | Tiempo: 582
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.57 | GiY = -0.38 | GiZ = -0.69 | Tiempo: 583
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.87 | GiX = 0.49 | GiY = 0.69 | GiZ = -0.29 | Tiempo: 584
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = -0.23 | GiY = 0.41 | GiZ = -0.52 | Tiempo: 585
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.15 | GiY = -0.03 | GiZ = -0.21 | Tiempo: 586
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.44 | GiY = -0.49 | GiZ = -0.29 | Tiempo: 587
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.18 | GiY = -0.32 | GiZ = -0.32 | Tiempo: 588
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.05 | GiY = -0.14 | GiZ = -0.55 | Tiempo: 589
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.07 | GiY = 0.06 | GiZ = 3.39 | Tiempo: 590
+ 
+AcX = -0.15 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.35 | GiY = -2.04 | GiZ = 0.09 | Tiempo: 591
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.26 | GiY = 0.92 | GiZ = -1.10 | Tiempo: 592
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.00 | GiY = 0.86 | GiZ = 1.05 | Tiempo: 593
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.05 | GiY = -0.87 | GiZ = -1.04 | Tiempo: 594
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.32 | GiY = -0.75 | GiZ = -2.08 | Tiempo: 595
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.61 | GiY = -0.72 | GiZ = -2.46 | Tiempo: 596
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.87 | GiX = 0.32 | GiY = -0.56 | GiZ = -0.99 | Tiempo: 597
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.29 | GiY = 0.09 | GiZ = -1.16 | Tiempo: 598
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.04 | GiY = -0.06 | GiZ = -1.07 | Tiempo: 599
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.17 | GiY = -0.15 | GiZ = -0.55 | Tiempo: 600
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.06 | GiY = -0.17 | GiZ = 0.11 | Tiempo: 601
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.14 | GiY = -0.17 | GiZ = 0.03 | Tiempo: 602
+ 
+AcX = -0.15 | AcY = -0.94 | AcZ = 0.85 | GiX = -0.15 | GiY = 0.15 | GiZ = 1.71 | Tiempo: 603
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.35 | GiY = -1.04 | GiZ = -0.18 | Tiempo: 604
+ 
+AcX = -0.13 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.51 | GiY = -0.03 | GiZ = -0.52 | Tiempo: 605
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.86 | GiX = 0.09 | GiY = 0.67 | GiZ = -0.34 | Tiempo: 606
+ 
+AcX = -0.14 | AcY = -0.98 | AcZ = 0.86 | GiX = -0.32 | GiY = 0.78 | GiZ = 0.53 | Tiempo: 607
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.00 | GiY = -0.04 | GiZ = -0.47 | Tiempo: 608
+ 
+AcX = -0.13 | AcY = -0.98 | AcZ = 0.85 | GiX = 0.66 | GiY = -0.41 | GiZ = -0.83 | Tiempo: 609
+ 
+AcX = -0.13 | AcY = -0.96 | AcZ = 0.86 | GiX = -0.27 | GiY = -0.58 | GiZ = 1.42 | Tiempo: 610
+ 
+AcX = -0.12 | AcY = -0.95 | AcZ = 0.94 | GiX = 0.08 | GiY = 0.14 | GiZ = 0.91 | Tiempo: 611
+ 
+AcX = -0.14 | AcY = -0.96 | AcZ = 0.87 | GiX = -0.44 | GiY = 1.80 | GiZ = 1.51 | Tiempo: 612
+ 
+AcX = -0.14 | AcY = -0.97 | AcZ = 0.86 | GiX = -0.76 | GiY = 2.08 | GiZ = 1.94 | Tiempo: 613
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.86 | GiX = -0.98 | GiY = 2.61 | GiZ = 4.82 | Tiempo: 614
+ 
+AcX = -0.15 | AcY = -0.96 | AcZ = 0.86 | GiX = -0.98 | GiY = 3.07 | GiZ = 5.19 | Tiempo: 615
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.23 | GiY = 2.63 | GiZ = 3.48 | Tiempo: 616
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.57 | GiY = 0.75 | GiZ = 2.03 | Tiempo: 617
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.37 | GiY = 2.75 | GiZ = 1.59 | Tiempo: 618
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.88 | GiX = 0.86 | GiY = 1.59 | GiZ = 4.76 | Tiempo: 619
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.88 | GiX = 0.06 | GiY = 1.30 | GiZ = 2.33 | Tiempo: 620
+ 
+AcX = -0.17 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.28 | GiY = -0.27 | GiZ = -0.17 | Tiempo: 621
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.86 | GiX = 0.51 | GiY = 0.17 | GiZ = 1.21 | Tiempo: 622
+ 
+AcX = -0.15 | AcY = -0.98 | AcZ = 0.87 | GiX = 1.16 | GiY = 0.14 | GiZ = 1.08 | Tiempo: 623
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.18 | GiY = 0.99 | GiZ = 1.10 | Tiempo: 624
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.98 | GiY = 0.09 | GiZ = 2.06 | Tiempo: 625
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.43 | GiY = 0.35 | GiZ = 0.69 | Tiempo: 626
+ 
+AcX = -0.14 | AcY = -0.99 | AcZ = 0.88 | GiX = 0.67 | GiY = 0.75 | GiZ = 2.72 | Tiempo: 627
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.63 | GiY = -1.05 | GiZ = 3.91 | Tiempo: 628
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.40 | GiY = 1.01 | GiZ = 1.48 | Tiempo: 629
+ 
+AcX = -0.17 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.18 | GiY = 0.52 | GiZ = 2.70 | Tiempo: 630
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.57 | GiY = -0.32 | GiZ = -0.49 | Tiempo: 631
+ 
+AcX = -0.17 | AcY = -0.97 | AcZ = 0.87 | GiX = -0.04 | GiY = -0.55 | GiZ = -1.13 | Tiempo: 632
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.84 | GiY = -0.44 | GiZ = -0.43 | Tiempo: 633
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.87 | GiX = 0.44 | GiY = -0.17 | GiZ = -1.24 | Tiempo: 634
+ 
+AcX = -0.17 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.58 | GiY = 0.12 | GiZ = -0.37 | Tiempo: 635
+ 
+AcX = -0.17 | AcY = -0.98 | AcZ = 0.86 | GiX = -0.06 | GiY = -0.04 | GiZ = -0.37 | Tiempo: 636
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.44 | GiY = -0.55 | GiZ = -1.45 | Tiempo: 637
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.46 | GiY = -0.09 | GiZ = -0.87 | Tiempo: 638
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.88 | GiX = 0.81 | GiY = -1.20 | GiZ = 1.30 | Tiempo: 639
+ 
+AcX = -0.16 | AcY = -0.97 | AcZ = 0.88 | GiX = 0.02 | GiY = 0.43 | GiZ = 0.32 | Tiempo: 640
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = -0.04 | GiY = -0.67 | GiZ = 1.30 | Tiempo: 641
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.86 | GiX = -0.24 | GiY = -0.99 | GiZ = 0.09 | Tiempo: 642
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = -0.26 | GiY = -1.20 | GiZ = 0.04 | Tiempo: 643
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.86 | GiX = -0.21 | GiY = -1.20 | GiZ = 1.02 | Tiempo: 644
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.38 | GiY = -0.36 | GiZ = 2.26 | Tiempo: 645
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.49 | GiY = 0.38 | GiZ = 1.69 | Tiempo: 646
+ 
+AcX = -0.17 | AcY = -0.97 | AcZ = 0.86 | GiX = -0.41 | GiY = -0.62 | GiZ = 3.22 | Tiempo: 647
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.86 | GiX = -0.87 | GiY = -1.53 | GiZ = 5.95 | Tiempo: 648
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = -0.23 | GiY = -0.36 | GiZ = 6.84 | Tiempo: 649
+ 
+AcX = -0.15 | AcY = -1.01 | AcZ = 0.87 | GiX = 0.70 | GiY = -2.46 | GiZ = 6.85 | Tiempo: 650
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 1.10 | GiY = 0.12 | GiZ = 3.56 | Tiempo: 651
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.86 | GiX = 0.61 | GiY = 0.55 | GiZ = 2.06 | Tiempo: 652
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.87 | GiX = 0.12 | GiY = -0.18 | GiZ = 0.41 | Tiempo: 653
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.23 | GiY = -0.58 | GiZ = -1.22 | Tiempo: 654
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.86 | GiX = 0.15 | GiY = 0.54 | GiZ = 0.11 | Tiempo: 655
+ 
+AcX = -0.15 | AcY = -1.00 | AcZ = 0.86 | GiX = 0.29 | GiY = 0.40 | GiZ = 0.61 | Tiempo: 656
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.86 | GiX = -0.98 | GiY = 0.84 | GiZ = -0.66 | Tiempo: 657
+ 
+AcX = -0.17 | AcY = -1.00 | AcZ = 0.88 | GiX = 0.98 | GiY = 0.49 | GiZ = -0.12 | Tiempo: 658
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.86 | GiX = 0.15 | GiY = -0.35 | GiZ = -1.18 | Tiempo: 659
+ 
+AcX = -0.14 | AcY = -1.01 | AcZ = 0.87 | GiX = 0.12 | GiY = -0.14 | GiZ = -0.14 | Tiempo: 660
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.87 | GiX = 0.63 | GiY = -1.22 | GiZ = 1.57 | Tiempo: 661
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.60 | GiY = 0.61 | GiZ = -1.01 | Tiempo: 662
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.88 | GiX = 0.70 | GiY = -0.53 | GiZ = -0.86 | Tiempo: 663
+ 
+AcX = -0.15 | AcY = -1.00 | AcZ = 0.86 | GiX = 0.32 | GiY = -0.85 | GiZ = -1.67 | Tiempo: 664
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = -0.06 | GiY = 0.08 | GiZ = -1.27 | Tiempo: 665
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.31 | GiY = -0.69 | GiZ = -0.49 | Tiempo: 666
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.14 | GiY = 0.92 | GiZ = 0.18 | Tiempo: 667
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = -0.40 | GiY = 0.70 | GiZ = 0.11 | Tiempo: 668
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.86 | GiX = 0.67 | GiY = 0.83 | GiZ = -0.43 | Tiempo: 669
+ 
+AcX = -0.15 | AcY = -1.00 | AcZ = 0.87 | GiX = 1.07 | GiY = -0.07 | GiZ = -0.46 | Tiempo: 670
+ 
+AcX = -0.15 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.49 | GiY = 1.33 | GiZ = 1.21 | Tiempo: 671
+ 
+AcX = -0.16 | AcY = -1.00 | AcZ = 0.87 | GiX = 0.37 | GiY = 0.25 | GiZ = 4.26 | Tiempo: 672
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.87 | GiX = 0.90 | GiY = 2.00 | GiZ = 0.84 | Tiempo: 673
+ 
+AcX = -0.16 | AcY = -0.98 | AcZ = 0.86 | GiX = 0.26 | GiY = 1.67 | GiZ = 4.00 | Tiempo: 674
+ 
+AcX = -0.16 | AcY = -1.01 | AcZ = 0.87 | GiX = 0.31 | GiY = 0.86 | GiZ = 0.76 | Tiempo: 675
+ 
+AcX = -0.18 | AcY = -1.00 | AcZ = 0.87 | GiX = 0.08 | GiY = 0.41 | GiZ = -1.44 | Tiempo: 676
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.86 | GiX = 0.41 | GiY = -0.29 | GiZ = 0.26 | Tiempo: 677
+ 
+AcX = -0.16 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.40 | GiY = 0.23 | GiZ = 1.08 | Tiempo: 678
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.86 | GiX = 0.57 | GiY = 1.27 | GiZ = 0.41 | Tiempo: 679
+ 
+AcX = -0.17 | AcY = -0.99 | AcZ = 0.87 | GiX = 0.51 | GiY = 0.75 | GiZ = 0.62 | Tiempo: 680
+Envia Email Urgente
+AcX = -0.06 | AcY = 0.04 | AcZ = -0.01 | GiX = 7.60 | GiY = 1.56 | GiZ = 0.24 | Tiempo: 681
+Aviso Recuperacion
+AcX = -0.07 | AcY = 0.02 | AcZ = -0.03 | GiX = -4.15 | GiY = -8.03 | GiZ = -14.40 | Tiempo: 682
+ 
+AcX = -0.05 | AcY = 0.03 | AcZ = -0.00 | GiX = -7.40 | GiY = -10.95 | GiZ = -13.97 | Tiempo: 683
+ 
+AcX = -0.05 | AcY = 0.04 | AcZ = -0.00 | GiX = -13.34 | GiY = -13.66 | GiZ = -13.15 | Tiempo: 684
+ 
+AcX = -0.06 | AcY = 0.03 | AcZ = 0.00 | GiX = -19.37 | GiY = -13.91 | GiZ = -8.49 | Tiempo: 685
+ 
+AcX = -0.04 | AcY = 0.01 | AcZ = 0.04 | GiX = -26.75 | GiY = -19.63 | GiZ = -5.59 | Tiempo: 686
+ 
+AcX = -0.04 | AcY = 0.15 | AcZ = 0.02 | GiX = -28.21 | GiY = -17.51 | GiZ = -6.50 | Tiempo: 687
+ 
+AcX = -0.13 | AcY = 0.23 | AcZ = 0.01 | GiX = -21.33 | GiY = -8.17 | GiZ = -3.65 | Tiempo: 688
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = 0.04 | GiX = -19.10 | GiY = 2.70 | GiZ = -6.47 | Tiempo: 689
+ 
+AcX = -0.16 | AcY = -0.04 | AcZ = 0.06 | GiX = -19.71 | GiY = -5.65 | GiZ = -4.11 | Tiempo: 690
+ 
+AcX = -0.24 | AcY = -0.06 | AcZ = 0.13 | GiX = -18.09 | GiY = -15.13 | GiZ = -7.13 | Tiempo: 691
+ 
+AcX = -0.26 | AcY = 0.04 | AcZ = 0.23 | GiX = -14.11 | GiY = -21.25 | GiZ = -15.73 | Tiempo: 692
+ 
+AcX = -0.21 | AcY = 0.17 | AcZ = 0.14 | GiX = -13.20 | GiY = -9.30 | GiZ = -12.11 | Tiempo: 693
+ 
+AcX = -0.15 | AcY = 0.17 | AcZ = 0.09 | GiX = -6.78 | GiY = 8.83 | GiZ = 4.12 | Tiempo: 694
+ 
+AcX = -0.20 | AcY = 0.05 | AcZ = 0.11 | GiX = 3.31 | GiY = 7.05 | GiZ = 8.46 | Tiempo: 695
+ 
+AcX = -0.17 | AcY = -0.06 | AcZ = 0.18 | GiX = 3.31 | GiY = -1.43 | GiZ = -3.44 | Tiempo: 696
+ 
+AcX = -0.16 | AcY = -0.03 | AcZ = 0.18 | GiX = -0.26 | GiY = 0.89 | GiZ = -4.96 | Tiempo: 697
+ 
+AcX = -0.17 | AcY = 0.03 | AcZ = 0.17 | GiX = 2.14 | GiY = 4.92 | GiZ = -5.18 | Tiempo: 698
+ 
+AcX = -0.17 | AcY = 0.06 | AcZ = 0.16 | GiX = 7.41 | GiY = 9.30 | GiZ = 0.21 | Tiempo: 699
+ 
+AcX = -0.12 | AcY = 0.01 | AcZ = 0.16 | GiX = 13.96 | GiY = 11.02 | GiZ = 4.00 | Tiempo: 700
+ 
+AcX = -0.09 | AcY = -0.02 | AcZ = 0.16 | GiX = 18.05 | GiY = 10.32 | GiZ = 1.65 | Tiempo: 701
+ 
+AcX = -0.10 | AcY = 0.06 | AcZ = 0.15 | GiX = 18.93 | GiY = 10.52 | GiZ = 2.44 | Tiempo: 702
+ 
+AcX = -0.10 | AcY = 0.06 | AcZ = 0.13 | GiX = 23.57 | GiY = 14.86 | GiZ = 5.08 | Tiempo: 703
+ 
+AcX = -0.04 | AcY = 0.09 | AcZ = 0.12 | GiX = 28.93 | GiY = 23.93 | GiZ = 9.51 | Tiempo: 704
+ 
+AcX = -0.09 | AcY = 0.17 | AcZ = 0.10 | GiX = 31.01 | GiY = 34.93 | GiZ = 7.45 | Tiempo: 705
+ 
+AcX = -0.20 | AcY = 0.33 | AcZ = 0.10 | GiX = 21.36 | GiY = 28.92 | GiZ = 4.23 | Tiempo: 706
+ 
+AcX = -0.36 | AcY = 0.07 | AcZ = -0.02 | GiX = 20.66 | GiY = 16.22 | GiZ = -14.25 | Tiempo: 707
+ 
+AcX = -0.40 | AcY = -0.12 | AcZ = -0.13 | GiX = 21.25 | GiY = 26.55 | GiZ = 0.55 | Tiempo: 708
+ 
+AcX = -0.22 | AcY = 0.05 | AcZ = -0.08 | GiX = 15.07 | GiY = 37.99 | GiZ = -6.66 | Tiempo: 709
+ 
+AcX = -0.21 | AcY = 0.30 | AcZ = 0.01 | GiX = 7.82 | GiY = 8.25 | GiZ = -5.73 | Tiempo: 710
+ 
+AcX = -0.22 | AcY = 0.13 | AcZ = -0.00 | GiX = -1.71 | GiY = -14.38 | GiZ = 29.42 | Tiempo: 711
+ 
+AcX = -0.22 | AcY = -0.04 | AcZ = -0.02 | GiX = -2.67 | GiY = -5.89 | GiZ = 22.81 | Tiempo: 712
+ 
+AcX = -0.17 | AcY = -0.06 | AcZ = -0.02 | GiX = 1.85 | GiY = 2.34 | GiZ = -2.57 | Tiempo: 713
+ 
+AcX = -0.13 | AcY = 0.11 | AcZ = 0.01 | GiX = 1.18 | GiY = -13.59 | GiZ = -7.04 | Tiempo: 714
+ 
+AcX = -0.11 | AcY = 0.10 | AcZ = -0.02 | GiX = -2.49 | GiY = -19.94 | GiZ = 6.43 | Tiempo: 715
+ 
+AcX = -0.11 | AcY = -0.02 | AcZ = -0.03 | GiX = -5.53 | GiY = -25.34 | GiZ = 2.17 | Tiempo: 716
+ 
+AcX = -0.11 | AcY = -0.04 | AcZ = -0.02 | GiX = -6.23 | GiY = -21.92 | GiZ = -8.25 | Tiempo: 717
+ 
+AcX = -0.08 | AcY = 0.06 | AcZ = -0.05 | GiX = -11.56 | GiY = -18.75 | GiZ = -8.75 | Tiempo: 718
+ 
+AcX = -0.07 | AcY = 0.05 | AcZ = -0.03 | GiX = -18.84 | GiY = -24.87 | GiZ = 11.97 | Tiempo: 719
+ 
+AcX = -0.02 | AcY = 0.02 | AcZ = -0.01 | GiX = -23.19 | GiY = -28.21 | GiZ = 8.01 | Tiempo: 720
+ 
+AcX = -0.13 | AcY = 0.27 | AcZ = -0.03 | GiX = -17.39 | GiY = -20.47 | GiZ = -8.23 | Tiempo: 721
+ 
+AcX = -0.28 | AcY = 0.18 | AcZ = 0.01 | GiX = -10.96 | GiY = -10.64 | GiZ = -23.19 | Tiempo: 722
+ 
+AcX = -0.22 | AcY = -0.02 | AcZ = 0.06 | GiX = -18.79 | GiY = -33.05 | GiZ = -10.43 | Tiempo: 723
+ 
+AcX = -0.26 | AcY = -0.09 | AcZ = 0.05 | GiX = -17.62 | GiY = -41.63 | GiZ = -20.84 | Tiempo: 724
+ 
+AcX = -0.35 | AcY = 0.23 | AcZ = 0.07 | GiX = -12.43 | GiY = -27.31 | GiZ = -32.46 | Tiempo: 725
+ 
+AcX = -0.26 | AcY = 0.26 | AcZ = 0.03 | GiX = -2.12 | GiY = -0.01 | GiZ = -18.55 | Tiempo: 726
+ 
+AcX = -0.19 | AcY = 0.04 | AcZ = 0.07 | GiX = 0.28 | GiY = -8.95 | GiZ = 1.74 | Tiempo: 727
+ 
+AcX = -0.24 | AcY = -0.09 | AcZ = 0.07 | GiX = 0.96 | GiY = -28.18 | GiZ = -9.91 | Tiempo: 728
+ 
+AcX = -0.23 | AcY = 0.10 | AcZ = 0.03 | GiX = 3.45 | GiY = -14.38 | GiZ = -17.25 | Tiempo: 729
+ 
+AcX = -0.22 | AcY = 0.28 | AcZ = 0.02 | GiX = 12.26 | GiY = 1.39 | GiZ = 15.95 | Tiempo: 730
+ 
+AcX = -0.23 | AcY = 0.11 | AcZ = 0.06 | GiX = 18.12 | GiY = -0.91 | GiZ = 45.98 | Tiempo: 731
+ 
+AcX = -0.16 | AcY = 0.08 | AcZ = -0.06 | GiX = 21.04 | GiY = 4.43 | GiZ = 36.00 | Tiempo: 732
+ 
+AcX = -0.25 | AcY = 0.18 | AcZ = -0.11 | GiX = 24.77 | GiY = 27.70 | GiZ = -2.87 | Tiempo: 733
+ 
+AcX = -0.19 | AcY = 0.04 | AcZ = -0.08 | GiX = 18.58 | GiY = 2.14 | GiZ = 6.87 | Tiempo: 734
+ 
+AcX = -0.15 | AcY = 0.08 | AcZ = -0.05 | GiX = 16.31 | GiY = 11.64 | GiZ = -14.70 | Tiempo: 735
+ 
+AcX = -0.16 | AcY = 0.10 | AcZ = -0.09 | GiX = 14.23 | GiY = -2.29 | GiZ = 12.08 | Tiempo: 736
+ 
+AcX = -0.17 | AcY = 0.03 | AcZ = -0.11 | GiX = 15.74 | GiY = -4.96 | GiZ = 15.54 | Tiempo: 737
+ 
+AcX = -0.13 | AcY = -0.09 | AcZ = -0.13 | GiX = 10.34 | GiY = -5.05 | GiZ = -16.11 | Tiempo: 738
+ 
+AcX = -0.16 | AcY = 0.02 | AcZ = -0.13 | GiX = -2.75 | GiY = -7.40 | GiZ = -14.55 | Tiempo: 739
+ 
+AcX = -0.15 | AcY = 0.16 | AcZ = -0.09 | GiX = -14.56 | GiY = -26.72 | GiZ = -4.14 | Tiempo: 740
+ 
+AcX = -0.13 | AcY = 0.12 | AcZ = -0.07 | GiX = -24.55 | GiY = -48.87 | GiZ = 11.17 | Tiempo: 741
+ 
+AcX = -0.15 | AcY = 0.01 | AcZ = -0.14 | GiX = -36.59 | GiY = -54.46 | GiZ = 6.03 | Tiempo: 742
+ 
+AcX = -0.08 | AcY = -0.04 | AcZ = -0.21 | GiX = -37.66 | GiY = -49.86 | GiZ = -11.97 | Tiempo: 743
+ 
+AcX = -0.17 | AcY = 0.05 | AcZ = -0.33 | GiX = -28.67 | GiY = -36.79 | GiZ = -29.19 | Tiempo: 744
+ 
+AcX = -0.21 | AcY = 0.02 | AcZ = -0.42 | GiX = -16.03 | GiY = -18.47 | GiZ = -42.18 | Tiempo: 745
+ 
+AcX = -0.23 | AcY = 0.07 | AcZ = -0.35 | GiX = -4.41 | GiY = -12.88 | GiZ = -27.76 | Tiempo: 746
+ 
+AcX = -0.21 | AcY = 0.97 | AcZ = 0.30 | GiX = -6.98 | GiY = -98.70 | GiZ = 3.79 | Tiempo: 747
+Posible caída
+AcX = -0.36 | AcY = 0.02 | AcZ = 0.20 | GiX = -19.74 | GiY = 1.99 | GiZ = -7.91 | Tiempo: 748
+Falsa detección
+AcX = -0.18 | AcY = -0.01 | AcZ = 0.34 | GiX = -34.09 | GiY = -32.72 | GiZ = -48.81 | Tiempo: 749
+ 
+AcX = -0.25 | AcY = 0.06 | AcZ = 0.28 | GiX = -31.45 | GiY = -64.03 | GiZ = -5.22 | Tiempo: 750
+ 
+AcX = -0.36 | AcY = 0.06 | AcZ = 0.10 | GiX = -18.56 | GiY = -60.47 | GiZ = -10.47 | Tiempo: 751
+ 
+AcX = -0.35 | AcY = 0.13 | AcZ = 0.21 | GiX = -31.13 | GiY = -39.80 | GiZ = 0.56 | Tiempo: 752
+ 
+AcX = -0.30 | AcY = 0.03 | AcZ = 0.15 | GiX = -22.11 | GiY = -25.40 | GiZ = -10.29 | Tiempo: 753
+ 
+AcX = -0.32 | AcY = 0.08 | AcZ = 0.10 | GiX = -11.22 | GiY = -33.95 | GiZ = -8.06 | Tiempo: 754
+ 
+AcX = -0.31 | AcY = 0.10 | AcZ = 0.07 | GiX = -4.73 | GiY = -26.43 | GiZ = -6.02 | Tiempo: 755
+ 
+AcX = -0.25 | AcY = 0.11 | AcZ = 0.04 | GiX = 6.75 | GiY = -9.72 | GiZ = 3.68 | Tiempo: 756
+ 
+AcX = -0.26 | AcY = 0.14 | AcZ = 0.02 | GiX = 19.48 | GiY = 1.71 | GiZ = 15.63 | Tiempo: 757
+ 
+AcX = -0.26 | AcY = 0.13 | AcZ = 0.02 | GiX = 34.81 | GiY = 7.54 | GiZ = 15.88 | Tiempo: 758
+ 
+AcX = -0.24 | AcY = 0.17 | AcZ = -0.03 | GiX = 45.31 | GiY = 16.12 | GiZ = 36.20 | Tiempo: 759
+ 
+AcX = -0.31 | AcY = 0.05 | AcZ = -0.04 | GiX = 49.39 | GiY = 34.41 | GiZ = -1.97 | Tiempo: 760
+ 
+AcX = -0.28 | AcY = 0.09 | AcZ = -0.15 | GiX = 35.57 | GiY = 22.25 | GiZ = -23.18 | Tiempo: 761
+ 
+AcX = -0.27 | AcY = 0.10 | AcZ = -0.08 | GiX = 24.25 | GiY = 23.68 | GiZ = -0.95 | Tiempo: 762
+ 
+AcX = -0.27 | AcY = 0.17 | AcZ = -0.08 | GiX = 12.34 | GiY = 17.74 | GiZ = 10.88 | Tiempo: 763
+ 
+AcX = -0.27 | AcY = 0.11 | AcZ = -0.13 | GiX = 4.32 | GiY = 16.25 | GiZ = 15.01 | Tiempo: 764
+ 
+AcX = -0.24 | AcY = 0.01 | AcZ = -0.10 | GiX = 0.92 | GiY = 7.31 | GiZ = 8.08 | Tiempo: 765
+ 
+AcX = -0.25 | AcY = 0.05 | AcZ = -0.17 | GiX = -1.42 | GiY = 7.36 | GiZ = 2.21 | Tiempo: 766
+ 
+AcX = -0.24 | AcY = 0.09 | AcZ = -0.18 | GiX = -4.55 | GiY = 3.64 | GiZ = 1.79 | Tiempo: 767
+ 
+AcX = -0.24 | AcY = 0.08 | AcZ = -0.17 | GiX = -6.07 | GiY = -5.39 | GiZ = 8.82 | Tiempo: 768
+ 
+AcX = -0.25 | AcY = 0.06 | AcZ = -0.19 | GiX = -8.98 | GiY = -9.71 | GiZ = 4.98 | Tiempo: 769
+ 
+AcX = -0.27 | AcY = 0.07 | AcZ = -0.20 | GiX = -9.62 | GiY = -7.10 | GiZ = -5.27 | Tiempo: 770
+ 
+AcX = -0.26 | AcY = 0.13 | AcZ = -0.20 | GiX = -12.15 | GiY = -10.04 | GiZ = -5.15 | Tiempo: 771
+ 
+AcX = -0.22 | AcY = 0.18 | AcZ = -0.09 | GiX = -16.96 | GiY = -25.42 | GiZ = 5.34 | Tiempo: 772
+ 
+AcX = -0.26 | AcY = 0.06 | AcZ = -0.03 | GiX = -25.33 | GiY = -28.03 | GiZ = 3.94 | Tiempo: 773
+ 
+AcX = -0.21 | AcY = -0.01 | AcZ = 0.01 | GiX = -27.01 | GiY = -19.92 | GiZ = -14.00 | Tiempo: 774
+ 
+AcX = -0.17 | AcY = 0.09 | AcZ = 0.08 | GiX = -24.12 | GiY = -21.48 | GiZ = -29.54 | Tiempo: 775
+ 
+AcX = -0.16 | AcY = 0.24 | AcZ = 0.12 | GiX = -28.20 | GiY = -26.96 | GiZ = -15.12 | Tiempo: 776
+ 
+AcX = -0.17 | AcY = 0.19 | AcZ = 0.09 | GiX = -26.09 | GiY = -21.04 | GiZ = 6.91 | Tiempo: 777
+ 
+AcX = -0.19 | AcY = 0.06 | AcZ = 0.06 | GiX = -16.75 | GiY = -8.24 | GiZ = 6.79 | Tiempo: 778
+ 
+AcX = -0.17 | AcY = 0.02 | AcZ = 0.07 | GiX = -11.53 | GiY = -10.24 | GiZ = 5.97 | Tiempo: 779
+ 
+AcX = -0.18 | AcY = 0.05 | AcZ = 0.10 | GiX = -9.69 | GiY = -10.96 | GiZ = 5.92 | Tiempo: 780
+ 
+AcX = -0.18 | AcY = 0.10 | AcZ = 0.07 | GiX = -6.26 | GiY = -5.94 | GiZ = 10.49 | Tiempo: 781
+ 
+AcX = -0.18 | AcY = 0.11 | AcZ = 0.06 | GiX = 1.50 | GiY = 3.79 | GiZ = 13.43 | Tiempo: 782
+ 
+AcX = -0.19 | AcY = 0.13 | AcZ = 0.03 | GiX = 7.01 | GiY = 10.92 | GiZ = 16.32 | Tiempo: 783
+ 
+AcX = -0.19 | AcY = 0.04 | AcZ = 0.03 | GiX = 10.08 | GiY = 6.87 | GiZ = 14.23 | Tiempo: 784
+ 
+AcX = -0.21 | AcY = -0.01 | AcZ = 0.07 | GiX = 8.14 | GiY = 4.00 | GiZ = 13.83 | Tiempo: 785
+ 
+AcX = -0.19 | AcY = 0.09 | AcZ = 0.05 | GiX = 7.70 | GiY = 15.21 | GiZ = 3.34 | Tiempo: 786
+ 
+AcX = -0.15 | AcY = 0.10 | AcZ = 0.04 | GiX = 8.55 | GiY = 17.85 | GiZ = 5.16 | Tiempo: 787
+ 
+AcX = -0.17 | AcY = 0.04 | AcZ = 0.02 | GiX = 7.35 | GiY = 9.01 | GiZ = 8.85 | Tiempo: 788
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = 0.02 | GiX = 8.23 | GiY = 13.53 | GiZ = 3.79 | Tiempo: 789
+ 
+AcX = -0.17 | AcY = 0.06 | AcZ = 0.01 | GiX = 7.50 | GiY = 17.65 | GiZ = 0.09 | Tiempo: 790
+ 
+AcX = -0.17 | AcY = 0.05 | AcZ = 0.03 | GiX = 4.73 | GiY = 13.54 | GiZ = -2.57 | Tiempo: 791
+ 
+AcX = -0.16 | AcY = 0.08 | AcZ = 0.04 | GiX = 3.45 | GiY = 9.12 | GiZ = -1.54 | Tiempo: 792
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = 0.03 | GiX = 2.05 | GiY = 7.50 | GiZ = -0.32 | Tiempo: 793
+ 
+AcX = -0.18 | AcY = 0.06 | AcZ = 0.03 | GiX = 0.69 | GiY = 4.52 | GiZ = 3.10 | Tiempo: 794
+ 
+AcX = -0.18 | AcY = 0.08 | AcZ = 0.02 | GiX = 0.58 | GiY = 0.06 | GiZ = -1.63 | Tiempo: 795
+ 
+AcX = -0.16 | AcY = 0.08 | AcZ = 0.02 | GiX = 1.09 | GiY = -0.01 | GiZ = -4.05 | Tiempo: 796
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.01 | GiX = 1.02 | GiY = -3.02 | GiZ = -1.73 | Tiempo: 797
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.01 | GiX = 1.10 | GiY = -4.35 | GiZ = -2.03 | Tiempo: 798
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.01 | GiX = 0.87 | GiY = -4.65 | GiZ = -3.27 | Tiempo: 799
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = -0.00 | GiX = 0.98 | GiY = -5.95 | GiZ = -3.30 | Tiempo: 800
+ 
+AcX = -0.18 | AcY = 0.09 | AcZ = 0.00 | GiX = 1.09 | GiY = -5.28 | GiZ = -3.94 | Tiempo: 801
+ 
+AcX = -0.18 | AcY = 0.09 | AcZ = -0.01 | GiX = 1.47 | GiY = -4.44 | GiZ = -2.96 | Tiempo: 802
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.00 | GiX = 0.78 | GiY = -3.51 | GiZ = -1.04 | Tiempo: 803
+ 
+AcX = -0.18 | AcY = 0.06 | AcZ = -0.01 | GiX = 0.02 | GiY = -3.65 | GiZ = 1.02 | Tiempo: 804
+ 
+AcX = -0.18 | AcY = 0.07 | AcZ = -0.01 | GiX = -0.21 | GiY = -4.59 | GiZ = 0.37 | Tiempo: 805
+ 
+AcX = -0.17 | AcY = 0.09 | AcZ = -0.00 | GiX = -0.79 | GiY = -4.27 | GiZ = -0.46 | Tiempo: 806
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = -0.01 | GiX = -1.34 | GiY = -5.13 | GiZ = 1.46 | Tiempo: 807
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = -0.01 | GiX = -1.31 | GiY = -4.40 | GiZ = 1.95 | Tiempo: 808
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = -0.01 | GiX = -1.36 | GiY = -3.62 | GiZ = 1.77 | Tiempo: 809
+ 
+AcX = -0.16 | AcY = 0.07 | AcZ = -0.01 | GiX = -1.80 | GiY = -3.46 | GiZ = 2.18 | Tiempo: 810
+ 
+AcX = -0.16 | AcY = 0.07 | AcZ = -0.01 | GiX = -1.60 | GiY = -2.55 | GiZ = 1.50 | Tiempo: 811
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = 0.00 | GiX = -1.27 | GiY = -0.56 | GiZ = -0.29 | Tiempo: 812
+ 
+AcX = -0.17 | AcY = 0.07 | AcZ = -0.00 | GiX = -0.47 | GiY = 0.17 | GiZ = -0.31 | Tiempo: 813
+ 
+AcX = -0.18 | AcY = 0.09 | AcZ = -0.01 | GiX = -1.05 | GiY = -0.35 | GiZ = 3.95 | Tiempo: 814
+ 
+AcX = -0.17 | AcY = 0.08 | AcZ = -0.00 | GiX = 0.32 | GiY = 0.55 | GiZ = 1.22 | Tiempo: 815
+ 
+AcX = -0.14 | AcY = 0.08 | AcZ = 0.00 | GiX = 0.75 | GiY = 1.70 | GiZ = -0.17 | Tiempo: 816
+ 
+AcX = -0.16 | AcY = 0.08 | AcZ = 0.00 | GiX = 0.11 | GiY = 0.25 | GiZ = 4.11 | Tiempo: 817
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.00 | GiX = 0.73 | GiY = 1.02 | GiZ = 3.11 | Tiempo: 818
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = -0.00 | GiX = 0.41 | GiY = 0.81 | GiZ = 2.15 | Tiempo: 819
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = 0.54 | GiY = -0.43 | GiZ = 0.81 | Tiempo: 820
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.15 | GiY = -0.90 | GiZ = 1.42 | Tiempo: 821
+ 
+AcX = -0.16 | AcY = 0.07 | AcZ = 0.00 | GiX = -0.27 | GiY = 0.25 | GiZ = 0.44 | Tiempo: 822
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.47 | GiY = -0.76 | GiZ = 0.72 | Tiempo: 823
+ 
+AcX = -0.15 | AcY = 0.08 | AcZ = 0.01 | GiX = -0.49 | GiY = -1.11 | GiZ = 0.04 | Tiempo: 824
+ 
+AcX = -0.14 | AcY = 0.05 | AcZ = 0.01 | GiX = -0.65 | GiY = -0.98 | GiZ = 3.40 | Tiempo: 825
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = -0.00 | GiX = -0.07 | GiY = 0.22 | GiZ = -0.57 | Tiempo: 826
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.56 | GiY = -1.68 | GiZ = 2.59 | Tiempo: 827
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.07 | GiY = -0.67 | GiZ = 0.81 | Tiempo: 828
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = -0.00 | GiX = -0.90 | GiY = -1.02 | GiZ = 1.01 | Tiempo: 829
+ 
+AcX = -0.14 | AcY = 0.06 | AcZ = -0.00 | GiX = -0.75 | GiY = -0.36 | GiZ = -0.32 | Tiempo: 830
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.99 | GiY = -0.79 | GiZ = 0.55 | Tiempo: 831
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.99 | GiY = -0.90 | GiZ = 0.24 | Tiempo: 832
+ 
+AcX = -0.15 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.70 | GiY = -0.17 | GiZ = 1.24 | Tiempo: 833
+ 
+AcX = -0.13 | AcY = 0.08 | AcZ = 0.01 | GiX = -0.98 | GiY = -0.96 | GiZ = 1.45 | Tiempo: 834
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.01 | GiX = -0.94 | GiY = -0.18 | GiZ = 2.61 | Tiempo: 835
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.01 | GiX = 0.09 | GiY = 2.46 | GiZ = -1.24 | Tiempo: 836
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = 0.01 | GiX = -0.91 | GiY = -0.17 | GiZ = 2.32 | Tiempo: 837
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.01 | GiX = -0.06 | GiY = 0.61 | GiZ = 1.42 | Tiempo: 838
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = -0.00 | GiX = 0.06 | GiY = 0.90 | GiZ = 0.38 | Tiempo: 839
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.01 | GiX = -0.06 | GiY = 0.37 | GiZ = -0.37 | Tiempo: 840
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.01 | GiX = 0.25 | GiY = 0.64 | GiZ = -0.20 | Tiempo: 841
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = 0.02 | GiX = 0.00 | GiY = 0.95 | GiZ = -0.15 | Tiempo: 842
+ 
+AcX = -0.14 | AcY = 0.05 | AcZ = 0.01 | GiX = -0.49 | GiY = 0.93 | GiZ = 0.08 | Tiempo: 843
+ 
+AcX = -0.14 | AcY = 0.07 | AcZ = 0.01 | GiX = -1.08 | GiY = 0.09 | GiZ = 1.74 | Tiempo: 844
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.96 | GiY = -0.20 | GiZ = 0.30 | Tiempo: 845
+ 
+AcX = -0.12 | AcY = 0.05 | AcZ = 0.01 | GiX = 0.02 | GiY = 2.32 | GiZ = -3.38 | Tiempo: 846
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.91 | GiY = -0.12 | GiZ = -0.63 | Tiempo: 847
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.72 | GiY = 0.05 | GiZ = -1.18 | Tiempo: 848
+ 
+AcX = -0.14 | AcY = 0.06 | AcZ = 0.01 | GiX = -0.33 | GiY = 0.12 | GiZ = -2.35 | Tiempo: 849
+ 
+AcX = -0.13 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.40 | GiY = -1.48 | GiZ = -4.37 | Tiempo: 850
+ 
+AcX = -0.14 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.29 | GiY = -2.06 | GiZ = -5.19 | Tiempo: 851
+ 
+AcX = -0.15 | AcY = 0.06 | AcZ = 0.02 | GiX = -0.20 | GiY = -2.32 | GiZ = -5.86 | Tiempo: 852
+ 
+AcX = -0.16 | AcY = 0.04 | AcZ = 0.03 | GiX = 0.06 | GiY = -2.87 | GiZ = -9.34 | Tiempo: 853
+ 
+AcX = -0.19 | AcY = 0.04 | AcZ = 0.02 | GiX = -0.27 | GiY = -3.92 | GiZ = -11.02 | Tiempo: 854
+ 
+AcX = -0.20 | AcY = 0.02 | AcZ = 0.04 | GiX = 1.91 | GiY = -3.95 | GiZ = -21.60 | Tiempo: 855
+ 
+AcX = -0.19 | AcY = 0.01 | AcZ = 0.05 | GiX = 4.51 | GiY = -5.25 | GiZ = -31.24 | Tiempo: 856
+ 
+AcX = -0.21 | AcY = 0.05 | AcZ = 0.04 | GiX = 7.97 | GiY = -7.98 | GiZ = -27.68 | Tiempo: 857
+ 
+AcX = -0.22 | AcY = 0.09 | AcZ = -0.01 | GiX = 14.34 | GiY = -4.24 | GiZ = -22.00 | Tiempo: 858
+ 
+AcX = -0.23 | AcY = 0.05 | AcZ = -0.01 | GiX = 21.88 | GiY = 3.82 | GiZ = -22.41 | Tiempo: 859
+ 
+AcX = -0.25 | AcY = 0.08 | AcZ = 0.00 | GiX = 20.93 | GiY = -2.91 | GiZ = -24.40 | Tiempo: 860
+ 
+AcX = -0.29 | AcY = 0.06 | AcZ = -0.07 | GiX = 18.54 | GiY = -6.44 | GiZ = -25.30 | Tiempo: 861
+ 
+AcX = -0.31 | AcY = 0.16 | AcZ = -0.08 | GiX = 15.47 | GiY = -8.61 | GiZ = -18.95 | Tiempo: 862
+ 
+AcX = -0.33 | AcY = 0.15 | AcZ = -0.12 | GiX = 17.77 | GiY = 3.82 | GiZ = -20.08 | Tiempo: 863
+ 
+AcX = -0.35 | AcY = 0.09 | AcZ = -0.12 | GiX = 12.25 | GiY = 5.41 | GiZ = -9.82 | Tiempo: 864
+ 
+AcX = -0.37 | AcY = 0.06 | AcZ = -0.11 | GiX = 11.56 | GiY = 3.16 | GiZ = -16.08 | Tiempo: 865
+ 
+AcX = -0.39 | AcY = 0.05 | AcZ = -0.14 | GiX = 10.75 | GiY = 3.21 | GiZ = -19.53 | Tiempo: 866
+ 
+AcX = -0.41 | AcY = 0.05 | AcZ = -0.12 | GiX = 8.78 | GiY = 4.26 | GiZ = -22.18 | Tiempo: 867
+ 
+AcX = -0.42 | AcY = 0.01 | AcZ = -0.11 | GiX = 7.16 | GiY = 0.83 | GiZ = -21.91 | Tiempo: 868
+ 
+AcX = -0.45 | AcY = 0.03 | AcZ = -0.11 | GiX = 4.28 | GiY = -3.92 | GiZ = -24.81 | Tiempo: 869
+ 
+AcX = -0.47 | AcY = 0.06 | AcZ = -0.16 | GiX = 8.28 | GiY = -0.73 | GiZ = -33.74 | Tiempo: 870
+ 
+AcX = -0.50 | AcY = 0.14 | AcZ = -0.18 | GiX = 8.25 | GiY = -5.74 | GiZ = -29.73 | Tiempo: 871
+ 
+AcX = -0.51 | AcY = 0.11 | AcZ = -0.16 | GiX = 7.01 | GiY = -4.96 | GiZ = -18.83 | Tiempo: 872
+ 
+AcX = -0.52 | AcY = 0.16 | AcZ = -0.17 | GiX = 6.87 | GiY = -8.21 | GiZ = -8.05 | Tiempo: 873
+ 
+AcX = -0.53 | AcY = 0.12 | AcZ = -0.18 | GiX = 8.78 | GiY = -9.62 | GiZ = -1.21 | Tiempo: 874
+ 
+AcX = -0.55 | AcY = 0.09 | AcZ = -0.21 | GiX = 9.39 | GiY = -4.52 | GiZ = -6.47 | Tiempo: 875
+ 
+AcX = -0.59 | AcY = 0.10 | AcZ = -0.23 | GiX = 8.37 | GiY = -10.93 | GiZ = 1.54 | Tiempo: 876
+ 
+AcX = -0.57 | AcY = 0.07 | AcZ = -0.23 | GiX = 5.04 | GiY = -10.47 | GiZ = 5.01 | Tiempo: 877
+ 
+AcX = -0.57 | AcY = 0.14 | AcZ = -0.23 | GiX = 2.55 | GiY = -3.57 | GiZ = 12.62 | Tiempo: 878
+ 
+AcX = -0.54 | AcY = 0.15 | AcZ = -0.20 | GiX = -0.98 | GiY = -5.72 | GiZ = 13.75 | Tiempo: 879
+ 
+AcX = -0.54 | AcY = 0.22 | AcZ = -0.22 | GiX = -1.25 | GiY = 0.06 | GiZ = 25.91 | Tiempo: 880
+ 
+AcX = -0.50 | AcY = 0.20 | AcZ = -0.21 | GiX = 2.63 | GiY = 11.25 | GiZ = 38.03 | Tiempo: 881
+ 
+AcX = -0.47 | AcY = 0.23 | AcZ = -0.21 | GiX = 3.47 | GiY = 15.56 | GiZ = 43.63 | Tiempo: 882
+ 
+AcX = -0.42 | AcY = 0.18 | AcZ = -0.16 | GiX = 4.09 | GiY = 14.26 | GiZ = 40.43 | Tiempo: 883
+ 
+AcX = -0.40 | AcY = 0.19 | AcZ = -0.17 | GiX = 5.53 | GiY = 17.41 | GiZ = 38.14 | Tiempo: 884
+ 
+AcX = -0.33 | AcY = 0.20 | AcZ = -0.11 | GiX = 5.01 | GiY = 7.44 | GiZ = 43.56 | Tiempo: 885
+ 
+AcX = -0.32 | AcY = 0.24 | AcZ = -0.14 | GiX = 8.46 | GiY = 8.00 | GiZ = 45.85 | Tiempo: 886
+ 
+AcX = -0.28 | AcY = 0.19 | AcZ = -0.14 | GiX = 13.56 | GiY = 5.88 | GiZ = 55.05 | Tiempo: 887
+ 
+AcX = -0.26 | AcY = 0.16 | AcZ = -0.16 | GiX = 24.78 | GiY = 9.05 | GiZ = 51.95 | Tiempo: 888
+ 
+AcX = -0.26 | AcY = 0.14 | AcZ = -0.17 | GiX = 33.71 | GiY = 6.05 | GiZ = 54.41 | Tiempo: 889
+ 
+AcX = 0.73 | AcY = 0.60 | AcZ = -0.58 | GiX = 18.03 | GiY = -3.94 | GiZ = 84.84 | Tiempo: 890
+ 
+AcX = -0.28 | AcY = -0.11 | AcZ = -0.26 | GiX = 29.65 | GiY = -4.75 | GiZ = 15.11 | Tiempo: 891
+ 
+AcX = -0.44 | AcY = -0.06 | AcZ = -0.30 | GiX = 28.92 | GiY = -7.36 | GiZ = 1.69 | Tiempo: 892
+ 
+AcX = -0.41 | AcY = -0.09 | AcZ = -0.14 | GiX = 50.31 | GiY = 12.69 | GiZ = -39.89 | Tiempo: 893
+ 
+AcX = -0.04 | AcY = -0.22 | AcZ = -0.51 | GiX = 63.28 | GiY = 85.94 | GiZ = 28.29 | Tiempo: 894
+ 
+AcX = 0.16 | AcY = 0.30 | AcZ = 0.15 | GiX = -8.40 | GiY = 11.19 | GiZ = 86.67 | Tiempo: 895
+ 
+AcX = -0.28 | AcY = 0.12 | AcZ = -0.27 | GiX = -45.36 | GiY = 49.42 | GiZ = 15.25 | Tiempo: 896
+ 
+AcX = 0.48 | AcY = 0.42 | AcZ = -0.98 | GiX = 30.70 | GiY = 81.30 | GiZ = 119.74 | Tiempo: 897
+Posible caída
+AcX = 0.31 | AcY = 0.22 | AcZ = -0.86 | GiX = 66.06 | GiY = 3.65 | GiZ = 63.10 | Tiempo: 898
+ 
+AcX = -0.06 | AcY = -0.84 | AcZ = -0.31 | GiX = 52.83 | GiY = 49.94 | GiZ = 163.59 | Tiempo: 899
+ 
+AcX = 0.23 | AcY = -0.29 | AcZ = -0.18 | GiX = 62.23 | GiY = -5.94 | GiZ = 167.62 | Tiempo: 900
+Falsa detección
+AcX = 0.39 | AcY = -0.36 | AcZ = -0.43 | GiX = 53.80 | GiY = -25.34 | GiZ = 168.11 | Tiempo: 901
+ 
+AcX = 1.03 | AcY = -1.01 | AcZ = -1.56 | GiX = 36.08 | GiY = 62.44 | GiZ = 153.66 | Tiempo: 902
+Posible caída
+AcX = -0.00 | AcY = -0.74 | AcZ = -0.74 | GiX = -28.58 | GiY = 62.80 | GiZ = 124.15 | Tiempo: 903
+ 
+AcX = 0.02 | AcY = -1.06 | AcZ = -0.20 | GiX = -1.98 | GiY = 39.67 | GiZ = 86.53 | Tiempo: 904
+ 
+AcX = 0.55 | AcY = -1.21 | AcZ = -0.65 | GiX = 4.81 | GiY = 74.34 | GiZ = 77.59 | Tiempo: 905
+ 
+AcX = 0.43 | AcY = -1.26 | AcZ = -0.44 | GiX = 43.25 | GiY = 48.17 | GiZ = 86.73 | Tiempo: 906
+ 
+AcX = 0.52 | AcY = -1.38 | AcZ = -0.10 | GiX = 45.21 | GiY = 52.98 | GiZ = 30.84 | Tiempo: 907
+ 
+AcX = 0.49 | AcY = -1.40 | AcZ = -0.12 | GiX = 50.44 | GiY = 50.44 | GiZ = -0.05 | Tiempo: 908
+ 
+AcX = 0.39 | AcY = -1.11 | AcZ = -0.02 | GiX = 35.45 | GiY = 71.18 | GiZ = -9.89 | Tiempo: 909
+ 
+AcX = 0.91 | AcY = -1.48 | AcZ = 0.20 | GiX = 23.97 | GiY = 9.41 | GiZ = -44.63 | Tiempo: 910
+ 
+AcX = 0.29 | AcY = -0.96 | AcZ = 0.20 | GiX = 3.44 | GiY = 38.67 | GiZ = 1.66 | Tiempo: 911
+ 
+AcX = 0.55 | AcY = -0.95 | AcZ = 0.14 | GiX = -7.51 | GiY = -5.25 | GiZ = -8.09 | Tiempo: 912
+ 
+AcX = 0.47 | AcY = -0.98 | AcZ = 0.15 | GiX = -4.64 | GiY = -7.10 | GiZ = 1.13 | Tiempo: 913
+ 
+AcX = 0.44 | AcY = -1.13 | AcZ = 0.18 | GiX = 0.34 | GiY = -9.02 | GiZ = 17.05 | Tiempo: 914
+ 
+AcX = 0.46 | AcY = -1.15 | AcZ = 0.09 | GiX = -4.43 | GiY = -4.52 | GiZ = -1.50 | Tiempo: 915
+ 
+AcX = 0.49 | AcY = -1.10 | AcZ = 0.02 | GiX = -8.29 | GiY = -17.42 | GiZ = -13.45 | Tiempo: 916
+ 
+AcX = 0.45 | AcY = -0.99 | AcZ = -0.08 | GiX = -6.79 | GiY = -21.19 | GiZ = -14.23 | Tiempo: 917
+ 
+AcX = 0.48 | AcY = -0.97 | AcZ = -0.08 | GiX = -5.92 | GiY = -19.24 | GiZ = -2.89 | Tiempo: 918
+ 
+AcX = 0.48 | AcY = -0.95 | AcZ = -0.25 | GiX = -3.92 | GiY = -5.60 | GiZ = -6.23 | Tiempo: 919
+ 
+AcX = 0.48 | AcY = -0.94 | AcZ = -0.21 | GiX = -1.95 | GiY = -8.52 | GiZ = -3.02 | Tiempo: 920
+ 
+AcX = 0.50 | AcY = -0.95 | AcZ = -0.19 | GiX = 1.31 | GiY = -5.59 | GiZ = -0.44 | Tiempo: 921
+ 
+AcX = 0.49 | AcY = -0.99 | AcZ = -0.16 | GiX = 1.71 | GiY = -1.54 | GiZ = 5.62 | Tiempo: 922
+ 
+AcX = 0.48 | AcY = -1.03 | AcZ = -0.12 | GiX = 1.57 | GiY = -0.40 | GiZ = 5.89 | Tiempo: 923
+ 
+AcX = 0.52 | AcY = -1.03 | AcZ = -0.05 | GiX = 0.38 | GiY = -0.12 | GiZ = -0.18 | Tiempo: 924
+ 
+AcX = 0.50 | AcY = -1.04 | AcZ = -0.06 | GiX = 0.37 | GiY = -0.67 | GiZ = 1.79 | Tiempo: 925
+ 
+AcX = 0.50 | AcY = -1.04 | AcZ = -0.07 | GiX = 0.80 | GiY = -1.30 | GiZ = 2.33 | Tiempo: 926
+ 
+AcX = 0.51 | AcY = -1.02 | AcZ = -0.08 | GiX = 0.23 | GiY = -0.62 | GiZ = 0.06 | Tiempo: 927
+ 
+AcX = 0.50 | AcY = -1.00 | AcZ = -0.10 | GiX = -0.07 | GiY = 0.87 | GiZ = -0.70 | Tiempo: 928
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.12 | GiX = 0.00 | GiY = 0.38 | GiZ = -0.76 | Tiempo: 929
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.12 | GiX = -0.01 | GiY = -0.23 | GiZ = -2.12 | Tiempo: 930
+ 
+AcX = 0.48 | AcY = -1.02 | AcZ = -0.12 | GiX = 0.15 | GiY = 0.35 | GiZ = -0.31 | Tiempo: 931
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.32 | GiY = -0.79 | GiZ = -0.15 | Tiempo: 932
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.09 | GiX = 0.61 | GiY = 0.31 | GiZ = 0.08 | Tiempo: 933
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.10 | GiX = -0.46 | GiY = -1.20 | GiZ = 0.18 | Tiempo: 934
+ 
+AcX = 0.49 | AcY = -1.00 | AcZ = -0.11 | GiX = 0.44 | GiY = -1.71 | GiZ = 0.93 | Tiempo: 935
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.09 | GiY = 0.00 | GiZ = 0.08 | Tiempo: 936
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.11 | GiX = -0.59 | GiY = 0.76 | GiZ = -0.02 | Tiempo: 937
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.00 | GiY = -0.53 | GiZ = -1.25 | Tiempo: 938
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.10 | GiX = -0.20 | GiY = 0.20 | GiZ = -0.58 | Tiempo: 939
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = -0.24 | GiY = 0.09 | GiZ = -0.03 | Tiempo: 940
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.25 | GiY = -0.56 | GiZ = -1.12 | Tiempo: 941
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.32 | GiY = -0.03 | GiZ = -0.28 | Tiempo: 942
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.30 | GiY = -0.11 | GiZ = 0.61 | Tiempo: 943
+ 
+AcX = 0.48 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.15 | GiY = -1.28 | GiZ = 1.56 | Tiempo: 944
+ 
+AcX = 0.51 | AcY = -1.00 | AcZ = -0.10 | GiX = 0.15 | GiY = 0.58 | GiZ = 0.03 | Tiempo: 945
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = -0.07 | GiY = 1.05 | GiZ = 0.06 | Tiempo: 946
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.22 | GiY = 0.17 | GiZ = -0.96 | Tiempo: 947
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.11 | GiY = -0.46 | GiZ = -0.66 | Tiempo: 948
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.17 | GiY = -0.03 | GiZ = 0.11 | Tiempo: 949
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.44 | GiY = -0.11 | GiZ = -1.10 | Tiempo: 950
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.03 | GiY = 0.46 | GiZ = -0.06 | Tiempo: 951
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.14 | GiY = -0.76 | GiZ = -0.44 | Tiempo: 952
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.55 | GiY = -0.78 | GiZ = 0.21 | Tiempo: 953
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.46 | GiY = 0.26 | GiZ = 0.09 | Tiempo: 954
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.09 | GiX = -0.11 | GiY = 0.67 | GiZ = 0.20 | Tiempo: 955
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.23 | GiY = -0.15 | GiZ = -0.21 | Tiempo: 956
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.01 | GiY = -0.03 | GiZ = -0.90 | Tiempo: 957
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.35 | GiY = 0.31 | GiZ = 0.52 | Tiempo: 958
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.38 | GiY = -0.12 | GiZ = -0.61 | Tiempo: 959
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.44 | GiY = -0.29 | GiZ = -0.47 | Tiempo: 960
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.28 | GiY = 0.47 | GiZ = 0.37 | Tiempo: 961
+ 
+AcX = 0.47 | AcY = -1.03 | AcZ = -0.10 | GiX = 0.43 | GiY = 1.50 | GiZ = 2.73 | Tiempo: 962
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.43 | GiY = -0.91 | GiZ = 2.00 | Tiempo: 963
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = -0.01 | GiY = 0.55 | GiZ = 0.29 | Tiempo: 964
+ 
+AcX = 0.49 | AcY = -1.03 | AcZ = -0.10 | GiX = 0.25 | GiY = 0.34 | GiZ = -0.09 | Tiempo: 965
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.58 | GiY = 0.60 | GiZ = -1.57 | Tiempo: 966
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.18 | GiY = 0.00 | GiZ = -1.07 | Tiempo: 967
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.38 | GiY = 0.09 | GiZ = -0.67 | Tiempo: 968
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.51 | GiY = 0.49 | GiZ = -2.63 | Tiempo: 969
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.40 | GiY = -0.26 | GiZ = -0.61 | Tiempo: 970
+ 
+AcX = 0.51 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.14 | GiY = -0.93 | GiZ = -0.67 | Tiempo: 971
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.47 | GiY = -0.99 | GiZ = 0.53 | Tiempo: 972
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.31 | GiY = 0.46 | GiZ = -0.37 | Tiempo: 973
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.10 | GiX = -0.44 | GiY = 0.60 | GiZ = -0.25 | Tiempo: 974
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.18 | GiY = -0.17 | GiZ = -1.38 | Tiempo: 975
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.18 | GiY = 0.31 | GiZ = -1.27 | Tiempo: 976
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.09 | GiY = 0.08 | GiZ = 0.01 | Tiempo: 977
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = -0.11 | GiY = -0.03 | GiZ = -0.90 | Tiempo: 978
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.09 | GiY = 0.03 | GiZ = -1.77 | Tiempo: 979
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.32 | GiY = 0.29 | GiZ = -0.17 | Tiempo: 980
+ 
+AcX = 0.48 | AcY = -1.01 | AcZ = -0.11 | GiX = -0.07 | GiY = 0.69 | GiZ = 1.19 | Tiempo: 981
+ 
+AcX = 0.48 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.34 | GiY = -2.30 | GiZ = 1.30 | Tiempo: 982
+ 
+AcX = 0.51 | AcY = -1.00 | AcZ = -0.10 | GiX = -0.23 | GiY = 1.13 | GiZ = 0.84 | Tiempo: 983
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.02 | GiY = 0.60 | GiZ = 0.20 | Tiempo: 984
+ 
+AcX = 0.50 | AcY = -1.02 | AcZ = -0.11 | GiX = 0.15 | GiY = 0.26 | GiZ = -1.65 | Tiempo: 985
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.15 | GiY = 0.11 | GiZ = -1.22 | Tiempo: 986
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.03 | GiY = 0.08 | GiZ = -0.08 | Tiempo: 987
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.03 | GiY = 0.09 | GiZ = -0.95 | Tiempo: 988
+ 
+AcX = 0.49 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.15 | GiY = 0.05 | GiZ = -1.05 | Tiempo: 989
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.10 | GiX = 0.17 | GiY = 0.26 | GiZ = -0.41 | Tiempo: 990
+ 
+AcX = 0.47 | AcY = -1.00 | AcZ = -0.09 | GiX = -0.01 | GiY = 0.96 | GiZ = 1.88 | Tiempo: 991
+ 
+AcX = 0.48 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.17 | GiY = -1.66 | GiZ = 1.45 | Tiempo: 992
+ 
+AcX = 0.50 | AcY = -1.01 | AcZ = -0.11 | GiX = 0.05 | GiY = 0.05 | GiZ = 1.19 | Tiempo: 993
+ 
+AcX = 0.49 | AcY = -1.02 | AcZ = -0.10 | GiX = 0.58 | GiY = -1.24 | GiZ = 3.08 | Tiempo: 994
+ 
+AcX = 0.50 | AcY = -1.03 | AcZ = -0.11 | GiX = 1.09 | GiY = -2.11 | GiZ = 2.52 | Tiempo: 995
+ 
+AcX = 0.46 | AcY = -1.04 | AcZ = -0.11 | GiX = 0.31 | GiY = 1.05 | GiZ = 2.49 | Tiempo: 996
+ 
+AcX = 0.51 | AcY = -1.03 | AcZ = -0.10 | GiX = 0.41 | GiY = 0.54 | GiZ = 0.55 | Tiempo: 997
+ 
+AcX = 0.51 | AcY = -1.00 | AcZ = -0.10 | GiX = 0.09 | GiY = -0.38 | GiZ = 1.59 | Tiempo: 998
+ 
+AcX = 0.50 | AcY = -1.03 | AcZ = -0.09 | GiX = 0.20 | GiY = -2.53 | GiZ = 6.99 | Tiempo: 999
+ 
+AcX = 0.49 | AcY = -1.03 | AcZ = -0.12 | GiX = 0.58 | GiY = -0.98 | GiZ = 5.24 | Tiempo: 1000
+ 
+AcX = 0.48 | AcY = -1.03 | AcZ = -0.11 | GiX = 0.35 | GiY = -1.20 | GiZ = 7.86 | Tiempo: 1001
+ 
+AcX = 0.47 | AcY = -1.06 | AcZ = -0.12 | GiX = 2.18 | GiY = -0.33 | GiZ = 13.98 | Tiempo: 1002
+ 
+AcX = 0.49 | AcY = -1.07 | AcZ = -0.11 | GiX = 2.12 | GiY = 2.05 | GiZ = 12.00 | Tiempo: 1003
+ 
+AcX = 0.48 | AcY = -1.06 | AcZ = -0.11 | GiX = 1.85 | GiY = 2.38 | GiZ = 12.03 | Tiempo: 1004
+ 
+AcX = 0.48 | AcY = -1.06 | AcZ = -0.11 | GiX = 3.67 | GiY = 0.75 | GiZ = 17.31 | Tiempo: 1005
+ 
+AcX = 0.46 | AcY = -1.10 | AcZ = -0.09 | GiX = 4.86 | GiY = 1.24 | GiZ = 19.77 | Tiempo: 1006
+ 
+AcX = 0.48 | AcY = -1.13 | AcZ = -0.09 | GiX = 2.69 | GiY = 3.16 | GiZ = 13.77 | Tiempo: 1007
+ 
+AcX = 0.49 | AcY = -1.12 | AcZ = -0.09 | GiX = 1.02 | GiY = 4.61 | GiZ = 9.48 | Tiempo: 1008
+ 
+AcX = 0.49 | AcY = -1.10 | AcZ = -0.09 | GiX = 1.09 | GiY = 4.14 | GiZ = 10.01 | Tiempo: 1009
+ 
+AcX = 0.46 | AcY = -1.14 | AcZ = -0.08 | GiX = 0.70 | GiY = 0.60 | GiZ = 4.52 | Tiempo: 1010
+ 
+AcX = 0.48 | AcY = -1.11 | AcZ = -0.09 | GiX = 0.49 | GiY = 2.25 | GiZ = -2.28 | Tiempo: 1011
+ 
+AcX = 0.47 | AcY = -1.14 | AcZ = -0.09 | GiX = -0.79 | GiY = -1.68 | GiZ = 5.95 | Tiempo: 1012
+ 
+AcX = 0.47 | AcY = -1.13 | AcZ = -0.08 | GiX = -0.47 | GiY = 0.18 | GiZ = 3.28 | Tiempo: 1013
+ 
+AcX = 0.45 | AcY = -1.17 | AcZ = -0.07 | GiX = -1.83 | GiY = 0.14 | GiZ = 7.28 | Tiempo: 1014
+ 
+AcX = 0.48 | AcY = -1.16 | AcZ = -0.08 | GiX = -1.14 | GiY = -0.98 | GiZ = 2.35 | Tiempo: 1015
+ 
+AcX = 0.46 | AcY = -1.14 | AcZ = -0.07 | GiX = -1.17 | GiY = 1.77 | GiZ = 6.70 | Tiempo: 1016
+ 
+AcX = 0.46 | AcY = -1.16 | AcZ = -0.08 | GiX = -0.70 | GiY = 0.73 | GiZ = 8.69 | Tiempo: 1017
+ 
+AcX = 0.46 | AcY = -1.15 | AcZ = -0.07 | GiX = -1.91 | GiY = 0.12 | GiZ = 2.96 | Tiempo: 1018
+ 
+AcX = 0.47 | AcY = -1.18 | AcZ = -0.08 | GiX = -1.86 | GiY = 1.36 | GiZ = 4.01 | Tiempo: 1019
+ 
+AcX = 0.47 | AcY = -1.19 | AcZ = -0.10 | GiX = 1.53 | GiY = -0.52 | GiZ = 2.59 | Tiempo: 1020
+ 
+AcX = 0.43 | AcY = -1.17 | AcZ = -0.09 | GiX = 3.36 | GiY = -3.42 | GiZ = -1.31 | Tiempo: 1021
+ 
+AcX = 0.45 | AcY = -1.18 | AcZ = -0.12 | GiX = 4.32 | GiY = -0.59 | GiZ = 1.24 | Tiempo: 1022
+ 
+AcX = 0.47 | AcY = -1.19 | AcZ = -0.10 | GiX = 4.35 | GiY = 1.65 | GiZ = -0.35 | Tiempo: 1023
+ 
+AcX = 0.47 | AcY = -1.16 | AcZ = -0.05 | GiX = -0.52 | GiY = -5.82 | GiZ = 5.39 | Tiempo: 1024
+ 
+AcX = 0.42 | AcY = -1.18 | AcZ = -0.04 | GiX = -5.54 | GiY = -4.36 | GiZ = 15.48 | Tiempo: 1025
+ 
+AcX = 0.45 | AcY = -1.24 | AcZ = -0.04 | GiX = -8.36 | GiY = -5.68 | GiZ = 8.52 | Tiempo: 1026
+ 
+AcX = 0.45 | AcY = -1.23 | AcZ = -0.07 | GiX = -8.50 | GiY = -6.82 | GiZ = 1.75 | Tiempo: 1027
+ 
+AcX = 0.45 | AcY = -1.24 | AcZ = -0.07 | GiX = -8.98 | GiY = -12.11 | GiZ = 1.34 | Tiempo: 1028
+ 
+AcX = 0.43 | AcY = -1.24 | AcZ = -0.10 | GiX = -10.65 | GiY = -11.92 | GiZ = 1.72 | Tiempo: 1029
+ 
+AcX = 0.44 | AcY = -1.23 | AcZ = -0.14 | GiX = -10.72 | GiY = -15.40 | GiZ = -0.31 | Tiempo: 1030
+ 
+AcX = 0.43 | AcY = -1.21 | AcZ = -0.16 | GiX = -9.07 | GiY = -11.11 | GiZ = -3.39 | Tiempo: 1031
+ 
+AcX = 0.45 | AcY = -1.22 | AcZ = -0.14 | GiX = -10.06 | GiY = -17.01 | GiZ = -7.60 | Tiempo: 1032
+ 
+AcX = 0.45 | AcY = -1.22 | AcZ = -0.21 | GiX = -10.29 | GiY = -10.93 | GiZ = -8.57 | Tiempo: 1033
+ 
+AcX = 0.44 | AcY = -1.17 | AcZ = -0.25 | GiX = -9.14 | GiY = -11.07 | GiZ = -13.68 | Tiempo: 1034
+ 
+AcX = 0.47 | AcY = -1.15 | AcZ = -0.21 | GiX = -7.53 | GiY = -15.71 | GiZ = -8.90 | Tiempo: 1035
+ 
+AcX = 0.43 | AcY = -1.15 | AcZ = -0.26 | GiX = -9.56 | GiY = -11.78 | GiZ = -6.70 | Tiempo: 1036
+ 
+AcX = 0.44 | AcY = -1.15 | AcZ = -0.27 | GiX = -7.72 | GiY = -8.38 | GiZ = -9.34 | Tiempo: 1037
+ 
+AcX = 0.45 | AcY = -1.13 | AcZ = -0.26 | GiX = -8.35 | GiY = -6.11 | GiZ = -8.47 | Tiempo: 1038
+ 
+AcX = 0.40 | AcY = -1.15 | AcZ = -0.28 | GiX = -8.14 | GiY = -3.13 | GiZ = -5.41 | Tiempo: 1039
+ 
+AcX = 0.44 | AcY = -1.19 | AcZ = -0.30 | GiX = -7.14 | GiY = 8.78 | GiZ = -13.02 | Tiempo: 1040
+ 
+AcX = 0.43 | AcY = -1.15 | AcZ = -0.26 | GiX = -8.82 | GiY = 0.05 | GiZ = -8.17 | Tiempo: 1041
+ 
+AcX = 0.46 | AcY = -1.16 | AcZ = -0.32 | GiX = -0.12 | GiY = 1.18 | GiZ = -8.15 | Tiempo: 1042
+ 
+AcX = 0.48 | AcY = -1.14 | AcZ = -0.28 | GiX = -1.14 | GiY = 1.38 | GiZ = -2.92 | Tiempo: 1043
+ 
+AcX = 0.49 | AcY = -1.19 | AcZ = -0.30 | GiX = -4.90 | GiY = -5.11 | GiZ = -10.54 | Tiempo: 1044
+ 
+AcX = 0.49 | AcY = -1.12 | AcZ = -0.29 | GiX = -7.71 | GiY = -12.93 | GiZ = -15.38 | Tiempo: 1045
+ 
+AcX = 0.48 | AcY = -1.11 | AcZ = -0.27 | GiX = -4.04 | GiY = -20.35 | GiZ = -27.74 | Tiempo: 1046
+ 
+AcX = 0.47 | AcY = -1.08 | AcZ = -0.24 | GiX = -5.53 | GiY = -28.18 | GiZ = -31.80 | Tiempo: 1047
+ 
+AcX = 0.48 | AcY = -1.03 | AcZ = -0.35 | GiX = -8.91 | GiY = -25.77 | GiZ = -40.08 | Tiempo: 1048
+ 
+AcX = 0.47 | AcY = -0.97 | AcZ = -0.38 | GiX = -8.55 | GiY = -20.85 | GiZ = -32.61 | Tiempo: 1049
+ 
+AcX = 0.42 | AcY = -0.94 | AcZ = -0.41 | GiX = -9.48 | GiY = -17.92 | GiZ = -36.73 | Tiempo: 1050
+ 
+AcX = 0.48 | AcY = -0.94 | AcZ = -0.46 | GiX = -7.22 | GiY = -6.91 | GiZ = -39.70 | Tiempo: 1051
+ 
+AcX = 0.46 | AcY = -0.94 | AcZ = -0.42 | GiX = -5.39 | GiY = -2.52 | GiZ = -34.35 | Tiempo: 1052
+ 
+AcX = 0.41 | AcY = -0.87 | AcZ = -0.45 | GiX = 2.86 | GiY = 11.24 | GiZ = -40.12 | Tiempo: 1053
+ 
+AcX = 0.47 | AcY = -0.88 | AcZ = -0.43 | GiX = 9.18 | GiY = 13.85 | GiZ = -41.89 | Tiempo: 1054
+ 
+AcX = 0.46 | AcY = -0.79 | AcZ = -0.44 | GiX = 18.47 | GiY = 20.14 | GiZ = -45.82 | Tiempo: 1055
+ 
+AcX = 0.47 | AcY = -0.82 | AcZ = -0.40 | GiX = 21.59 | GiY = 18.08 | GiZ = -57.86 | Tiempo: 1056
+ 
+AcX = 0.45 | AcY = -0.77 | AcZ = -0.29 | GiX = 16.98 | GiY = 19.97 | GiZ = -66.66 | Tiempo: 1057
+ 
+AcX = 0.43 | AcY = -0.70 | AcZ = -0.27 | GiX = 13.76 | GiY = 14.52 | GiZ = -70.17 | Tiempo: 1058
+ 
+AcX = 0.48 | AcY = -0.68 | AcZ = -0.19 | GiX = 1.04 | GiY = 10.15 | GiZ = -74.86 | Tiempo: 1059
+ 
+AcX = 0.41 | AcY = -0.53 | AcZ = -0.09 | GiX = -11.05 | GiY = 1.19 | GiZ = -52.37 | Tiempo: 1060
+Envia Email Leve
+AcX = 0.28 | AcY = -0.16 | AcZ = -0.18 | GiX = -17.08 | GiY = -4.41 | GiZ = -38.26 | Tiempo: 1061
+ 
+AcX = 0.25 | AcY = -0.19 | AcZ = -0.15 | GiX = -25.14 | GiY = -11.72 | GiZ = -43.91 | Tiempo: 1062
+ 
+AcX = 0.16 | AcY = -0.23 | AcZ = -0.21 | GiX = -26.24 | GiY = -9.65 | GiZ = -40.86 | Tiempo: 1063
+ 
+AcX = 0.18 | AcY = -0.15 | AcZ = -0.20 | GiX = -21.27 | GiY = -9.42 | GiZ = -40.40 | Tiempo: 1064
+ 
+AcX = 0.19 | AcY = -0.07 | AcZ = -0.22 | GiX = -17.69 | GiY = -5.24 | GiZ = -35.38 | Tiempo: 1065
+ 
+AcX = 0.20 | AcY = -0.11 | AcZ = -0.27 | GiX = -14.06 | GiY = 0.55 | GiZ = -39.59 | Tiempo: 1066
+ 
+AcX = 0.15 | AcY = -0.02 | AcZ = -0.21 | GiX = -7.95 | GiY = -12.90 | GiZ = -44.03 | Tiempo: 1067
+ 
+AcX = 0.08 | AcY = -0.02 | AcZ = -0.13 | GiX = -11.56 | GiY = -27.37 | GiZ = -40.25 | Tiempo: 1068
+ 
+AcX = -0.02 | AcY = 0.04 | AcZ = -0.12 | GiX = -1.69 | GiY = -27.11 | GiZ = -10.54 | Tiempo: 1069
+ 
+AcX = 0.05 | AcY = 0.10 | AcZ = -0.14 | GiX = 12.46 | GiY = -37.07 | GiZ = -7.27 | Tiempo: 1070
+ 
+AcX = 0.12 | AcY = 0.14 | AcZ = -0.15 | GiX = 38.17 | GiY = -52.53 | GiZ = 27.43 | Tiempo: 1071
+ 
+AcX = 0.17 | AcY = 0.10 | AcZ = -0.51 | GiX = 49.86 | GiY = -52.29 | GiZ = 49.28 | Tiempo: 1072
+ 
+AcX = 0.12 | AcY = -0.08 | AcZ = -0.37 | GiX = 50.34 | GiY = -54.64 | GiZ = 45.72 | Tiempo: 1073
+ 
+AcX = 0.08 | AcY = -0.03 | AcZ = -0.41 | GiX = 55.27 | GiY = -53.24 | GiZ = 66.62 | Tiempo: 1074
+ 
+AcX = 0.30 | AcY = -0.32 | AcZ = -0.35 | GiX = 26.92 | GiY = -28.23 | GiZ = 86.88 | Tiempo: 1075
+ 
+AcX = 0.00 | AcY = -0.49 | AcZ = -0.46 | GiX = 13.18 | GiY = -42.79 | GiZ = 55.69 | Tiempo: 1076
+ 
+AcX = 0.06 | AcY = -0.49 | AcZ = -0.30 | GiX = 8.92 | GiY = -44.18 | GiZ = 24.21 | Tiempo: 1077
+ 
+AcX = -0.02 | AcY = -0.52 | AcZ = -0.33 | GiX = -1.11 | GiY = -36.01 | GiZ = -3.65 | Tiempo: 1078
+ 
+AcX = 0.21 | AcY = -0.36 | AcZ = -0.54 | GiX = -3.97 | GiY = -39.11 | GiZ = -3.83 | Tiempo: 1079
+ 
+AcX = -0.00 | AcY = -0.48 | AcZ = -0.56 | GiX = -29.57 | GiY = -57.91 | GiZ = 19.24 | Tiempo: 1080
+ 
+AcX = 0.13 | AcY = -0.46 | AcZ = -0.56 | GiX = -35.56 | GiY = -41.88 | GiZ = 0.49 | Tiempo: 1081
+ 
+AcX = 0.01 | AcY = -0.36 | AcZ = -0.72 | GiX = -52.84 | GiY = -62.44 | GiZ = 12.35 | Tiempo: 1082
+ 
+AcX = 0.11 | AcY = -0.24 | AcZ = -0.64 | GiX = -66.55 | GiY = -47.85 | GiZ = 0.88 | Tiempo: 1083
+ 
+AcX = 0.07 | AcY = -0.12 | AcZ = -0.63 | GiX = -78.65 | GiY = -43.10 | GiZ = 3.97 | Tiempo: 1084
+ 
+AcX = 0.03 | AcY = -0.07 | AcZ = -0.55 | GiX = -74.47 | GiY = -41.97 | GiZ = -4.89 | Tiempo: 1085
+ 
+AcX = 0.02 | AcY = 0.00 | AcZ = -0.48 | GiX = -62.24 | GiY = -19.88 | GiZ = -19.07 | Tiempo: 1086
+ 
+AcX = 0.02 | AcY = 0.09 | AcZ = -0.56 | GiX = -58.73 | GiY = -7.02 | GiZ = -20.75 | Tiempo: 1087
+ 
+AcX = 0.03 | AcY = 0.15 | AcZ = -0.48 | GiX = -53.46 | GiY = 4.98 | GiZ = -33.31 | Tiempo: 1088
+ 
+AcX = -0.08 | AcY = 0.16 | AcZ = -0.47 | GiX = -51.37 | GiY = -1.30 | GiZ = -39.09 | Tiempo: 1089
+ 
+AcX = -0.14 | AcY = 0.19 | AcZ = -0.35 | GiX = -53.22 | GiY = -11.97 | GiZ = -54.20 | Tiempo: 1090
+ 
+AcX = -0.15 | AcY = 0.20 | AcZ = -0.32 | GiX = -47.22 | GiY = -3.60 | GiZ = -57.70 | Tiempo: 1091
+ 
+AcX = -0.28 | AcY = 0.16 | AcZ = -0.33 | GiX = -41.36 | GiY = 1.73 | GiZ = -67.38 | Tiempo: 1092
+ 
+AcX = -0.25 | AcY = 0.11 | AcZ = -0.26 | GiX = -38.73 | GiY = 8.35 | GiZ = -64.35 | Tiempo: 1093
+ 
+AcX = -0.31 | AcY = 0.07 | AcZ = -0.18 | GiX = -41.10 | GiY = 26.02 | GiZ = -54.34 | Tiempo: 1094
+ 
+AcX = -0.39 | AcY = 0.15 | AcZ = -0.18 | GiX = -40.55 | GiY = 15.76 | GiZ = -50.95 | Tiempo: 1095
+ 
+AcX = -0.45 | AcY = 0.15 | AcZ = -0.15 | GiX = -40.00 | GiY = 18.95 | GiZ = -51.13 | Tiempo: 1096
+ 
+AcX = -0.51 | AcY = 0.21 | AcZ = -0.18 | GiX = -40.32 | GiY = 10.72 | GiZ = -23.62 | Tiempo: 1097
+ 
+AcX = -0.49 | AcY = 0.16 | AcZ = -0.13 | GiX = -42.07 | GiY = 7.62 | GiZ = -29.82 | Tiempo: 1098
+ 
+AcX = -0.57 | AcY = 0.18 | AcZ = -0.09 | GiX = -36.70 | GiY = -4.47 | GiZ = -30.14 | Tiempo: 1099
+ 
+AcX = -0.60 | AcY = 0.25 | AcZ = -0.06 | GiX = -36.73 | GiY = -5.07 | GiZ = -42.29 | Tiempo: 1100
+ 
+AcX = -0.65 | AcY = 0.23 | AcZ = -0.11 | GiX = -34.36 | GiY = -5.24 | GiZ = -29.13 | Tiempo: 1101
+ 
+AcX = -0.67 | AcY = 0.32 | AcZ = -0.14 | GiX = -14.35 | GiY = 4.57 | GiZ = -9.02 | Tiempo: 1102
+ 
+AcX = -0.48 | AcY = -0.01 | AcZ = 0.02 | GiX = 8.93 | GiY = -17.80 | GiZ = -36.44 | Tiempo: 1103
+ 
+AcX = -0.55 | AcY = -0.29 | AcZ = -0.02 | GiX = -33.34 | GiY = -27.31 | GiZ = -4.35 | Tiempo: 1104
+ 
+AcX = -0.43 | AcY = -0.27 | AcZ = 0.04 | GiX = -23.43 | GiY = -8.64 | GiZ = 28.82 | Tiempo: 1105
+ 
+AcX = -0.39 | AcY = 0.11 | AcZ = 0.21 | GiX = -26.47 | GiY = -34.72 | GiZ = -18.09 | Tiempo: 1106
+ 
+AcX = -0.33 | AcY = 0.01 | AcZ = -0.03 | GiX = 1.70 | GiY = -40.18 | GiZ = -37.73 | Tiempo: 1107
+ 
+AcX = -0.34 | AcY = 0.43 | AcZ = -0.08 | GiX = 18.08 | GiY = -41.68 | GiZ = 30.20 | Tiempo: 1108
+ 
+AcX = -0.42 | AcY = -0.23 | AcZ = -0.11 | GiX = 9.21 | GiY = -12.61 | GiZ = 73.71 | Tiempo: 1109
+ 
+AcX = -0.69 | AcY = 0.30 | AcZ = 0.05 | GiX = -32.65 | GiY = 20.11 | GiZ = 23.43 | Tiempo: 1110
+ 
+AcX = -0.72 | AcY = -0.13 | AcZ = 0.06 | GiX = -77.78 | GiY = 18.54 | GiZ = -120.66 | Tiempo: 1111
+ 
+AcX = 0.04 | AcY = -0.59 | AcZ = 1.08 | GiX = -224.72 | GiY = -12.50 | GiZ = 122.91 | Tiempo: 1112
+Posible caída
+AcX = -0.61 | AcY = -0.78 | AcZ = 0.75 | GiX = -37.49 | GiY = 46.54 | GiZ = -7.02 | Tiempo: 1113
+ 
+AcX = -0.93 | AcY = -0.07 | AcZ = -0.23 | GiX = -27.27 | GiY = -21.20 | GiZ = -13.27 | Tiempo: 1114
+ 
+AcX = -0.40 | AcY = 0.05 | AcZ = 0.61 | GiX = 10.54 | GiY = 24.60 | GiZ = -49.65 | Tiempo: 1115
+Falsa detección
+AcX = -0.61 | AcY = -0.43 | AcZ = 0.38 | GiX = -17.13 | GiY = -32.04 | GiZ = 8.43 | Tiempo: 1116
+ 
+AcX = -0.54 | AcY = -0.13 | AcZ = 0.86 | GiX = -27.83 | GiY = -97.14 | GiZ = -46.96 | Tiempo: 1117
+Posible caída
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.90 | GiX = -56.29 | GiY = -78.27 | GiZ = 0.55 | Tiempo: 1118
+ 
+AcX = -0.40 | AcY = -0.28 | AcZ = 0.69 | GiX = -30.44 | GiY = -46.03 | GiZ = -18.79 | Tiempo: 1119
+ 
+AcX = -0.09 | AcY = 0.03 | AcZ = 0.58 | GiX = -10.01 | GiY = -97.57 | GiZ = 33.33 | Tiempo: 1120
+Falsa detección
+AcX = -0.35 | AcY = -0.37 | AcZ = 0.46 | GiX = -7.40 | GiY = -92.85 | GiZ = -21.45 | Tiempo: 1121
+ 
+AcX = -0.12 | AcY = -0.10 | AcZ = 0.49 | GiX = -4.69 | GiY = -29.10 | GiZ = -43.65 | Tiempo: 1122
+ 
+AcX = -0.06 | AcY = -0.10 | AcZ = 0.90 | GiX = -10.29 | GiY = -67.60 | GiZ = 23.11 | Tiempo: 1123
+ 
+AcX = -0.09 | AcY = -0.30 | AcZ = -0.23 | GiX = -1.19 | GiY = -103.97 | GiZ = 1.24 | Tiempo: 1124
+ 
+AcX = -0.14 | AcY = -0.28 | AcZ = 0.47 | GiX = 4.81 | GiY = -15.63 | GiZ = -20.31 | Tiempo: 1125
+ 
+AcX = -0.19 | AcY = -0.22 | AcZ = 0.26 | GiX = 8.00 | GiY = 36.44 | GiZ = -2.32 | Tiempo: 1126
+ 
+AcX = 0.06 | AcY = -0.18 | AcZ = 1.00 | GiX = 22.35 | GiY = -21.59 | GiZ = -6.41 | Tiempo: 1127
+ 
+AcX = -0.26 | AcY = 0.02 | AcZ = 0.38 | GiX = 18.60 | GiY = 26.61 | GiZ = -2.11 | Tiempo: 1128
+ 
+AcX = -0.22 | AcY = -0.04 | AcZ = 0.61 | GiX = 1.07 | GiY = -26.59 | GiZ = 9.01 | Tiempo: 1129
+ 
+AcX = -0.31 | AcY = -0.13 | AcZ = 0.38 | GiX = 1.50 | GiY = -1.89 | GiZ = 0.29 | Tiempo: 1130
+ 
+AcX = -0.30 | AcY = -0.06 | AcZ = 0.37 | GiX = 1.56 | GiY = -7.97 | GiZ = -19.71 | Tiempo: 1131
+ 
+AcX = -0.25 | AcY = 0.01 | AcZ = 0.49 | GiX = -1.83 | GiY = -29.49 | GiZ = -28.38 | Tiempo: 1132
+ 
+AcX = -0.24 | AcY = 0.02 | AcZ = 0.49 | GiX = -9.78 | GiY = -34.46 | GiZ = -17.34 | Tiempo: 1133
+ 
+AcX = -0.22 | AcY = -0.04 | AcZ = 0.43 | GiX = -9.33 | GiY = -27.39 | GiZ = -12.28 | Tiempo: 1134
+ 
+AcX = -0.24 | AcY = -0.12 | AcZ = 0.43 | GiX = -12.67 | GiY = -36.70 | GiZ = -18.35 | Tiempo: 1135
+ 
+AcX = -0.23 | AcY = -0.11 | AcZ = 0.46 | GiX = -24.32 | GiY = -48.85 | GiZ = -15.83 | Tiempo: 1136
+ 
+AcX = -0.23 | AcY = -0.05 | AcZ = 0.48 | GiX = -33.19 | GiY = -59.27 | GiZ = -19.62 | Tiempo: 1137
+ 
+AcX = -0.15 | AcY = -0.03 | AcZ = 0.57 | GiX = -33.16 | GiY = -74.61 | GiZ = -29.28 | Tiempo: 1138
+ 
+AcX = -0.26 | AcY = 0.07 | AcZ = 0.66 | GiX = -22.46 | GiY = -67.78 | GiZ = -38.35 | Tiempo: 1139
+ 
+AcX = -0.24 | AcY = -0.25 | AcZ = 0.43 | GiX = -14.41 | GiY = -47.80 | GiZ = -2.98 | Tiempo: 1140
+ 
+AcX = -0.26 | AcY = -0.32 | AcZ = 0.42 | GiX = -9.94 | GiY = -36.07 | GiZ = -20.29 | Tiempo: 1141
+ 
+AcX = -0.25 | AcY = -0.19 | AcZ = 0.49 | GiX = -6.23 | GiY = -25.98 | GiZ = -43.68 | Tiempo: 1142
+ 
+AcX = -0.20 | AcY = 0.16 | AcZ = 0.66 | GiX = -4.90 | GiY = -7.42 | GiZ = -24.40 | Tiempo: 1143
+ 
+AcX = -0.16 | AcY = -0.08 | AcZ = 0.50 | GiX = -5.14 | GiY = -19.56 | GiZ = 12.79 | Tiempo: 1144
+ 
+AcX = -0.14 | AcY = -0.28 | AcZ = 0.35 | GiX = -4.18 | GiY = -26.43 | GiZ = -2.18 | Tiempo: 1145
+ 
+AcX = -0.19 | AcY = -0.08 | AcZ = 0.44 | GiX = 1.86 | GiY = -4.46 | GiZ = -13.39 | Tiempo: 1146
+ 
+AcX = -0.14 | AcY = -0.00 | AcZ = 0.51 | GiX = 7.30 | GiY = 9.57 | GiZ = 4.82 | Tiempo: 1147
+ 
+AcX = -0.14 | AcY = -0.11 | AcZ = 0.45 | GiX = 5.30 | GiY = 0.92 | GiZ = 14.30 | Tiempo: 1148
+ 
+AcX = -0.14 | AcY = -0.15 | AcZ = 0.42 | GiX = 3.50 | GiY = 2.02 | GiZ = 2.29 | Tiempo: 1149
+ 
+AcX = -0.13 | AcY = -0.09 | AcZ = 0.43 | GiX = 5.51 | GiY = 8.05 | GiZ = 1.72 | Tiempo: 1150
+ 
+AcX = -0.11 | AcY = -0.08 | AcZ = 0.45 | GiX = 7.42 | GiY = 10.49 | GiZ = 2.69 | Tiempo: 1151
+ 
+AcX = -0.10 | AcY = -0.09 | AcZ = 0.45 | GiX = 6.08 | GiY = 6.73 | GiZ = 3.56 | Tiempo: 1152
+ 
+AcX = -0.13 | AcY = -0.10 | AcZ = 0.44 | GiX = 4.54 | GiY = 3.85 | GiZ = 1.21 | Tiempo: 1153
+ 
+AcX = -0.14 | AcY = -0.10 | AcZ = 0.43 | GiX = 4.70 | GiY = 2.73 | GiZ = -1.18 | Tiempo: 1154
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.45 | GiX = 4.31 | GiY = 4.60 | GiZ = -0.75 | Tiempo: 1155
+ 
+AcX = -0.11 | AcY = -0.09 | AcZ = 0.45 | GiX = 2.34 | GiY = 0.40 | GiZ = 0.50 | Tiempo: 1156
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.44 | GiX = 1.76 | GiY = -3.40 | GiZ = 0.24 | Tiempo: 1157
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.43 | GiX = 1.39 | GiY = -1.14 | GiZ = -1.48 | Tiempo: 1158
+ 
+AcX = -0.13 | AcY = -0.08 | AcZ = 0.43 | GiX = -1.08 | GiY = -3.51 | GiZ = 0.58 | Tiempo: 1159
+ 
+AcX = -0.12 | AcY = -0.08 | AcZ = 0.43 | GiX = -2.36 | GiY = -5.07 | GiZ = -0.83 | Tiempo: 1160
+ 
+AcX = -0.13 | AcY = -0.09 | AcZ = 0.43 | GiX = -2.15 | GiY = -4.65 | GiZ = -1.27 | Tiempo: 1161
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.42 | GiX = -2.15 | GiY = -4.33 | GiZ = 0.18 | Tiempo: 1162
+ 
+AcX = -0.13 | AcY = -0.09 | AcZ = 0.42 | GiX = -1.86 | GiY = -4.65 | GiZ = 3.27 | Tiempo: 1163
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.42 | GiX = -1.02 | GiY = -2.84 | GiZ = 0.58 | Tiempo: 1164
+ 
+AcX = -0.10 | AcY = -0.09 | AcZ = 0.43 | GiX = -1.25 | GiY = -3.13 | GiZ = 1.19 | Tiempo: 1165
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.43 | GiX = -1.20 | GiY = -3.82 | GiZ = 1.28 | Tiempo: 1166
+ 
+AcX = -0.11 | AcY = -0.09 | AcZ = 0.43 | GiX = -0.98 | GiY = -2.33 | GiZ = 0.58 | Tiempo: 1167
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.42 | GiX = -1.04 | GiY = -1.60 | GiZ = 0.44 | Tiempo: 1168
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.43 | GiX = -0.90 | GiY = -2.00 | GiZ = -0.83 | Tiempo: 1169
+ 
+AcX = -0.10 | AcY = -0.10 | AcZ = 0.43 | GiX = -0.75 | GiY = -1.56 | GiZ = -1.34 | Tiempo: 1170
+ 
+AcX = -0.09 | AcY = -0.10 | AcZ = 0.44 | GiX = -0.98 | GiY = -1.65 | GiZ = -0.55 | Tiempo: 1171
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.43 | GiX = -1.37 | GiY = -2.95 | GiZ = 1.68 | Tiempo: 1172
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.43 | GiX = -1.37 | GiY = -2.06 | GiZ = -1.79 | Tiempo: 1173
+ 
+AcX = -0.08 | AcY = -0.10 | AcZ = 0.44 | GiX = -1.54 | GiY = -3.19 | GiZ = -1.19 | Tiempo: 1174
+ 
+AcX = -0.10 | AcY = -0.10 | AcZ = 0.44 | GiX = -1.71 | GiY = -3.85 | GiZ = 0.15 | Tiempo: 1175
+ 
+AcX = -0.10 | AcY = -0.10 | AcZ = 0.42 | GiX = -1.56 | GiY = -1.85 | GiZ = 0.72 | Tiempo: 1176
+ 
+AcX = -0.08 | AcY = -0.11 | AcZ = 0.44 | GiX = -1.57 | GiY = -0.58 | GiZ = -0.96 | Tiempo: 1177
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.43 | GiX = -2.70 | GiY = -0.41 | GiZ = -2.44 | Tiempo: 1178
+ 
+AcX = -0.10 | AcY = -0.10 | AcZ = 0.44 | GiX = -3.53 | GiY = -1.07 | GiZ = -3.21 | Tiempo: 1179
+ 
+AcX = -0.10 | AcY = -0.09 | AcZ = 0.44 | GiX = -3.20 | GiY = -0.99 | GiZ = -2.25 | Tiempo: 1180
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.42 | GiX = -3.72 | GiY = -0.15 | GiZ = 1.43 | Tiempo: 1181
+ 
+AcX = -0.07 | AcY = -0.12 | AcZ = 0.41 | GiX = -2.00 | GiY = 2.40 | GiZ = -2.26 | Tiempo: 1182
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.45 | GiX = -0.26 | GiY = 3.60 | GiZ = -5.24 | Tiempo: 1183
+ 
+AcX = -0.14 | AcY = -0.08 | AcZ = 0.49 | GiX = -0.69 | GiY = -6.67 | GiZ = 1.08 | Tiempo: 1184
+ 
+AcX = -0.09 | AcY = -0.10 | AcZ = 0.48 | GiX = 1.01 | GiY = -7.45 | GiZ = 5.39 | Tiempo: 1185
+ 
+AcX = -0.06 | AcY = -0.16 | AcZ = 0.44 | GiX = 0.38 | GiY = 0.05 | GiZ = 3.27 | Tiempo: 1186
+ 
+AcX = -0.10 | AcY = -0.14 | AcZ = 0.45 | GiX = -1.34 | GiY = -2.64 | GiZ = -6.50 | Tiempo: 1187
+ 
+AcX = -0.09 | AcY = -0.10 | AcZ = 0.45 | GiX = -3.85 | GiY = -2.72 | GiZ = -7.25 | Tiempo: 1188
+ 
+AcX = -0.11 | AcY = -0.12 | AcZ = 0.46 | GiX = -5.94 | GiY = -4.06 | GiZ = -4.96 | Tiempo: 1189
+ 
+AcX = -0.12 | AcY = -0.12 | AcZ = 0.45 | GiX = -5.34 | GiY = -2.76 | GiZ = -8.43 | Tiempo: 1190
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.46 | GiX = -3.42 | GiY = -0.40 | GiZ = -6.50 | Tiempo: 1191
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.46 | GiX = -2.09 | GiY = -3.08 | GiZ = -3.99 | Tiempo: 1192
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.45 | GiX = -1.25 | GiY = -3.60 | GiZ = -1.89 | Tiempo: 1193
+ 
+AcX = -0.11 | AcY = -0.11 | AcZ = 0.45 | GiX = -0.49 | GiY = -1.51 | GiZ = -2.55 | Tiempo: 1194
+ 
+AcX = -0.11 | AcY = -0.11 | AcZ = 0.45 | GiX = -0.73 | GiY = -0.62 | GiZ = -1.60 | Tiempo: 1195
+ 
+AcX = -0.11 | AcY = -0.11 | AcZ = 0.45 | GiX = -1.20 | GiY = -0.12 | GiZ = -0.35 | Tiempo: 1196
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.46 | GiX = -1.45 | GiY = 0.25 | GiZ = 1.71 | Tiempo: 1197
+ 
+AcX = -0.11 | AcY = -0.12 | AcZ = 0.46 | GiX = -1.05 | GiY = 0.14 | GiZ = 4.66 | Tiempo: 1198
+ 
+AcX = -0.11 | AcY = -0.12 | AcZ = 0.45 | GiX = -0.56 | GiY = 1.41 | GiZ = 3.07 | Tiempo: 1199
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.46 | GiX = 0.69 | GiY = 3.82 | GiZ = 2.06 | Tiempo: 1200
+ 
+AcX = -0.09 | AcY = -0.11 | AcZ = 0.45 | GiX = 2.66 | GiY = 4.47 | GiZ = 1.95 | Tiempo: 1201
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.45 | GiX = 3.88 | GiY = 2.99 | GiZ = 3.48 | Tiempo: 1202
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.45 | GiX = 5.76 | GiY = 3.73 | GiZ = 2.12 | Tiempo: 1203
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.44 | GiX = 7.36 | GiY = 5.54 | GiZ = 2.91 | Tiempo: 1204
+ 
+AcX = -0.11 | AcY = -0.10 | AcZ = 0.45 | GiX = 8.29 | GiY = 4.99 | GiZ = 2.72 | Tiempo: 1205
+ 
+AcX = -0.10 | AcY = -0.10 | AcZ = 0.45 | GiX = 8.63 | GiY = 3.01 | GiZ = 2.90 | Tiempo: 1206
+ 
+AcX = -0.11 | AcY = -0.11 | AcZ = 0.43 | GiX = 8.43 | GiY = 3.16 | GiZ = 5.39 | Tiempo: 1207
+ 
+AcX = -0.09 | AcY = -0.10 | AcZ = 0.43 | GiX = 9.06 | GiY = 4.83 | GiZ = 4.82 | Tiempo: 1208
+ 
+AcX = -0.09 | AcY = -0.09 | AcZ = 0.43 | GiX = 9.53 | GiY = 2.86 | GiZ = 4.98 | Tiempo: 1209
+ 
+AcX = -0.08 | AcY = -0.09 | AcZ = 0.43 | GiX = 8.72 | GiY = 0.49 | GiZ = 7.45 | Tiempo: 1210
+ 
+AcX = -0.08 | AcY = -0.09 | AcZ = 0.40 | GiX = 8.05 | GiY = 0.02 | GiZ = 7.53 | Tiempo: 1211
+ 
+AcX = -0.08 | AcY = -0.10 | AcZ = 0.40 | GiX = 8.37 | GiY = 0.52 | GiZ = 5.57 | Tiempo: 1212
+ 
+AcX = -0.07 | AcY = -0.08 | AcZ = 0.40 | GiX = 8.06 | GiY = -0.55 | GiZ = 6.37 | Tiempo: 1213
+ 
+AcX = -0.07 | AcY = -0.09 | AcZ = 0.39 | GiX = 7.19 | GiY = -1.42 | GiZ = 6.08 | Tiempo: 1214
+ 
+AcX = -0.07 | AcY = -0.08 | AcZ = 0.38 | GiX = 7.12 | GiY = -1.31 | GiZ = 5.28 | Tiempo: 1215
+ 
+AcX = -0.07 | AcY = -0.10 | AcZ = 0.38 | GiX = 6.70 | GiY = -0.30 | GiZ = 4.53 | Tiempo: 1216
+ 
+AcX = -0.06 | AcY = -0.09 | AcZ = 0.37 | GiX = 6.87 | GiY = 1.93 | GiZ = 2.61 | Tiempo: 1217
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.38 | GiX = 6.00 | GiY = 0.72 | GiZ = 2.75 | Tiempo: 1218
+ 
+AcX = -0.07 | AcY = -0.08 | AcZ = 0.37 | GiX = 5.18 | GiY = 1.48 | GiZ = 3.91 | Tiempo: 1219
+ 
+AcX = -0.06 | AcY = -0.09 | AcZ = 0.36 | GiX = 4.44 | GiY = 2.47 | GiZ = 2.76 | Tiempo: 1220
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.37 | GiX = 4.28 | GiY = 3.01 | GiZ = 2.49 | Tiempo: 1221
+ 
+AcX = -0.05 | AcY = -0.08 | AcZ = 0.37 | GiX = 3.48 | GiY = 2.14 | GiZ = 4.40 | Tiempo: 1222
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.37 | GiX = 3.12 | GiY = 2.47 | GiZ = 3.40 | Tiempo: 1223
+ 
+AcX = -0.07 | AcY = -0.09 | AcZ = 0.35 | GiX = 2.31 | GiY = 1.18 | GiZ = 6.33 | Tiempo: 1224
+ 
+AcX = -0.05 | AcY = -0.08 | AcZ = 0.36 | GiX = 3.18 | GiY = 3.99 | GiZ = -0.03 | Tiempo: 1225
+ 
+AcX = -0.05 | AcY = -0.08 | AcZ = 0.37 | GiX = 2.55 | GiY = 2.84 | GiZ = 2.26 | Tiempo: 1226
+ 
+AcX = -0.07 | AcY = -0.09 | AcZ = 0.36 | GiX = 1.56 | GiY = 1.59 | GiZ = 3.22 | Tiempo: 1227
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.36 | GiX = 1.77 | GiY = 1.86 | GiZ = 1.24 | Tiempo: 1228
+ 
+AcX = -0.05 | AcY = -0.07 | AcZ = 0.37 | GiX = 0.90 | GiY = 1.96 | GiZ = 0.72 | Tiempo: 1229
+ 
+AcX = -0.06 | AcY = -0.09 | AcZ = 0.36 | GiX = -0.03 | GiY = -0.11 | GiZ = 1.77 | Tiempo: 1230
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.36 | GiX = 0.12 | GiY = 0.58 | GiZ = 1.19 | Tiempo: 1231
+ 
+AcX = -0.05 | AcY = -0.08 | AcZ = 0.37 | GiX = 0.05 | GiY = 0.87 | GiZ = 0.99 | Tiempo: 1232
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.36 | GiX = -1.10 | GiY = -1.66 | GiZ = 2.15 | Tiempo: 1233
+ 
+AcX = -0.04 | AcY = -0.09 | AcZ = 0.37 | GiX = -0.12 | GiY = 0.37 | GiZ = -0.57 | Tiempo: 1234
+ 
+AcX = -0.04 | AcY = -0.09 | AcZ = 0.38 | GiX = -0.46 | GiY = -0.96 | GiZ = -0.28 | Tiempo: 1235
+ 
+AcX = -0.04 | AcY = -0.10 | AcZ = 0.36 | GiX = -0.38 | GiY = -0.65 | GiZ = 1.22 | Tiempo: 1236
+ 
+AcX = -0.04 | AcY = -0.09 | AcZ = 0.37 | GiX = 0.49 | GiY = 0.25 | GiZ = 1.21 | Tiempo: 1237
+ 
+AcX = -0.04 | AcY = -0.10 | AcZ = 0.37 | GiX = 0.58 | GiY = 0.60 | GiZ = -0.11 | Tiempo: 1238
+ 
+AcX = -0.04 | AcY = -0.10 | AcZ = 0.37 | GiX = 0.14 | GiY = -0.11 | GiZ = -0.49 | Tiempo: 1239
+ 
+AcX = -0.04 | AcY = -0.10 | AcZ = 0.37 | GiX = 0.38 | GiY = 1.54 | GiZ = -0.72 | Tiempo: 1240
+ 
+AcX = -0.04 | AcY = -0.08 | AcZ = 0.38 | GiX = 0.90 | GiY = 1.82 | GiZ = 1.74 | Tiempo: 1241
+ 
+AcX = -0.05 | AcY = -0.10 | AcZ = 0.36 | GiX = 0.37 | GiY = 0.14 | GiZ = -0.32 | Tiempo: 1242
+ 
+AcX = -0.04 | AcY = -0.09 | AcZ = 0.37 | GiX = 1.38 | GiY = 2.76 | GiZ = -1.36 | Tiempo: 1243
+ 
+AcX = -0.04 | AcY = -0.09 | AcZ = 0.37 | GiX = 1.38 | GiY = 2.37 | GiZ = -1.63 | Tiempo: 1244
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.38 | GiX = 0.86 | GiY = 1.44 | GiZ = 0.66 | Tiempo: 1245
+ 
+AcX = -0.05 | AcY = -0.10 | AcZ = 0.36 | GiX = 1.27 | GiY = 1.60 | GiZ = -0.57 | Tiempo: 1246
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.37 | GiX = 1.16 | GiY = 1.86 | GiZ = -2.05 | Tiempo: 1247
+ 
+AcX = -0.05 | AcY = -0.08 | AcZ = 0.37 | GiX = 1.12 | GiY = 1.25 | GiZ = -1.28 | Tiempo: 1248
+ 
+AcX = -0.04 | AcY = -0.08 | AcZ = 0.37 | GiX = 0.99 | GiY = 0.38 | GiZ = -0.54 | Tiempo: 1249
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.36 | GiX = 0.51 | GiY = -0.17 | GiZ = 1.68 | Tiempo: 1250
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.37 | GiX = 0.92 | GiY = -0.01 | GiZ = -1.74 | Tiempo: 1251
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.37 | GiX = 0.61 | GiY = -0.84 | GiZ = 0.90 | Tiempo: 1252
+ 
+AcX = -0.06 | AcY = -0.11 | AcZ = 0.36 | GiX = 0.47 | GiY = -1.54 | GiZ = 1.39 | Tiempo: 1253
+ 
+AcX = -0.06 | AcY = -0.10 | AcZ = 0.36 | GiX = 0.51 | GiY = -1.40 | GiZ = -1.33 | Tiempo: 1254
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.36 | GiX = 1.10 | GiY = -1.07 | GiZ = -3.42 | Tiempo: 1255
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.37 | GiX = 0.64 | GiY = -1.28 | GiZ = -3.62 | Tiempo: 1256
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.37 | GiX = 0.09 | GiY = -2.95 | GiZ = -1.51 | Tiempo: 1257
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.37 | GiX = 0.60 | GiY = -2.01 | GiZ = -1.97 | Tiempo: 1258
+ 
+AcX = -0.06 | AcY = -0.08 | AcZ = 0.37 | GiX = 0.72 | GiY = -2.96 | GiZ = -2.63 | Tiempo: 1259
+ 
+AcX = -0.04 | AcY = -0.10 | AcZ = 0.36 | GiX = 1.59 | GiY = -5.07 | GiZ = -5.47 | Tiempo: 1260
+ 
+AcX = -0.06 | AcY = -0.07 | AcZ = 0.38 | GiX = 2.81 | GiY = -4.98 | GiZ = -7.74 | Tiempo: 1261
+ 
+AcX = -0.08 | AcY = -0.07 | AcZ = 0.37 | GiX = 3.41 | GiY = -5.57 | GiZ = -0.70 | Tiempo: 1262
+ 
+AcX = -0.09 | AcY = -0.09 | AcZ = 0.33 | GiX = 3.21 | GiY = -1.75 | GiZ = -2.25 | Tiempo: 1263
+ 
+AcX = -0.08 | AcY = -0.11 | AcZ = 0.33 | GiX = 1.48 | GiY = -2.36 | GiZ = -8.06 | Tiempo: 1264
+ 
+AcX = -0.09 | AcY = -0.10 | AcZ = 0.35 | GiX = -1.20 | GiY = 1.12 | GiZ = -14.21 | Tiempo: 1265
+ 
+AcX = -0.10 | AcY = -0.11 | AcZ = 0.35 | GiX = -5.14 | GiY = 1.31 | GiZ = -19.83 | Tiempo: 1266
+ 
+AcX = -0.13 | AcY = -0.08 | AcZ = 0.33 | GiX = -7.97 | GiY = 1.12 | GiZ = -23.89 | Tiempo: 1267
+ 
+AcX = -0.10 | AcY = -0.09 | AcZ = 0.33 | GiX = -6.98 | GiY = 0.32 | GiZ = -28.03 | Tiempo: 1268
+ 
+AcX = -0.12 | AcY = -0.03 | AcZ = 0.38 | GiX = -4.53 | GiY = 5.16 | GiZ = -33.50 | Tiempo: 1269
+ 
+AcX = -0.17 | AcY = -0.02 | AcZ = 0.37 | GiX = -5.77 | GiY = -0.23 | GiZ = -30.86 | Tiempo: 1270
+ 
+AcX = -0.19 | AcY = 0.01 | AcZ = 0.37 | GiX = -4.09 | GiY = -1.07 | GiZ = -32.40 | Tiempo: 1271
+ 
+AcX = -0.17 | AcY = -0.01 | AcZ = 0.35 | GiX = -1.97 | GiY = 0.99 | GiZ = -32.96 | Tiempo: 1272
+ 
+AcX = -0.21 | AcY = 0.06 | AcZ = 0.38 | GiX = 4.47 | GiY = 2.06 | GiZ = -31.42 | Tiempo: 1273
+ 
+AcX = -0.24 | AcY = 0.05 | AcZ = 0.38 | GiX = 3.82 | GiY = -4.67 | GiZ = -20.86 | Tiempo: 1274
+ 
+AcX = -0.26 | AcY = 0.02 | AcZ = 0.36 | GiX = 4.51 | GiY = -4.81 | GiZ = -16.93 | Tiempo: 1275
+ 
+AcX = -0.30 | AcY = -0.02 | AcZ = 0.33 | GiX = 4.95 | GiY = -2.85 | GiZ = -10.90 | Tiempo: 1276
+ 
+AcX = -0.29 | AcY = -0.01 | AcZ = 0.35 | GiX = 6.72 | GiY = -2.26 | GiZ = -15.16 | Tiempo: 1277
+ 
+AcX = -0.30 | AcY = 0.03 | AcZ = 0.35 | GiX = 5.39 | GiY = -2.11 | GiZ = -13.80 | Tiempo: 1278
+ 
+AcX = -0.30 | AcY = 0.02 | AcZ = 0.35 | GiX = 2.15 | GiY = -6.06 | GiZ = -13.38 | Tiempo: 1279
+ 
+AcX = -0.35 | AcY = 0.00 | AcZ = 0.31 | GiX = -0.35 | GiY = -5.53 | GiZ = -15.97 | Tiempo: 1280
+ 
+AcX = -0.37 | AcY = -0.01 | AcZ = 0.30 | GiX = -1.77 | GiY = -3.72 | GiZ = -23.18 | Tiempo: 1281
+ 
+AcX = -0.35 | AcY = -0.01 | AcZ = 0.34 | GiX = -3.07 | GiY = -2.15 | GiZ = -26.14 | Tiempo: 1282
+ 
+AcX = -0.38 | AcY = 0.02 | AcZ = 0.34 | GiX = -6.76 | GiY = -1.14 | GiZ = -29.38 | Tiempo: 1283
+ 
+AcX = -0.40 | AcY = 0.05 | AcZ = 0.34 | GiX = -12.24 | GiY = 0.00 | GiZ = -27.44 | Tiempo: 1284
+ 
+AcX = -0.40 | AcY = 0.06 | AcZ = 0.35 | GiX = -14.17 | GiY = 0.44 | GiZ = -25.91 | Tiempo: 1285
+ 
+AcX = -0.40 | AcY = 0.09 | AcZ = 0.38 | GiX = -17.25 | GiY = 2.72 | GiZ = -26.35 | Tiempo: 1286
+ 
+AcX = -0.40 | AcY = -0.01 | AcZ = 0.41 | GiX = -20.06 | GiY = -0.91 | GiZ = -22.86 | Tiempo: 1287
+ 
+AcX = -0.40 | AcY = 0.04 | AcZ = 0.43 | GiX = -23.75 | GiY = -3.53 | GiZ = -22.17 | Tiempo: 1288
+ 
+AcX = -0.38 | AcY = 0.10 | AcZ = 0.50 | GiX = -27.22 | GiY = -13.22 | GiZ = -12.38 | Tiempo: 1289
+ 
+AcX = -0.44 | AcY = 0.12 | AcZ = 0.50 | GiX = -27.28 | GiY = -20.99 | GiZ = -1.67 | Tiempo: 1290
+ 
+AcX = -0.43 | AcY = 0.13 | AcZ = 0.53 | GiX = -22.07 | GiY = -10.20 | GiZ = 7.27 | Tiempo: 1291
+ 
+AcX = -0.37 | AcY = 0.03 | AcZ = 0.49 | GiX = -18.81 | GiY = -15.46 | GiZ = 14.82 | Tiempo: 1292
+ 
+AcX = -0.41 | AcY = -0.03 | AcZ = 0.45 | GiX = -9.42 | GiY = -14.24 | GiZ = 22.66 | Tiempo: 1293
+ 
+AcX = -0.42 | AcY = -0.06 | AcZ = 0.46 | GiX = -7.71 | GiY = -9.88 | GiZ = 18.72 | Tiempo: 1294
+ 
+AcX = -0.39 | AcY = -0.06 | AcZ = 0.50 | GiX = -8.46 | GiY = -4.53 | GiZ = 13.92 | Tiempo: 1295
+ 
+AcX = -0.38 | AcY = -0.09 | AcZ = 0.50 | GiX = -9.88 | GiY = -4.99 | GiZ = 17.14 | Tiempo: 1296
+ 
+AcX = -0.39 | AcY = -0.09 | AcZ = 0.52 | GiX = -12.12 | GiY = -6.95 | GiZ = 14.82 | Tiempo: 1297
+ 
+AcX = -0.36 | AcY = -0.09 | AcZ = 0.53 | GiX = -15.95 | GiY = -7.83 | GiZ = 8.90 | Tiempo: 1298
+ 
+AcX = -0.36 | AcY = -0.11 | AcZ = 0.55 | GiX = -16.49 | GiY = -8.18 | GiZ = 9.56 | Tiempo: 1299
+ 
+AcX = -0.36 | AcY = -0.15 | AcZ = 0.56 | GiX = -18.29 | GiY = -9.86 | GiZ = 5.30 | Tiempo: 1300
+ 
+AcX = -0.37 | AcY = -0.18 | AcZ = 0.58 | GiX = -20.32 | GiY = -11.11 | GiZ = 0.30 | Tiempo: 1301
+ 
+AcX = -0.37 | AcY = -0.20 | AcZ = 0.57 | GiX = -19.10 | GiY = -10.64 | GiZ = -4.98 | Tiempo: 1302
+ 
+AcX = -0.36 | AcY = -0.20 | AcZ = 0.59 | GiX = -18.94 | GiY = -11.30 | GiZ = -11.38 | Tiempo: 1303
+ 
+AcX = -0.33 | AcY = -0.18 | AcZ = 0.63 | GiX = -17.83 | GiY = -14.87 | GiZ = -10.89 | Tiempo: 1304
+ 
+AcX = -0.29 | AcY = -0.13 | AcZ = 0.66 | GiX = -15.22 | GiY = -12.29 | GiZ = 0.35 | Tiempo: 1305
+ 
+AcX = -0.26 | AcY = -0.17 | AcZ = 0.61 | GiX = -13.17 | GiY = -12.09 | GiZ = 12.95 | Tiempo: 1306
+ 
+AcX = -0.25 | AcY = -0.22 | AcZ = 0.64 | GiX = -11.14 | GiY = -10.38 | GiZ = 5.31 | Tiempo: 1307
+ 
+AcX = -0.24 | AcY = -0.21 | AcZ = 0.65 | GiX = -6.11 | GiY = -8.98 | GiZ = 5.57 | Tiempo: 1308
+ 
+AcX = -0.22 | AcY = -0.20 | AcZ = 0.64 | GiX = -0.32 | GiY = -3.80 | GiZ = 8.14 | Tiempo: 1309
+ 
+AcX = -0.21 | AcY = -0.21 | AcZ = 0.61 | GiX = 5.09 | GiY = -0.56 | GiZ = 8.69 | Tiempo: 1310
+ 
+AcX = -0.20 | AcY = -0.25 | AcZ = 0.59 | GiX = 12.81 | GiY = 0.35 | GiZ = 10.81 | Tiempo: 1311
+ 
+AcX = -0.20 | AcY = -0.23 | AcZ = 0.61 | GiX = 18.14 | GiY = -2.07 | GiZ = 9.33 | Tiempo: 1312
+ 
+AcX = -0.16 | AcY = -0.17 | AcZ = 0.60 | GiX = 22.72 | GiY = -0.09 | GiZ = 12.50 | Tiempo: 1313
+ 
+AcX = -0.14 | AcY = -0.16 | AcZ = 0.58 | GiX = 29.39 | GiY = 3.31 | GiZ = 21.11 | Tiempo: 1314
+ 
+AcX = -0.15 | AcY = -0.20 | AcZ = 0.57 | GiX = 31.79 | GiY = 4.25 | GiZ = 21.56 | Tiempo: 1315
+ 
+AcX = -0.21 | AcY = -0.13 | AcZ = 0.63 | GiX = 25.57 | GiY = 10.86 | GiZ = 7.10 | Tiempo: 1316
+ 
+AcX = -0.21 | AcY = -0.03 | AcZ = 0.62 | GiX = 17.35 | GiY = 16.80 | GiZ = 5.42 | Tiempo: 1317
+ 
+AcX = -0.20 | AcY = -0.09 | AcZ = 0.57 | GiX = 16.98 | GiY = -9.33 | GiZ = 8.43 | Tiempo: 1318
+ 
+AcX = -0.25 | AcY = -0.08 | AcZ = 0.51 | GiX = 27.19 | GiY = 3.89 | GiZ = 22.17 | Tiempo: 1319
+ 
+AcX = -0.28 | AcY = -0.09 | AcZ = 0.43 | GiX = 28.99 | GiY = 10.90 | GiZ = 21.88 | Tiempo: 1320
+ 
+AcX = -0.23 | AcY = -0.03 | AcZ = 0.45 | GiX = 26.52 | GiY = 3.35 | GiZ = 6.26 | Tiempo: 1321
+ 
+AcX = -0.21 | AcY = 0.02 | AcZ = 0.53 | GiX = 15.99 | GiY = -12.87 | GiZ = 2.91 | Tiempo: 1322
+ 
+AcX = -0.18 | AcY = -0.04 | AcZ = 0.45 | GiX = 12.78 | GiY = -16.98 | GiZ = 5.36 | Tiempo: 1323
+ 
+AcX = -0.19 | AcY = -0.14 | AcZ = 0.38 | GiX = 11.12 | GiY = -10.87 | GiZ = 12.40 | Tiempo: 1324
+ 
+AcX = -0.18 | AcY = -0.15 | AcZ = 0.37 | GiX = 10.43 | GiY = -11.59 | GiZ = 6.78 | Tiempo: 1325
+ 
+AcX = -0.16 | AcY = -0.09 | AcZ = 0.41 | GiX = 8.09 | GiY = -12.70 | GiZ = -3.91 | Tiempo: 1326
+ 
+AcX = -0.14 | AcY = -0.06 | AcZ = 0.42 | GiX = -4.33 | GiY = -19.07 | GiZ = 0.81 | Tiempo: 1327
+ 
+AcX = -0.14 | AcY = -0.15 | AcZ = 0.34 | GiX = -14.94 | GiY = -19.68 | GiZ = -0.31 | Tiempo: 1328
+ 
+AcX = -0.14 | AcY = -0.15 | AcZ = 0.34 | GiX = -19.92 | GiY = -12.72 | GiZ = -14.99 | Tiempo: 1329
+ 
+AcX = -0.12 | AcY = -0.11 | AcZ = 0.38 | GiX = -25.33 | GiY = -7.14 | GiZ = -24.15 | Tiempo: 1330
+ 
+AcX = -0.13 | AcY = -0.11 | AcZ = 0.40 | GiX = -32.32 | GiY = -5.62 | GiZ = -25.25 | Tiempo: 1331
+ 
+AcX = -0.13 | AcY = -0.12 | AcZ = 0.41 | GiX = -38.85 | GiY = -6.72 | GiZ = -26.63 | Tiempo: 1332
+ 
+AcX = -0.11 | AcY = -0.09 | AcZ = 0.42 | GiX = -40.06 | GiY = -5.72 | GiZ = -26.21 | Tiempo: 1333
+ 
+AcX = -0.12 | AcY = -0.09 | AcZ = 0.50 | GiX = -38.98 | GiY = -8.18 | GiZ = -33.59 | Tiempo: 1334
+ 
+AcX = -0.25 | AcY = -0.02 | AcZ = 0.55 | GiX = -34.62 | GiY = 1.64 | GiZ = -39.53 | Tiempo: 1335
+ 
+AcX = -0.25 | AcY = -0.07 | AcZ = 0.57 | GiX = -24.87 | GiY = 9.96 | GiZ = -37.24 | Tiempo: 1336
+ 
+AcX = -0.26 | AcY = -0.12 | AcZ = 0.61 | GiX = -20.82 | GiY = 1.44 | GiZ = -30.34 | Tiempo: 1337
+ 
+AcX = -0.35 | AcY = -0.17 | AcZ = 0.59 | GiX = -19.37 | GiY = -4.21 | GiZ = -28.66 | Tiempo: 1338
+ 
+AcX = -0.39 | AcY = -0.13 | AcZ = 0.62 | GiX = -15.10 | GiY = -0.85 | GiZ = -25.59 | Tiempo: 1339
+ 
+AcX = -0.38 | AcY = -0.21 | AcZ = 0.61 | GiX = -14.26 | GiY = -3.22 | GiZ = -16.31 | Tiempo: 1340
+ 
+AcX = -0.42 | AcY = -0.24 | AcZ = 0.60 | GiX = -18.15 | GiY = -2.06 | GiZ = -19.16 | Tiempo: 1341
+ 
+AcX = -0.42 | AcY = -0.21 | AcZ = 0.63 | GiX = -17.27 | GiY = 4.05 | GiZ = -28.70 | Tiempo: 1342
+ 
+AcX = -0.41 | AcY = -0.16 | AcZ = 0.73 | GiX = -22.20 | GiY = -4.52 | GiZ = -36.06 | Tiempo: 1343
+ 
+AcX = -0.45 | AcY = -0.18 | AcZ = 0.69 | GiX = -21.43 | GiY = -6.58 | GiZ = -31.41 | Tiempo: 1344
+ 
+AcX = -0.47 | AcY = -0.24 | AcZ = 0.68 | GiX = -19.98 | GiY = -3.42 | GiZ = -26.18 | Tiempo: 1345
+ 
+AcX = -0.48 | AcY = -0.24 | AcZ = 0.71 | GiX = -19.46 | GiY = -6.93 | GiZ = -26.40 | Tiempo: 1346
+ 
+AcX = -0.45 | AcY = -0.24 | AcZ = 0.72 | GiX = -17.88 | GiY = -4.15 | GiZ = -19.62 | Tiempo: 1347
+ 
+AcX = -0.44 | AcY = -0.20 | AcZ = 0.73 | GiX = -15.20 | GiY = -3.54 | GiZ = -18.75 | Tiempo: 1348
+ 
+AcX = -0.44 | AcY = -0.26 | AcZ = 0.71 | GiX = -13.80 | GiY = -0.55 | GiZ = -10.14 | Tiempo: 1349
+ 
+AcX = -0.45 | AcY = -0.29 | AcZ = 0.71 | GiX = -12.29 | GiY = 3.04 | GiZ = -9.68 | Tiempo: 1350
+ 
+AcX = -0.45 | AcY = -0.28 | AcZ = 0.73 | GiX = -8.29 | GiY = 6.28 | GiZ = -11.83 | Tiempo: 1351
+ 
+AcX = -0.46 | AcY = -0.25 | AcZ = 0.75 | GiX = -3.51 | GiY = 5.56 | GiZ = -8.18 | Tiempo: 1352
+ 
+AcX = -0.46 | AcY = -0.26 | AcZ = 0.75 | GiX = 1.39 | GiY = 4.69 | GiZ = -2.06 | Tiempo: 1353
+ 
+AcX = -0.48 | AcY = -0.26 | AcZ = 0.74 | GiX = 5.36 | GiY = 4.35 | GiZ = 3.45 | Tiempo: 1354
+ 
+AcX = -0.48 | AcY = -0.26 | AcZ = 0.73 | GiX = 9.27 | GiY = 4.81 | GiZ = 8.91 | Tiempo: 1355
+ 
+AcX = -0.46 | AcY = -0.28 | AcZ = 0.70 | GiX = 10.95 | GiY = 6.80 | GiZ = 9.89 | Tiempo: 1356
+ 
+AcX = -0.49 | AcY = -0.22 | AcZ = 0.73 | GiX = 10.05 | GiY = 10.93 | GiZ = 3.94 | Tiempo: 1357
+ 
+AcX = -0.50 | AcY = -0.21 | AcZ = 0.70 | GiX = 12.35 | GiY = 17.42 | GiZ = 9.72 | Tiempo: 1358
+ 
+AcX = -0.50 | AcY = -0.25 | AcZ = 0.67 | GiX = 17.80 | GiY = 24.46 | GiZ = 14.38 | Tiempo: 1359
+ 
+AcX = -0.50 | AcY = -0.25 | AcZ = 0.66 | GiX = 21.70 | GiY = 29.65 | GiZ = 13.56 | Tiempo: 1360
+ 
+AcX = -0.52 | AcY = -0.22 | AcZ = 0.65 | GiX = 25.60 | GiY = 31.56 | GiZ = 12.93 | Tiempo: 1361
+ 
+AcX = -0.55 | AcY = -0.21 | AcZ = 0.62 | GiX = 26.15 | GiY = 33.09 | GiZ = 13.05 | Tiempo: 1362
+ 
+AcX = -0.58 | AcY = -0.18 | AcZ = 0.61 | GiX = 26.92 | GiY = 35.79 | GiZ = 3.48 | Tiempo: 1363
+ 
+AcX = -0.55 | AcY = -0.17 | AcZ = 0.62 | GiX = 23.42 | GiY = 26.95 | GiZ = 2.24 | Tiempo: 1364
+ 
+AcX = -0.55 | AcY = -0.12 | AcZ = 0.61 | GiX = 27.25 | GiY = 36.84 | GiZ = 5.17 | Tiempo: 1365
+ 
+AcX = -0.54 | AcY = -0.13 | AcZ = 0.60 | GiX = 24.05 | GiY = 38.47 | GiZ = 0.70 | Tiempo: 1366
+ 
+AcX = -0.59 | AcY = -0.11 | AcZ = 0.66 | GiX = 19.67 | GiY = 30.98 | GiZ = -8.96 | Tiempo: 1367
+ 
+AcX = -0.60 | AcY = -0.09 | AcZ = 0.61 | GiX = 13.76 | GiY = 22.18 | GiZ = -8.86 | Tiempo: 1368
+ 
+AcX = -0.61 | AcY = -0.06 | AcZ = 0.58 | GiX = 6.92 | GiY = 17.76 | GiZ = -6.73 | Tiempo: 1369
+ 
+AcX = -0.61 | AcY = -0.03 | AcZ = 0.59 | GiX = 2.80 | GiY = 10.72 | GiZ = -6.47 | Tiempo: 1370
+ 
+AcX = -0.64 | AcY = -0.04 | AcZ = 0.57 | GiX = 0.12 | GiY = 3.09 | GiZ = 1.45 | Tiempo: 1371
+ 
+AcX = -0.64 | AcY = -0.03 | AcZ = 0.55 | GiX = -0.87 | GiY = 0.14 | GiZ = 6.09 | Tiempo: 1372
+ 
+AcX = -0.62 | AcY = -0.05 | AcZ = 0.54 | GiX = -2.30 | GiY = -5.54 | GiZ = 10.26 | Tiempo: 1373
+ 
+AcX = -0.63 | AcY = -0.03 | AcZ = 0.53 | GiX = 3.16 | GiY = -5.28 | GiZ = 16.64 | Tiempo: 1374
+ 
+AcX = -0.61 | AcY = -0.00 | AcZ = 0.55 | GiX = 10.54 | GiY = -7.27 | GiZ = 24.04 | Tiempo: 1375
+ 
+AcX = -0.59 | AcY = -0.07 | AcZ = 0.53 | GiX = 7.28 | GiY = -9.07 | GiZ = 24.55 | Tiempo: 1376
+ 
+AcX = -0.59 | AcY = -0.06 | AcZ = 0.49 | GiX = 2.37 | GiY = -6.06 | GiZ = 14.47 | Tiempo: 1377
+ 
+AcX = -0.57 | AcY = -0.08 | AcZ = 0.49 | GiX = -2.81 | GiY = -11.69 | GiZ = 11.37 | Tiempo: 1378
+ 
+AcX = -0.58 | AcY = -0.06 | AcZ = 0.50 | GiX = -4.84 | GiY = -8.70 | GiZ = 5.56 | Tiempo: 1379
+ 
+AcX = -0.56 | AcY = -0.05 | AcZ = 0.53 | GiX = -2.21 | GiY = -7.95 | GiZ = 7.34 | Tiempo: 1380
+ 
+AcX = -0.55 | AcY = -0.07 | AcZ = 0.51 | GiX = -0.96 | GiY = -4.78 | GiZ = 7.88 | Tiempo: 1381
+ 
+AcX = -0.55 | AcY = -0.09 | AcZ = 0.48 | GiX = -4.18 | GiY = -3.01 | GiZ = 6.14 | Tiempo: 1382
+ 
+AcX = -0.53 | AcY = -0.12 | AcZ = 0.52 | GiX = -7.02 | GiY = -1.31 | GiZ = -1.30 | Tiempo: 1383
+ 
+AcX = -0.53 | AcY = -0.10 | AcZ = 0.55 | GiX = -9.60 | GiY = -1.69 | GiZ = -2.98 | Tiempo: 1384
+ 
+AcX = -0.53 | AcY = -0.09 | AcZ = 0.56 | GiX = -14.56 | GiY = -7.56 | GiZ = -6.55 | Tiempo: 1385
+ 
+AcX = -0.52 | AcY = -0.06 | AcZ = 0.58 | GiX = -12.98 | GiY = -5.63 | GiZ = -2.31 | Tiempo: 1386
+ 
+AcX = -0.51 | AcY = -0.07 | AcZ = 0.57 | GiX = -13.43 | GiY = -8.50 | GiZ = 1.30 | Tiempo: 1387
+ 
+AcX = -0.51 | AcY = -0.12 | AcZ = 0.58 | GiX = -10.24 | GiY = -7.42 | GiZ = 3.08 | Tiempo: 1388
+ 
+AcX = -0.52 | AcY = -0.11 | AcZ = 0.58 | GiX = -10.15 | GiY = -8.43 | GiZ = 1.80 | Tiempo: 1389
+ 
+AcX = -0.51 | AcY = -0.13 | AcZ = 0.57 | GiX = -11.54 | GiY = -7.43 | GiZ = -0.81 | Tiempo: 1390
+ 
+AcX = -0.52 | AcY = -0.13 | AcZ = 0.59 | GiX = -10.73 | GiY = -6.27 | GiZ = 2.56 | Tiempo: 1391
+ 
+AcX = -0.50 | AcY = -0.14 | AcZ = 0.60 | GiX = -9.20 | GiY = -5.39 | GiZ = 2.67 | Tiempo: 1392
+ 
+AcX = -0.49 | AcY = -0.17 | AcZ = 0.61 | GiX = -10.21 | GiY = -4.73 | GiZ = -0.25 | Tiempo: 1393
+ 
+AcX = -0.50 | AcY = -0.14 | AcZ = 0.62 | GiX = -11.34 | GiY = -5.85 | GiZ = -2.49 | Tiempo: 1394
+ 
+AcX = -0.49 | AcY = -0.15 | AcZ = 0.62 | GiX = -9.31 | GiY = -5.56 | GiZ = 0.08 | Tiempo: 1395
+ 
+AcX = -0.48 | AcY = -0.13 | AcZ = 0.63 | GiX = -4.87 | GiY = -1.20 | GiZ = 2.38 | Tiempo: 1396
+ 
+AcX = -0.49 | AcY = -0.12 | AcZ = 0.64 | GiX = 0.70 | GiY = 1.18 | GiZ = 8.81 | Tiempo: 1397
+ 
+AcX = -0.46 | AcY = -0.13 | AcZ = 0.65 | GiX = 6.31 | GiY = 4.95 | GiZ = 9.04 | Tiempo: 1398
+ 
+AcX = -0.45 | AcY = -0.13 | AcZ = 0.65 | GiX = 11.56 | GiY = 1.76 | GiZ = 12.90 | Tiempo: 1399
+ 
+AcX = -0.46 | AcY = -0.14 | AcZ = 0.65 | GiX = 12.09 | GiY = 0.29 | GiZ = 12.62 | Tiempo: 1400
+ 
+AcX = -0.45 | AcY = -0.14 | AcZ = 0.63 | GiX = 11.21 | GiY = -0.12 | GiZ = 13.34 | Tiempo: 1401
+ 
+AcX = -0.43 | AcY = -0.15 | AcZ = 0.61 | GiX = 10.98 | GiY = -2.85 | GiZ = 14.23 | Tiempo: 1402
+ 
+AcX = -0.42 | AcY = -0.18 | AcZ = 0.60 | GiX = 5.02 | GiY = -7.89 | GiZ = 8.88 | Tiempo: 1403
+ 
+AcX = -0.45 | AcY = -0.19 | AcZ = 0.59 | GiX = -1.05 | GiY = -9.95 | GiZ = 1.22 | Tiempo: 1404
+ 
+AcX = -0.47 | AcY = -0.11 | AcZ = 0.60 | GiX = -3.94 | GiY = -10.58 | GiZ = -5.05 | Tiempo: 1405
+ 
+AcX = -0.41 | AcY = -0.09 | AcZ = 0.66 | GiX = -2.52 | GiY = -9.97 | GiZ = 0.44 | Tiempo: 1406
+ 
+AcX = -0.37 | AcY = -0.17 | AcZ = 0.61 | GiX = -5.13 | GiY = -13.98 | GiZ = 6.79 | Tiempo: 1407
+ 
+AcX = -0.42 | AcY = -0.19 | AcZ = 0.57 | GiX = -6.43 | GiY = -14.44 | GiZ = 2.01 | Tiempo: 1408
+ 
+AcX = -0.42 | AcY = -0.20 | AcZ = 0.58 | GiX = -2.70 | GiY = -10.03 | GiZ = -8.83 | Tiempo: 1409
+ 
+AcX = -0.41 | AcY = -0.16 | AcZ = 0.62 | GiX = -6.04 | GiY = -7.27 | GiZ = -9.86 | Tiempo: 1410
+ 
+AcX = -0.40 | AcY = -0.15 | AcZ = 0.60 | GiX = -9.16 | GiY = -5.63 | GiZ = -6.61 | Tiempo: 1411
+ 
+AcX = -0.41 | AcY = -0.15 | AcZ = 0.62 | GiX = -11.62 | GiY = -7.24 | GiZ = -10.60 | Tiempo: 1412
+ 
+AcX = -0.39 | AcY = -0.13 | AcZ = 0.66 | GiX = -10.15 | GiY = -9.14 | GiZ = -8.60 | Tiempo: 1413
+ 
+AcX = -0.36 | AcY = -0.12 | AcZ = 0.68 | GiX = -9.04 | GiY = -13.97 | GiZ = 0.06 | Tiempo: 1414
+ 
+AcX = -0.35 | AcY = -0.06 | AcZ = 0.74 | GiX = -5.13 | GiY = -20.59 | GiZ = 12.17 | Tiempo: 1415
+ 
+AcX = -0.36 | AcY = -0.09 | AcZ = 0.66 | GiX = 3.09 | GiY = -23.14 | GiZ = 25.98 | Tiempo: 1416
+ 
+AcX = -0.32 | AcY = -0.16 | AcZ = 0.57 | GiX = 11.19 | GiY = -16.93 | GiZ = 23.57 | Tiempo: 1417
+ 
+AcX = -0.31 | AcY = -0.21 | AcZ = 0.57 | GiX = 16.75 | GiY = -13.31 | GiZ = 16.29 | Tiempo: 1418
+ 
+AcX = -0.30 | AcY = -0.18 | AcZ = 0.62 | GiX = 15.36 | GiY = -12.32 | GiZ = 6.99 | Tiempo: 1419
+ 
+AcX = -0.27 | AcY = -0.16 | AcZ = 0.63 | GiX = 12.75 | GiY = -16.36 | GiZ = 5.91 | Tiempo: 1420
+ 
+AcX = -0.26 | AcY = -0.13 | AcZ = 0.60 | GiX = 13.01 | GiY = -17.66 | GiZ = 5.59 | Tiempo: 1421
+ 
+AcX = -0.23 | AcY = -0.14 | AcZ = 0.57 | GiX = 15.56 | GiY = -17.46 | GiZ = 10.38 | Tiempo: 1422
+ 
+AcX = -0.23 | AcY = -0.16 | AcZ = 0.55 | GiX = 18.06 | GiY = -14.61 | GiZ = 13.80 | Tiempo: 1423
+ 
+AcX = -0.21 | AcY = -0.14 | AcZ = 0.54 | GiX = 18.41 | GiY = -12.50 | GiZ = 10.01 | Tiempo: 1424
+ 
+AcX = -0.19 | AcY = -0.12 | AcZ = 0.55 | GiX = 17.94 | GiY = -16.06 | GiZ = 12.06 | Tiempo: 1425
+ 
+AcX = -0.19 | AcY = -0.13 | AcZ = 0.50 | GiX = 15.96 | GiY = -13.48 | GiZ = 16.90 | Tiempo: 1426
+ 
+AcX = -0.18 | AcY = -0.12 | AcZ = 0.50 | GiX = 10.99 | GiY = -15.60 | GiZ = 17.83 | Tiempo: 1427
+ 
+AcX = -0.15 | AcY = -0.14 | AcZ = 0.49 | GiX = 9.04 | GiY = -9.48 | GiZ = 13.80 | Tiempo: 1428
+ 
+AcX = -0.14 | AcY = -0.11 | AcZ = 0.50 | GiX = 4.15 | GiY = -19.80 | GiZ = 12.56 | Tiempo: 1429
+ 
+AcX = -0.11 | AcY = -0.13 | AcZ = 0.47 | GiX = 2.81 | GiY = -19.62 | GiZ = 19.50 | Tiempo: 1430
+ 
+AcX = -0.09 | AcY = -0.14 | AcZ = 0.44 | GiX = -0.11 | GiY = -20.09 | GiZ = 23.21 | Tiempo: 1431
+ 
+AcX = -0.09 | AcY = -0.16 | AcZ = 0.41 | GiX = -3.71 | GiY = -22.18 | GiZ = 16.76 | Tiempo: 1432
+ 
+AcX = -0.07 | AcY = -0.16 | AcZ = 0.41 | GiX = 0.23 | GiY = -14.26 | GiZ = 6.58 | Tiempo: 1433
+ 
+AcX = -0.04 | AcY = -0.12 | AcZ = 0.43 | GiX = -5.07 | GiY = -11.74 | GiZ = 8.24 | Tiempo: 1434
+ 
+AcX = 0.00 | AcY = -0.16 | AcZ = 0.40 | GiX = -1.63 | GiY = -11.30 | GiZ = 7.14 | Tiempo: 1435
+ 
+AcX = -0.01 | AcY = -0.16 | AcZ = 0.32 | GiX = 0.06 | GiY = -1.24 | GiZ = 3.50 | Tiempo: 1436
+ 
+AcX = -0.02 | AcY = -0.15 | AcZ = 0.39 | GiX = 1.24 | GiY = 0.35 | GiZ = -5.48 | Tiempo: 1437
+ 
+AcX = -0.03 | AcY = -0.14 | AcZ = 0.41 | GiX = 10.15 | GiY = 0.20 | GiZ = -7.24 | Tiempo: 1438
+ 
+AcX = 0.00 | AcY = -0.09 | AcZ = 0.43 | GiX = 13.36 | GiY = -1.07 | GiZ = -7.13 | Tiempo: 1439
+ 
+AcX = -0.03 | AcY = -0.15 | AcZ = 0.43 | GiX = 24.96 | GiY = -4.26 | GiZ = -9.89 | Tiempo: 1440
+ 
+AcX = -0.02 | AcY = -0.13 | AcZ = 0.41 | GiX = 38.90 | GiY = -7.48 | GiZ = -10.89 | Tiempo: 1441
+ 
+AcX = -0.01 | AcY = -0.04 | AcZ = 0.38 | GiX = 40.37 | GiY = -8.29 | GiZ = -0.98 | Tiempo: 1442
+ 
+AcX = -0.07 | AcY = -0.08 | AcZ = 0.31 | GiX = 28.64 | GiY = -1.02 | GiZ = 2.67 | Tiempo: 1443
+ 
+AcX = -0.02 | AcY = -0.08 | AcZ = 0.29 | GiX = 5.19 | GiY = 1.59 | GiZ = -0.02 | Tiempo: 1444
+ 
+AcX = -0.01 | AcY = -0.06 | AcZ = 0.31 | GiX = 0.15 | GiY = 0.73 | GiZ = 4.61 | Tiempo: 1445
+ 
+AcX = -0.01 | AcY = -0.07 | AcZ = 0.30 | GiX = -4.12 | GiY = -0.24 | GiZ = 0.67 | Tiempo: 1446
+ 
+AcX = -0.02 | AcY = -0.07 | AcZ = 0.31 | GiX = -6.62 | GiY = -8.32 | GiZ = 5.25 | Tiempo: 1447
+ 
+AcX = -0.03 | AcY = -0.09 | AcZ = 0.35 | GiX = -4.47 | GiY = -5.27 | GiZ = 6.21 | Tiempo: 1448
+ 
+AcX = -0.00 | AcY = -0.08 | AcZ = 0.35 | GiX = -4.29 | GiY = 0.90 | GiZ = 6.40 | Tiempo: 1449
+ 
+AcX = -0.01 | AcY = -0.05 | AcZ = 0.31 | GiX = -9.48 | GiY = 7.38 | GiZ = -1.63 | Tiempo: 1450
+ 
+AcX = 0.18 | AcY = 0.04 | AcZ = 0.37 | GiX = 4.28 | GiY = -7.01 | GiZ = 14.52 | Tiempo: 1451
+ 
+AcX = -0.03 | AcY = -0.08 | AcZ = 0.35 | GiX = -3.63 | GiY = 7.27 | GiZ = -2.76 | Tiempo: 1452
+ 
+AcX = -0.02 | AcY = -0.10 | AcZ = 0.32 | GiX = -1.28 | GiY = -1.27 | GiZ = 5.85 | Tiempo: 1453
+ 
+AcX = -0.01 | AcY = -0.08 | AcZ = 0.34 | GiX = 0.86 | GiY = 2.44 | GiZ = 7.37 | Tiempo: 1454
+ 
+AcX = -0.01 | AcY = -0.10 | AcZ = 0.32 | GiX = -1.88 | GiY = 1.67 | GiZ = 9.62 | Tiempo: 1455
+ 
+AcX = 0.01 | AcY = -0.12 | AcZ = 0.34 | GiX = 0.78 | GiY = 1.51 | GiZ = 6.75 | Tiempo: 1456
+ 
+AcX = 0.03 | AcY = -0.10 | AcZ = 0.34 | GiX = -1.27 | GiY = -4.14 | GiZ = 8.20 | Tiempo: 1457
+ 
+AcX = 0.02 | AcY = -0.07 | AcZ = 0.40 | GiX = -1.72 | GiY = -3.34 | GiZ = 7.27 | Tiempo: 1458
+ 
+AcX = 0.03 | AcY = -0.12 | AcZ = 0.37 | GiX = 2.84 | GiY = 9.71 | GiZ = -6.25 | Tiempo: 1459
+ 
+AcX = 0.00 | AcY = -0.10 | AcZ = 0.36 | GiX = 3.22 | GiY = 12.55 | GiZ = -6.78 | Tiempo: 1460
+ 
+AcX = 0.08 | AcY = -0.07 | AcZ = 0.36 | GiX = 4.57 | GiY = 11.97 | GiZ = -10.63 | Tiempo: 1461
+ 
+AcX = -0.02 | AcY = -0.02 | AcZ = 0.40 | GiX = 10.22 | GiY = 18.63 | GiZ = -23.60 | Tiempo: 1462
+ 
+AcX = -0.11 | AcY = -0.13 | AcZ = 0.34 | GiX = 6.78 | GiY = 8.23 | GiZ = -4.84 | Tiempo: 1463
+ 
+AcX = -0.05 | AcY = -0.14 | AcZ = 0.30 | GiX = 12.28 | GiY = 4.99 | GiZ = -8.57 | Tiempo: 1464
+ 
+AcX = -0.05 | AcY = -0.07 | AcZ = 0.32 | GiX = 14.92 | GiY = 3.35 | GiZ = -7.59 | Tiempo: 1465
+ 
+AcX = -0.02 | AcY = -0.01 | AcZ = 0.37 | GiX = 14.32 | GiY = -6.43 | GiZ = -0.37 | Tiempo: 1466
+ 
+AcX = -0.03 | AcY = -0.05 | AcZ = 0.31 | GiX = 12.72 | GiY = -17.48 | GiZ = 6.76 | Tiempo: 1467
+ 
+AcX = -0.04 | AcY = -0.07 | AcZ = 0.28 | GiX = 9.88 | GiY = -23.49 | GiZ = 3.02 | Tiempo: 1468
+ 
+AcX = -0.05 | AcY = -0.09 | AcZ = 0.29 | GiX = -0.29 | GiY = -8.85 | GiZ = -8.14 | Tiempo: 1469
+ 
+AcX = -0.04 | AcY = -0.03 | AcZ = 0.33 | GiX = 4.81 | GiY = 4.15 | GiZ = -9.67 | Tiempo: 1470
+ 
+AcX = -0.05 | AcY = -0.04 | AcZ = 0.27 | GiX = 5.89 | GiY = 10.61 | GiZ = 0.44 | Tiempo: 1471
+ 
+AcX = -0.06 | AcY = -0.04 | AcZ = 0.31 | GiX = 5.18 | GiY = 18.72 | GiZ = -4.92 | Tiempo: 1472
+ 
+AcX = -0.06 | AcY = -0.03 | AcZ = 0.27 | GiX = 0.09 | GiY = 4.52 | GiZ = -1.76 | Tiempo: 1473
+ 
+AcX = -0.05 | AcY = -0.06 | AcZ = 0.28 | GiX = 1.73 | GiY = 4.43 | GiZ = 5.97 | Tiempo: 1474
+ 
+AcX = -0.02 | AcY = -0.02 | AcZ = 0.31 | GiX = -1.19 | GiY = 1.07 | GiZ = 6.73 | Tiempo: 1475
+ 
+AcX = -0.05 | AcY = 0.18 | AcZ = 0.17 | GiX = 3.21 | GiY = 0.81 | GiZ = 24.84 | Tiempo: 1476
+ 
+AcX = -0.04 | AcY = -0.08 | AcZ = 0.31 | GiX = -3.45 | GiY = -2.41 | GiZ = 14.99 | Tiempo: 1477
+ 
+AcX = -0.01 | AcY = -0.10 | AcZ = 0.33 | GiX = -4.26 | GiY = -2.52 | GiZ = 8.88 | Tiempo: 1478
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.29 | GiX = -1.42 | GiY = 0.86 | GiZ = -2.86 | Tiempo: 1479
+ 
+AcX = -0.01 | AcY = -0.07 | AcZ = 0.30 | GiX = -0.79 | GiY = -5.57 | GiZ = 8.66 | Tiempo: 1480
+ 
+AcX = 0.00 | AcY = -0.08 | AcZ = 0.30 | GiX = 2.26 | GiY = 0.02 | GiZ = 4.84 | Tiempo: 1481
+ 
+AcX = 0.02 | AcY = -0.07 | AcZ = 0.34 | GiX = 4.46 | GiY = -3.24 | GiZ = 5.82 | Tiempo: 1482
+ 
+AcX = 0.01 | AcY = -0.07 | AcZ = 0.31 | GiX = 1.39 | GiY = 0.38 | GiZ = 6.38 | Tiempo: 1483
+ 
+AcX = -0.01 | AcY = 0.06 | AcZ = 0.26 | GiX = 0.83 | GiY = 10.31 | GiZ = -9.51 | Tiempo: 1484
+ 
+AcX = -0.02 | AcY = -0.04 | AcZ = 0.18 | GiX = 2.83 | GiY = 1.59 | GiZ = -1.42 | Tiempo: 1485
+ 
+AcX = -0.01 | AcY = -0.08 | AcZ = 0.28 | GiX = 1.77 | GiY = 1.73 | GiZ = -5.62 | Tiempo: 1486
+ 
+AcX = -0.01 | AcY = -0.06 | AcZ = 0.28 | GiX = 1.64 | GiY = 1.07 | GiZ = 1.28 | Tiempo: 1487
+ 
+AcX = 0.00 | AcY = -0.07 | AcZ = 0.27 | GiX = 6.67 | GiY = -0.69 | GiZ = 4.46 | Tiempo: 1488
+ 
+AcX = 0.02 | AcY = -0.07 | AcZ = 0.32 | GiX = 9.68 | GiY = 3.70 | GiZ = -4.05 | Tiempo: 1489
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.30 | GiX = 20.70 | GiY = -1.89 | GiZ = 1.04 | Tiempo: 1490
+ 
+AcX = -0.04 | AcY = -0.08 | AcZ = 0.20 | GiX = 22.43 | GiY = 13.88 | GiZ = 2.11 | Tiempo: 1491
+ 
+AcX = -0.03 | AcY = -0.05 | AcZ = 0.13 | GiX = 5.79 | GiY = 10.93 | GiZ = 0.79 | Tiempo: 1492
+ 
+AcX = -0.00 | AcY = -0.06 | AcZ = 0.13 | GiX = 16.14 | GiY = 0.83 | GiZ = 3.10 | Tiempo: 1493
+ 
+AcX = 0.02 | AcY = -0.06 | AcZ = 0.24 | GiX = 4.54 | GiY = 2.26 | GiZ = 1.97 | Tiempo: 1494
+ 
+AcX = 0.03 | AcY = -0.08 | AcZ = 0.18 | GiX = 2.44 | GiY = 1.57 | GiZ = 2.26 | Tiempo: 1495
+ 
+AcX = 0.02 | AcY = -0.01 | AcZ = 0.26 | GiX = 18.23 | GiY = -6.35 | GiZ = 4.04 | Tiempo: 1496
+ 
+AcX = 0.03 | AcY = -0.07 | AcZ = 0.24 | GiX = 7.74 | GiY = -10.76 | GiZ = 4.93 | Tiempo: 1497
+ 
+AcX = -1.53 | AcY = -1.18 | AcZ = 3.23 | GiX = 27.73 | GiY = -498.87 | GiZ = -26.78 | Tiempo: 1498
+Posible caída
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = 3.71 | GiY = 2.41 | GiZ = -12.44 | Tiempo: 1499
+Falsa detección
+AcX = 0.01 | AcY = -0.02 | AcZ = 0.11 | GiX = -1.13 | GiY = -0.23 | GiZ = -1.21 | Tiempo: 1500
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = -1.16 | GiY = -0.29 | GiZ = 1.19 | Tiempo: 1501
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.15 | GiX = -0.56 | GiY = 0.46 | GiZ = -3.70 | Tiempo: 1502
+ 
+AcX = -0.01 | AcY = -0.04 | AcZ = 0.15 | GiX = -1.19 | GiY = -1.72 | GiZ = -5.05 | Tiempo: 1503
+ 
+AcX = -0.00 | AcY = -0.02 | AcZ = 0.17 | GiX = -1.28 | GiY = -2.53 | GiZ = -5.07 | Tiempo: 1504
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.16 | GiX = -4.03 | GiY = -3.91 | GiZ = -5.53 | Tiempo: 1505
+ 
+AcX = -0.01 | AcY = -0.01 | AcZ = 0.10 | GiX = -2.56 | GiY = -6.12 | GiZ = 2.30 | Tiempo: 1506
+ 
+AcX = -0.04 | AcY = -0.05 | AcZ = 0.01 | GiX = -2.15 | GiY = 14.63 | GiZ = 10.53 | Tiempo: 1507
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.26 | GiX = -1.48 | GiY = -8.69 | GiZ = 0.87 | Tiempo: 1508
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.18 | GiX = -0.52 | GiY = -0.58 | GiZ = -3.30 | Tiempo: 1509
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = 0.31 | GiY = -2.79 | GiZ = -4.40 | Tiempo: 1510
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.17 | GiX = -0.70 | GiY = -1.63 | GiZ = -2.21 | Tiempo: 1511
+ 
+AcX = -0.00 | AcY = -0.03 | AcZ = 0.16 | GiX = -0.73 | GiY = -2.12 | GiZ = 0.03 | Tiempo: 1512
+ 
+AcX = -0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = -0.76 | GiY = -2.49 | GiZ = -0.92 | Tiempo: 1513
+ 
+AcX = -0.01 | AcY = -0.02 | AcZ = 0.16 | GiX = 0.57 | GiY = 1.18 | GiZ = -0.47 | Tiempo: 1514
+ 
+AcX = 0.02 | AcY = -0.03 | AcZ = 0.16 | GiX = 1.73 | GiY = 2.11 | GiZ = 3.10 | Tiempo: 1515
+ 
+AcX = 0.00 | AcY = -0.05 | AcZ = 0.13 | GiX = 2.18 | GiY = 1.88 | GiZ = 4.27 | Tiempo: 1516
+ 
+AcX = 0.00 | AcY = -0.03 | AcZ = 0.16 | GiX = 1.88 | GiY = 1.15 | GiZ = 3.10 | Tiempo: 1517
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.16 | GiX = 1.38 | GiY = 1.47 | GiZ = -0.20 | Tiempo: 1518
+ 
+AcX = 0.00 | AcY = -0.04 | AcZ = 0.15 | GiX = 0.87 | GiY = 2.15 | GiZ = -1.24 | Tiempo: 1519
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.81 | GiY = 0.83 | GiZ = -4.09 | Tiempo: 1520
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = 1.27 | GiY = 3.48 | GiZ = 2.55 | Tiempo: 1521
+ 
+AcX = 0.00 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.75 | GiY = 1.54 | GiZ = 3.60 | Tiempo: 1522
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.16 | GiX = 1.22 | GiY = 2.83 | GiZ = 1.94 | Tiempo: 1523
+ 
+AcX = 0.02 | AcY = -0.03 | AcZ = 0.17 | GiX = 0.93 | GiY = 1.09 | GiZ = 2.81 | Tiempo: 1524
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.15 | GiX = 1.85 | GiY = 2.81 | GiZ = 7.01 | Tiempo: 1525
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.15 | GiX = 1.91 | GiY = 0.93 | GiZ = 3.51 | Tiempo: 1526
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.14 | GiX = 0.90 | GiY = -0.03 | GiZ = 2.49 | Tiempo: 1527
+ 
+AcX = 0.03 | AcY = -0.06 | AcZ = 0.17 | GiX = 0.22 | GiY = -2.43 | GiZ = 1.34 | Tiempo: 1528
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.05 | GiY = -3.49 | GiZ = 0.41 | Tiempo: 1529
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.15 | GiX = -1.27 | GiY = -4.32 | GiZ = -2.09 | Tiempo: 1530
+ 
+AcX = 0.05 | AcY = -0.05 | AcZ = 0.16 | GiX = -4.00 | GiY = -10.11 | GiZ = -2.31 | Tiempo: 1531
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -7.11 | GiY = -22.24 | GiZ = -1.71 | Tiempo: 1532
+ 
+AcX = 0.04 | AcY = -0.05 | AcZ = 0.15 | GiX = -7.57 | GiY = -13.97 | GiZ = 0.79 | Tiempo: 1533
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.15 | GiX = -8.04 | GiY = -11.02 | GiZ = 3.80 | Tiempo: 1534
+ 
+AcX = 0.04 | AcY = -0.07 | AcZ = 0.15 | GiX = -9.71 | GiY = -13.92 | GiZ = 5.28 | Tiempo: 1535
+ 
+AcX = 0.08 | AcY = -0.07 | AcZ = 0.23 | GiX = -11.16 | GiY = -13.60 | GiZ = 4.30 | Tiempo: 1536
+ 
+AcX = 0.05 | AcY = -0.06 | AcZ = 0.16 | GiX = -11.34 | GiY = -2.53 | GiZ = -3.31 | Tiempo: 1537
+ 
+AcX = 0.06 | AcY = -0.05 | AcZ = 0.19 | GiX = -13.33 | GiY = -2.96 | GiZ = -5.18 | Tiempo: 1538
+ 
+AcX = 0.05 | AcY = -0.05 | AcZ = 0.16 | GiX = -11.51 | GiY = -0.26 | GiZ = -4.66 | Tiempo: 1539
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.18 | GiX = -7.42 | GiY = -1.69 | GiZ = -2.99 | Tiempo: 1540
+ 
+AcX = 0.02 | AcY = -0.06 | AcZ = 0.16 | GiX = -5.51 | GiY = -0.96 | GiZ = -3.91 | Tiempo: 1541
+ 
+AcX = 0.05 | AcY = -0.07 | AcZ = 0.19 | GiX = -4.01 | GiY = 3.79 | GiZ = -4.41 | Tiempo: 1542
+ 
+AcX = 0.05 | AcY = -0.05 | AcZ = 0.20 | GiX = -5.01 | GiY = 3.01 | GiZ = -3.15 | Tiempo: 1543
+ 
+AcX = 0.04 | AcY = -0.06 | AcZ = 0.20 | GiX = -8.07 | GiY = 0.17 | GiZ = -1.67 | Tiempo: 1544
+ 
+AcX = 0.04 | AcY = -0.07 | AcZ = 0.21 | GiX = -9.54 | GiY = -2.76 | GiZ = -2.98 | Tiempo: 1545
+ 
+AcX = -0.00 | AcY = -0.05 | AcZ = 0.11 | GiX = -8.20 | GiY = -1.42 | GiZ = -3.86 | Tiempo: 1546
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.21 | GiX = -4.12 | GiY = -4.30 | GiZ = -3.48 | Tiempo: 1547
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.20 | GiX = -0.17 | GiY = 0.20 | GiZ = -3.53 | Tiempo: 1548
+ 
+AcX = 0.01 | AcY = -0.03 | AcZ = 0.20 | GiX = 2.95 | GiY = 2.51 | GiZ = -1.86 | Tiempo: 1549
+ 
+AcX = 0.01 | AcY = -0.06 | AcZ = 0.21 | GiX = 5.73 | GiY = -0.32 | GiZ = -2.03 | Tiempo: 1550
+ 
+AcX = -0.00 | AcY = -0.05 | AcZ = 0.24 | GiX = 6.26 | GiY = 0.72 | GiZ = -0.83 | Tiempo: 1551
+ 
+AcX = 0.03 | AcY = -0.03 | AcZ = 0.22 | GiX = 5.19 | GiY = 2.06 | GiZ = -4.46 | Tiempo: 1552
+ 
+AcX = -0.01 | AcY = -0.04 | AcZ = 0.20 | GiX = 6.61 | GiY = 1.22 | GiZ = 1.02 | Tiempo: 1553
+ 
+AcX = -0.00 | AcY = -0.06 | AcZ = 0.20 | GiX = 5.76 | GiY = 0.25 | GiZ = -1.88 | Tiempo: 1554
+ 
+AcX = -0.01 | AcY = -0.04 | AcZ = 0.17 | GiX = 3.83 | GiY = 3.62 | GiZ = 0.23 | Tiempo: 1555
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.20 | GiX = 3.96 | GiY = 0.17 | GiZ = 1.28 | Tiempo: 1556
+ 
+AcX = 0.01 | AcY = -0.04 | AcZ = 0.20 | GiX = 3.45 | GiY = 0.35 | GiZ = 2.67 | Tiempo: 1557
+ 
+AcX = 0.02 | AcY = -0.06 | AcZ = 0.19 | GiX = 3.04 | GiY = -0.65 | GiZ = 2.87 | Tiempo: 1558
+ 
+AcX = 0.03 | AcY = -0.06 | AcZ = 0.20 | GiX = 1.99 | GiY = -1.57 | GiZ = 3.37 | Tiempo: 1559
+ 
+AcX = -0.02 | AcY = -0.05 | AcZ = 0.21 | GiX = 0.63 | GiY = -4.21 | GiZ = 1.39 | Tiempo: 1560
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.17 | GiX = 0.55 | GiY = -2.15 | GiZ = -1.99 | Tiempo: 1561
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.17 | GiX = 1.47 | GiY = -1.45 | GiZ = 1.25 | Tiempo: 1562
+ 
+AcX = 0.05 | AcY = -0.06 | AcZ = 0.20 | GiX = 2.09 | GiY = -4.14 | GiZ = 1.66 | Tiempo: 1563
+ 
+AcX = 0.01 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.81 | GiY = -2.91 | GiZ = 0.38 | Tiempo: 1564
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.84 | GiY = -2.85 | GiZ = -0.89 | Tiempo: 1565
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.17 | GiX = 1.16 | GiY = -1.28 | GiZ = -0.28 | Tiempo: 1566
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.17 | GiX = 1.30 | GiY = -0.96 | GiZ = 0.59 | Tiempo: 1567
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.29 | GiY = -1.11 | GiZ = -0.31 | Tiempo: 1568
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.32 | GiY = -2.35 | GiZ = -0.58 | Tiempo: 1569
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.15 | GiX = 0.47 | GiY = -0.95 | GiZ = -1.39 | Tiempo: 1570
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.20 | GiY = -0.64 | GiZ = -1.02 | Tiempo: 1571
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.69 | GiY = 0.63 | GiZ = 0.33 | Tiempo: 1572
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.87 | GiY = -0.20 | GiZ = 0.18 | Tiempo: 1573
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.44 | GiY = -0.18 | GiZ = -0.66 | Tiempo: 1574
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.43 | GiY = 0.23 | GiZ = -0.46 | Tiempo: 1575
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.32 | GiY = 1.10 | GiZ = -0.72 | Tiempo: 1576
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.47 | GiY = 0.47 | GiZ = -1.16 | Tiempo: 1577
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.78 | GiY = 0.64 | GiZ = 0.70 | Tiempo: 1578
+ 
+AcX = 0.01 | AcY = -0.05 | AcZ = 0.18 | GiX = 1.25 | GiY = 0.46 | GiZ = -1.18 | Tiempo: 1579
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.16 | GiX = 0.43 | GiY = 0.35 | GiZ = -2.00 | Tiempo: 1580
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.44 | GiY = 1.31 | GiZ = -0.23 | Tiempo: 1581
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.16 | GiX = 0.93 | GiY = 0.93 | GiZ = 0.03 | Tiempo: 1582
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.17 | GiY = 0.47 | GiZ = -0.89 | Tiempo: 1583
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.16 | GiX = -0.15 | GiY = 0.73 | GiZ = -0.40 | Tiempo: 1584
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.17 | GiX = 0.17 | GiY = 0.37 | GiZ = 0.03 | Tiempo: 1585
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.17 | GiX = -0.43 | GiY = -0.32 | GiZ = -0.03 | Tiempo: 1586
+ 
+AcX = 0.01 | AcY = -0.05 | AcZ = 0.17 | GiX = 0.25 | GiY = 2.03 | GiZ = 2.67 | Tiempo: 1587
+ 
+AcX = 0.01 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.17 | GiY = -1.01 | GiZ = 0.37 | Tiempo: 1588
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.59 | GiY = 0.60 | GiZ = -0.35 | Tiempo: 1589
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.17 | GiX = 0.02 | GiY = 0.17 | GiZ = 1.59 | Tiempo: 1590
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.59 | GiY = -0.33 | GiZ = 0.90 | Tiempo: 1591
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.53 | GiY = -0.15 | GiZ = -0.14 | Tiempo: 1592
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.55 | GiY = 0.66 | GiZ = 0.91 | Tiempo: 1593
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.70 | GiY = 0.86 | GiZ = 0.27 | Tiempo: 1594
+ 
+AcX = 0.02 | AcY = -0.04 | AcZ = 0.18 | GiX = -0.49 | GiY = 0.75 | GiZ = 0.41 | Tiempo: 1595
+ 
+AcX = 0.03 | AcY = -0.04 | AcZ = 0.16 | GiX = -0.78 | GiY = -0.03 | GiZ = 0.17 | Tiempo: 1596
+ 
+AcX = 0.04 | AcY = -0.06 | AcZ = 0.17 | GiX = -0.75 | GiY = -0.72 | GiZ = 0.08 | Tiempo: 1597
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.18 | GiX = -0.93 | GiY = 0.55 | GiZ = -0.67 | Tiempo: 1598
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.53 | GiY = -1.66 | GiZ = 0.73 | Tiempo: 1599
+ 
+AcX = 0.03 | AcY = -0.06 | AcZ = 0.18 | GiX = -0.81 | GiY = -0.30 | GiZ = 0.99 | Tiempo: 1600
+ 
+AcX = 0.02 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.61 | GiY = 0.35 | GiZ = 0.69 | Tiempo: 1601
+ 
+AcX = 0.03 | AcY = -0.05 | AcZ = 0.17 | GiX = -0.75 | GiY = -0.41 | GiZ = 0.35 | Tiempo: 1602
+ 
+AcX = 0.02 | AcY = -0.06 | AcZ = 0.18 | GiX = -0.41 | GiY = 0.11 | GiZ = -0.14 | Tiempo: 1603

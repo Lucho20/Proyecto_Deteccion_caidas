@@ -1,0 +1,147 @@
+Prueba1 (sin clock modificado)
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16588	-380	2676	-284	-858	68
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16428	-388	1252	-283	-159	14
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16468	-496	1484	-261	-312	58
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16424	-424	1352	-303	-329	100
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16512	-444	1328	-276	-244	38
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16504	-548	1344	-264	-131	-61
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16416	-384	1360	-272	135	-146
+
+Prueba2  (sin clock modificado)
+Tiempo ACC: 974
+Tiempo Giro: 974
+Tiempo Total: 1948
+a[x y z] g[x y z]:	19432	-11256	21104	0	0	0
+Tiempo ACC: 975
+Tiempo Giro: 966
+Tiempo Total: 1941
+a[x y z] g[x y z]:	16404	-468	1372	-293	-183	-6
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16440	-444	1544	-289	-192	-9
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16424	-400	1460	-274	-182	26
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16456	-504	1444	-266	-173	5
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16468	-476	1456	-260	-179	16
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16432	-484	1468	-234	-191	2
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16452	-444	1532	-315	-167	0
+Tiempo ACC: 965
+Tiempo Giro: 973
+Tiempo Total: 1938
+a[x y z] g[x y z]:	16404	-488	1500	-304	-203	12
+Tiempo ACC: 965
+Tiempo Giro: 972
+Tiempo Total: 1937
+a[x y z] g[x y z]:	16388	-484	1500	-293	-227	-9
+
+Prueba3 (con clock modificado)
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16504	-384	1664	-275	-211	-7
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16444	-340	1504	-313	-196	-2
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16396	-392	1508	-256	-186	23
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16496	-340	1596	-267	-187	8
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16428	-460	1584	-274	-155	30
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16440	-420	1496	-280	-194	7
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16364	-420	1568	-319	-178	-16
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16472	-352	1444	-303	-179	-16
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16436	-424	1576	-300	-170	-1
+
+Prueba4 (con clock modificado)
+Tiempo ACC: 318
+Tiempo Giro: 318
+Tiempo Total: 636
+a[x y z] g[x y z]:	16452	-392	1504	-288	-162	2
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16456	-440	1524	-287	-213	27
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16380	-412	1444	-261	-210	-2
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16448	-408	1456	-249	-176	17
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16412	-404	1440	-270	-183	24
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16496	-452	1608	-259	-201	-24
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16492	-444	1516	-302	-148	-8
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16468	-400	1596	-259	-209	3
+Tiempo ACC: 318
+Tiempo Giro: 317
+Tiempo Total: 635
+a[x y z] g[x y z]:	16460	-420	1544	-267	-220	7
